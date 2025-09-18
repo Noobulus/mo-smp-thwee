@@ -1,2 +1,2 @@
 [client]
-jumpTheseToo = ["cfm:oak_upgraded_fence"]
+jumpTheseToo = ["cfm:oak_upgraded_fence", "supplementaries:wicker_fence"]

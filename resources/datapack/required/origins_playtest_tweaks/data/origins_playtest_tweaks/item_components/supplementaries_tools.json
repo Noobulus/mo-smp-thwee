@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "supplementaries:wrench",
+    "supplementaries:flute"
+  ],
+    "components": {
+        "minecraft:unbreakable": {
+            "show_in_tooltip": false
+        }
+    }
+}

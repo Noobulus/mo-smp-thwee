@@ -1,0 +1,6 @@
+{
+  "targets": "#c/foods/soup",
+  "components": {
+    "minecraft:max_stack_size": 16
+  }
+}

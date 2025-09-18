@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "supplementaries:straw"
+    },
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:packed_mud"
+  }
+}
