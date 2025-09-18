@@ -1591,43 +1591,43 @@ hash = "c35dd51a8dd5a89a6918d38951d11015eb7fdf2046750b6b2e90188a537967a7"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_hat.json"
-hash = "62e552a495f51bb66bbbe7d9c046a29472cfe0f9a7aead60949bcef277f7d74b"
+hash = "05e492820a5e9287bfd9fda1c0f638f921bd48034c64d9313dd3431e356a3abb"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_pants.json"
-hash = "0fc96721049f4f84e57e2ac19cd8e6b7c91daa82f969af142378ffc9bec9e698"
+hash = "548da3181d77cf5a194603dda93171805bbe6449eb051424eabfde8b014b638b"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_shirt.json"
-hash = "aafd0c98c5fb6126b5fd62107a49ce1f4b17a0199d44fe665bfc45648120c870"
+hash = "9eb71486c7f135f6571997e3de64b2d3e35aa175ca0678bf7c16a25190f91ee2"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_shoes.json"
-hash = "2ab4b2fbf831562de781b358578d13e0371d80f39eb8be120678f97360889931"
+hash = "bba8250e9e97fcc78b45931c88297efc81c32e01d5bf779016ae85f73415d8ef"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/entity/vanity.json"
-hash = "d2fff569e79b79c6d018a0ae3bddbcdbfd760824d9727db6341b5f0a0b70a38f"
+hash = "7b8f1fbbeca309249127947fc979be867398897e9a2e5b2e43367478c0ea8a33"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/group/vanity.json"
-hash = "3215603f3eabc930c2160545b1be4fa8132f09fc4ea44eca7f16c2aa295955b9"
+hash = "f1d7dcf90f8efce1285ca62e48f156956a0c85c2266477328b00e238d922d02c"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_hat.json"
-hash = "de84427b17bca84bafa0993bc37bbe77b9886e8d1d9e1fcb2f8feb0ee930e29a"
+hash = "0574c6361939d0a92fc24d6cf0722a7ffae1473bd340dd1e900370c3b0f177e1"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_pants.json"
-hash = "47134f42c293d47e97786d184824e9fb38f8bc2c2da5e7e65ea5376479bcfea9"
+hash = "a9d46ca11aef541c75d5ec263b1e0e2f48f1b6eaf7bdebad5fabf64b275bc1ef"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_shirt.json"
-hash = "a8c5df0c65216a9313d326dcac2d149a7df7be5d49eb4d2c28774e703ec4af93"
+hash = "2c2fce1988b80f1c44745168f342b0695e8cc1e6384a4384d8f7d9e41a55eacf"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_shoes.json"
-hash = "330779bbd9f0712beef7abbfdbf960932cd70c7d297019c4a7d9ec1f89c04884"
+hash = "f159cdadc1253c543f4afc3241616da8e8111c4ea4fc53e3419d845a4e18cd16"
 
 [[files]]
 file = "resources/datapack/required/Vanity Slots Migration Shim/pack.mcmeta"
@@ -3822,5 +3822,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.4.txt"
+file = "v1.1.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
