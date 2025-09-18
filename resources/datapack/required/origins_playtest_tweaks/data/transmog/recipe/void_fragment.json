@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:obsidian",
+    "Y": "minecraft:tinted_glass"
+  },
+  "pattern": [
+    " Y ",
+    "YXY",
+    " Y "
+  ],
+  "result": {
+    "count": 1,
+    "id": "transmog:void_fragment"
+  }
+}

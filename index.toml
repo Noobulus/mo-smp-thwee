@@ -1207,8 +1207,8 @@ hash = "efa5d39d637100462a286f2667b869e3bb5065e72151bb7dc65057d524e87993"
 metafile = true
 
 [[files]]
-file = "mods/maddysmanyminiaturemodifications-1.0.3.jar"
-hash = "d6dec34d93d9eb0c251fe784d3f74df194a82bf0bf18087670febadde3df245a"
+file = "mods/maddysmanyminiaturemodifications-1.0.4.jar"
+hash = "80479e807d6f08423b5b6ce41a8bfb9f805aa100aa9c7d146871212136afd758"
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
@@ -1302,11 +1302,6 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
-metafile = true
-
-[[files]]
-file = "mods/otterlib.pw.toml"
-hash = "7a3b0a07b296236dcf22f885fcfeb27dcdbf332e3dd13cb9e1a00c2abc5e41aa"
 metafile = true
 
 [[files]]
@@ -1558,11 +1553,6 @@ hash = "e6233a928624d444f0112c4d0c6ee7fd85ba2384cfff9b1382117c75dbbca572"
 metafile = true
 
 [[files]]
-file = "mods/vanity.pw.toml"
-hash = "df15fb1cbaf1cada75ab7d8d975b07997feb85e48352c8d5bd688fcb9726cb85"
-metafile = true
-
-[[files]]
 file = "mods/vault-timing.pw.toml"
 hash = "9fd0441483c53a42f3bf2fd182bc026b87d16d30b3c178931933e58e192ca61f"
 metafile = true
@@ -1598,6 +1588,50 @@ hash = "16a6159cb45b4ca8a6c63d2a479ecf4c12b32e08b3d2a7b98182adc0e8f3251b"
 [[files]]
 file = "resources/datapack/required/Tidying_3_Even_Tidier.zip"
 hash = "c35dd51a8dd5a89a6918d38951d11015eb7fdf2046750b6b2e90188a537967a7"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_hat.json"
+hash = "62e552a495f51bb66bbbe7d9c046a29472cfe0f9a7aead60949bcef277f7d74b"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_pants.json"
+hash = "0fc96721049f4f84e57e2ac19cd8e6b7c91daa82f969af142378ffc9bec9e698"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_shirt.json"
+hash = "aafd0c98c5fb6126b5fd62107a49ce1f4b17a0199d44fe665bfc45648120c870"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/accessories/tags/item/vanity_shoes.json"
+hash = "2ab4b2fbf831562de781b358578d13e0371d80f39eb8be120678f97360889931"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/entity/vanity.json"
+hash = "d2fff569e79b79c6d018a0ae3bddbcdbfd760824d9727db6341b5f0a0b70a38f"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/group/vanity.json"
+hash = "3215603f3eabc930c2160545b1be4fa8132f09fc4ea44eca7f16c2aa295955b9"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_hat.json"
+hash = "de84427b17bca84bafa0993bc37bbe77b9886e8d1d9e1fcb2f8feb0ee930e29a"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_pants.json"
+hash = "47134f42c293d47e97786d184824e9fb38f8bc2c2da5e7e65ea5376479bcfea9"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_shirt.json"
+hash = "a8c5df0c65216a9313d326dcac2d149a7df7be5d49eb4d2c28774e703ec4af93"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/data/vanityslots/accessories/slot/vanity_shoes.json"
+hash = "330779bbd9f0712beef7abbfdbf960932cd70c7d297019c4a7d9ec1f89c04884"
+
+[[files]]
+file = "resources/datapack/required/Vanity Slots Migration Shim/pack.mcmeta"
+hash = "87be38f2e894a929e23c329d2444377178399a9034c0e3d4f96e914b26041ad5"
 
 [[files]]
 file = "resources/datapack/required/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
@@ -3008,10 +3042,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "46fccfc791b2e1123b96ecdbc7e44bb7c95b28d893af1e328483e733f84010f1"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mud_alt.json"
-hash = "0f284cd85240774f260c840b158195f7727f06059a6b74a827ab671fc88f8a9d"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/name_tag.json"
 hash = "f848a4d9b7ea5dfcccd193a093b317c13d5fdad19c1d738ab15dd95e02f4fce1"
 
@@ -3334,6 +3364,18 @@ hash = "d60dda465071a1bfd3d586aa5420725af3832c01042aca540fda666bf8f6ff71"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/daub_frame_stairs.json"
 hash = "f2dbf246a7d92b7ffedfd019349829e81712938f4c2843a65da5af4dba7c93f0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/transmogrification_table.json"
+hash = "36ee800006f7b39ed3baf227d17daf5f8e7d7a6acd8267efb6617eb15d9bdab0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/void_fragment.json"
+hash = "6c23143a51ee5332bcadf1ddd4c6e663978434d7b57b1f29599e90ba48aa331c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/tags/item/transmog_fuels.json"
+hash = "907c93b1f3a7d99cebb26445801c9e315254c060cf1e24600493fab4683a0d2f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_pants.json"
@@ -3780,5 +3822,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.3.txt"
+file = "v1.1.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
