@@ -1,5 +1,12 @@
 {
   "values": [
-    "nears:cinder_bale"
+    {
+        "id": "nears:cinder_bale",
+        "required": false
+    },
+    {
+        "id": "supplementaries:sugar_cube",
+        "required": false
+    }
   ]
 }

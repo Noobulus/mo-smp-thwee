@@ -4,10 +4,10 @@
   "category": "misc",
   "key": {
     "X": {
-      "minecraft:obsidian"
+      "item": "minecraft:obsidian"
     },
     "Y": {
-      "minecraft:tinted_glass"
+      "item": "minecraft:tinted_glass"
     }
   },
   "pattern": [

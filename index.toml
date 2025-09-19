@@ -2058,7 +2058,7 @@ hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddysmanyminiaturemodifications/tags/item/horse_bulk_food.json"
-hash = "0a631251584bd34077e16951a71f351c201bc0bea84e21b7c303cae055928c9d"
+hash = "23f510146263d66e738f2133b0f8ca2393bf276d71184fab568af47eed933753"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
@@ -2398,11 +2398,11 @@ hash = "76f70540a37f32e3d4f16c8775a8709e2913e7f9f75887efa45a61c0d7ae25c9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_food.json"
-hash = "78be14d8619b3c5600e601f8036cf5b3cc49218a67a723cfeb28547da15e60b7"
+hash = "895923f5d5d5ac8755bdc550931eb6383a2a0e0d50b6018fa86cdac779150abd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_tempt_items.json"
-hash = "3f98754f9b9bcd13b701d7976eec3080fdcc21ac0f7991274284e2a6ddbc5e9f"
+hash = "14942c4643c06484d2fb44cdb52d67bf6c643cd9cf7f2f6569bfbdf97e6127e9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/non_flammable_wood.json"
@@ -2414,7 +2414,7 @@ hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
-hash = "a71d5984c93c4399b8994eddcd98fc5161a3119e82209ddaa9ae4677b9bb463b"
+hash = "527ca76c5b281feef2368eb270dcf6c5d0a879104145f8559d0c1997eb13a95d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sheep_food.json"
@@ -2638,15 +2638,11 @@ hash = "d0c16489f863c2d4812f28f1b1163c27d5e37d6e2b2bc3da74ea114e8c60a909"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/supplementaries_tools.json"
-hash = "dd0978300019bf2b6435251a854d4c5159aeab253204ff8d2d341ade60e40c3c"
+hash = "6964bac4e1baeeac1fbc07df717d49f107026c77baa8417d5f7e75edb599ba9b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/trident.json"
 hash = "6a4fc720b422e193b1fb9fe504e52d2f31a9b444de3807e3df18171e9e20b1ab"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/vanity_armors.json"
-hash = "973d141b7fde72cf3c83e79dfce149b6d637347c9d5029f50c5825604ccd3235"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/akita_plushie.json"
@@ -2739,6 +2735,10 @@ hash = "78182b6f0becd11abdf318e8e0677fadc3e0370249b801e422604ad60114949d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/hanging_signs.json"
 hash = "4a788f123a6874100083959f39429358b6e208efceff948c156ef184bc434826"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/lampear_block.json"
+hash = "e780edf98ce525b3c49db9d2a07129c0b98b4b1080edc127d66b46a71a9b1cd0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/pressure_plates.json"
@@ -3013,7 +3013,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt_shit.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt_shit.json.disabled"
 hash = "94b31e736d1aa978bc8ca04498e8090b459666fa31592f437b252fa40033326b"
 
 [[files]]
@@ -3321,6 +3321,34 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/t
 hash = "8efd69f9fbb449b4b5c70a2060e3c529b4abf72d6082114f622b038679fdfa22"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/brick_chimney.json"
+hash = "50fbd6c33ca606a1d3b38ba94853a8991c952a391974b83ef008873c94090e39"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/cobblestone_chimney.json"
+hash = "2b36f68bb3ac27592d2af28452d479f3dfcd2a7d7376fd4f444305a92873e258"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/copper_chimney.json"
+hash = "02eaa1261288230d1b32558215cffe6c050934da7dc24fb0d867ddb5b7ba6b3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/iron_chimney.json"
+hash = "c4ed4027b8b8095723ff3214a3ff7b2edeac8d179fe4f46630191cea3755a08e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/mud_brick_chimney.json"
+hash = "27e1998179552592e4ea5de12b8447b7380f0457d153f8fc75e1d4432f26f6d2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/stone_brick_chimney.json"
+hash = "4eed0a37752927b6446fa2edba90b8b24d38f24c31d308300e0e7faa4ad6c3a5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/sootychimneys/recipe/terracotta_chimney.json"
+hash = "672535dc7c434d7eb67fb3ae1fa9cf8e269c69f466036c6414c23bf3e9214c43"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
@@ -3341,8 +3369,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "7b14ad6cf4f9cc4208ec1240e9a4f2747c9d8a5022d7b145f00027ae8d1e6314"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/cannonball.json"
+hash = "22ea3f970943c14fae4c43d3ad0d4ba8c0022b1587d51f92aa4bb20c75b119ad"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/lumisene_bottle.json"
 hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/way_sign_oak/architects_palette/twisted.json"
+hash = "28fcb1941017eaa49725c9c103bb1a25807fcf525220fc440683121f6f48ca6f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/wicker_fence.json"
@@ -3366,31 +3402,15 @@ hash = "f2dbf246a7d92b7ffedfd019349829e81712938f4c2843a65da5af4dba7c93f0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/transmogrification_table.json"
-hash = "23f87b4e67147a2eb94cf3b7e1842388f312ff68d94aea85c3b96abf6aea2787"
+hash = "4d19e3ce9fb0bedf510524d3110b95c0f7808957dc3c696b4ed06c6b67337146"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/void_fragment.json"
-hash = "873ad1967305ca1e29fd257a9f001d89303883ab812a0ed309d5c520cc055421"
+hash = "2ec62290a45af5408b1d0f72329d148c81f68fa294bfd0f78975c693e96769c4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/tags/item/transmog_fuels.json"
 hash = "907c93b1f3a7d99cebb26445801c9e315254c060cf1e24600493fab4683a0d2f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_pants.json"
-hash = "d4e167f34b0e511598e26a6a84b04ebab1be65594e043d041e35c5600c5286cc"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_shirt.json"
-hash = "72adabb99cff7bb06fb957af5bac85f74bbbbe488424a76d9841cbedb5c59812"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_sneakers.json"
-hash = "b2e7c7dae68b2b241eaa2b35cc5a0c0ffe2b06f4d7b966e10781d7d90a00e22a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_wig.json"
-hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/ir_lazor_emitter.json"
@@ -3821,5 +3841,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.7.txt"
+file = "v1.1.8.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

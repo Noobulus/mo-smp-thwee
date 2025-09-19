@@ -1,5 +1,18 @@
 {
   "values": [
-    "nears:cinder_grain"
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:apple",
+    "minecraft:carrot",
+    "minecraft:melon_slice",
+    "minecraft:glistering_melon_slice",
+    {
+        "id": "farmersdelight:pumpkin_slice",
+        "required": false
+    },
+    {
+        "id": "nears:cinder_grain",
+        "required": false
+    }
   ]
 }

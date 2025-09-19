@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "pearfection:lampear_block"
+    }
+  ],
+  "result": [
+    {
+      "chance": 0.25,
+      "item": {
+        "count": 1,
+        "id": "pearfection:lampear"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

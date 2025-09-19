@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "group": "copper_chimney",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "I": {
+      "tag": "c:ingots/copper"
+    }
+  },
+  "pattern": [
+    "I I",
+    "ICI"
+  ],
+  "result": {
+    "id": "sootychimneys:copper_chimney",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "category": "misc",
+  "result": {
+    "id": "supplementaries:architects_palette/way_sign_twisted",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "minecraft:oak_sign"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "architects_palette:twisted",
+      "fabric:type": "moonlight:block_type_swap"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}
