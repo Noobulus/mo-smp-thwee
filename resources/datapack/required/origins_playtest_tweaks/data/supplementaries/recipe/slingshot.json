@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "323",
+    "1 1",
+    " 1 "
+  ],
+  "key": {
+    "1": {
+      "tag": "c:rods/wooden"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "tag": "c:strings"
+    }
+  },
+  "result": {
+    "id": "supplementaries:slingshot",
+    "count": 1
+  }
+}

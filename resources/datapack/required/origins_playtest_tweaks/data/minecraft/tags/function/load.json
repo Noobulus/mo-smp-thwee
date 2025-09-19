@@ -3,6 +3,10 @@
         {
             "id": "origins_playtest_tweaks:cpm",
             "required": false
+        },
+        {
+            "id": "origins_playtest_tweaks:reload_on_load",
+            "required": false
         }
     ]
 }

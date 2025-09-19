@@ -11,10 +11,26 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:glow_berries"
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:glow_berries"
+        },
+        {
+          "item": "pearfection:lampear"
+        }
+      ]
     },
     {
-      "item": "minecraft:glow_berries"
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:glow_berries"
+        },
+        {
+          "item": "pearfection:lampear"
+        }
+      ]
     },
     {
       "item": "minecraft:sugar"

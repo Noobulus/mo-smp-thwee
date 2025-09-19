@@ -1,0 +1,30 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "farmersdelight:canvas"
+    },
+    "b": {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:bamboo"
+        },
+        {
+          "item": "mynethersdelight:powder_cannon"
+        }
+      ]
+    },
+  },
+  "pattern": [
+    "b#b",
+    "b b",
+    "b b"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:scaffolding"
+  }
+}

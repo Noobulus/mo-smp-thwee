@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:powder_cannon"
+    }
+  ],
+  "result": [
+    {
+      "chance": 0.25,
+      "item": {
+        "count": 1,
+        "id": "minecraft:gunpowder"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

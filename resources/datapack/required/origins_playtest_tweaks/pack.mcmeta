@@ -218,6 +218,30 @@
     {
         "namespace": "mynethersdelight",
         "path": "recipe/crafting/scaffolding_alt.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/stick_from_bamboo_item.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/basket.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "flute_songs/skibidi.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "flute_songs/lava_chicken.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "flute_songs/despacito.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "flute_songs/alia.json"
     }]
   }
 }

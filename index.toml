@@ -226,7 +226,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "b31919784a186b0e786845f072df0199e5cfd164971b9cd2e30ce3c5f61beda3"
+hash = "58154660be232b89918a98bcacaf4bc569c40edd403bb31ae2376efe7b498f7c"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1746,7 +1746,7 @@ hash = "03d5264ad699c21a6789391efa257f2a921b55185af93bb99f6a56cb6cbedc71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/glittering_grenadine_from_water.json"
-hash = "289a0492ffcdc731d74f381d9b6813e2c3aa2e2f421fdc55093f7d55d7e46fc3"
+hash = "bf37b1c9e94af49a5de3ffe6aaafbf53033d0dd8cddf99ee6175f78692f1ba4a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/jerky.json"
@@ -1991,6 +1991,10 @@ hash = "a612175fe96775be71ba6383ba1b962c1f136c53c2ce9f378c981ca54892dd1a"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/pie_crust.json"
 hash = "d369063dc4c0be550da157b9b518c666fb8d3f10fb9c907e0e2cbe4489582f5f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/scaffolding_from_canvas.json"
+hash = "6545e50770e825584ca8160b01ead2dadf7f9081f3e539f254009d732f7cc06b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/sweet_berry_cookie.json"
@@ -2362,7 +2366,7 @@ hash = "1d78b6f16a622c781be1489df400771774cfdfb6bb970bb31f6ac332c3eed503"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/function/load.json"
-hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
+hash = "41c15fdef95ae648bab0c3598175ec0ff5e98df7fb663948cc4b52cfd7c8e4a4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
@@ -2413,6 +2417,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/planks.json"
+hash = "bec8e9776c7d20277783e545c1e3ef7091baeb64673bb7ccb050b9fc8dd95739"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
 hash = "527ca76c5b281feef2368eb270dcf6c5d0a879104145f8559d0c1997eb13a95d"
 
@@ -2449,6 +2457,22 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdeligh
 hash = "f507a6d02f34b3c0dff9e8d6c2ed035de3434fd0d31af904d02f2a7b524381bf"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/crafting/block_of_powdery_cannon.json"
+hash = "210f1eb63cf70adad315ad9c9f73beaf760722e30bac97e991be4ad62afd954e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/crafting/powdery_plank.json"
+hash = "3813fed00d4987a695b9b971e435a178de882e7a95ac4107b00fe13bd23e1907"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/cutting/cutting/ghasmati.json"
+hash = "d716e6ffa825e26ce3d0da04340f1e129516d5dc72ab56c872f518b9d466626b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/cutting/cutting/gunpowder_cane.json"
+hash = "e5804c5ed8b240ed55131ca4366dea7b180f0e2984d296dc19835fa1c99974ca"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/nears/recipe/soulless_pastry.json"
 hash = "f346c49033b766608dc74e65c4d41de066d8e8871e38badfcb3151377cc3d575"
 
@@ -2483,6 +2507,10 @@ hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/cpm.mcfunction"
 hash = "43280ed895b54889d7bd1b5a5d686aeb82af6760a059e485259a9b5b7cec8341"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/reload_on_load.mcfunction"
+hash = "ce752e6bd46fdd76b4e3468bdf522c4ecb63eeb9791d8c94f98d6c0ee08959cf"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
@@ -3373,8 +3401,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "22ea3f970943c14fae4c43d3ad0d4ba8c0022b1587d51f92aa4bb20c75b119ad"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/flute.json"
+hash = "dec41a953038ef8cc331d00f2b85135bc3e89e8e235c1bffa1fa6ebf8966b924"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/lumisene_bottle.json"
 hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/slingshot.json"
+hash = "567a7d3802c2b7ea5d802afb684a201ab753e13346393ddd01d1da803eaa9e6f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/way_sign_oak/architects_palette/twisted.json"
@@ -3426,7 +3462,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "2907835c23386e6616e9c24ed461452c992ea36529ed9407f34dc25634f4c922"
+hash = "10a0c4226d8e180f8a6c881d60b797de6abd530390829ed81349348f6ed713e4"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3841,5 +3877,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.8.txt"
+file = "v1.1.9.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
