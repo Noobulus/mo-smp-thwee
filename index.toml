@@ -2366,7 +2366,7 @@ hash = "1d78b6f16a622c781be1489df400771774cfdfb6bb970bb31f6ac332c3eed503"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/function/load.json"
-hash = "41c15fdef95ae648bab0c3598175ec0ff5e98df7fb663948cc4b52cfd7c8e4a4"
+hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
@@ -2507,10 +2507,6 @@ hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/cpm.mcfunction"
 hash = "43280ed895b54889d7bd1b5a5d686aeb82af6760a059e485259a9b5b7cec8341"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/reload_on_load.mcfunction"
-hash = "ce752e6bd46fdd76b4e3468bdf522c4ecb63eeb9791d8c94f98d6c0ee08959cf"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
@@ -3877,5 +3873,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.9.txt"
+file = "v1.1.10.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
