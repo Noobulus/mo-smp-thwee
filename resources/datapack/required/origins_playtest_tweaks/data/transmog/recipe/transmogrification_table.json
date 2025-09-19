@@ -3,9 +3,15 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": "transmog:void_fragment",
-    "Y": "minecraft:tinted_glass",
-    "Z": "minecraft:quartz_block"
+    "X": {
+      "transmog:void_fragment"
+    },
+    "Y": {
+      "minecraft:tinted_glass"
+    },
+    "Z": {
+      "minecraft:quartz_block"
+    }
   },
   "pattern": [
     " X ",

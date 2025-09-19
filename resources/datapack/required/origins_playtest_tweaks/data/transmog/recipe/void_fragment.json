@@ -3,8 +3,12 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": "minecraft:obsidian",
-    "Y": "minecraft:tinted_glass"
+    "X": {
+      "minecraft:obsidian"
+    },
+    "Y": {
+      "minecraft:tinted_glass"
+    }
   },
   "pattern": [
     " Y ",

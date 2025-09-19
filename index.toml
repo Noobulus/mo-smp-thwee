@@ -125,6 +125,10 @@ file = "config/enchantmentdisabler/config.toml"
 hash = "86856b5b74caa8c3215f10d869afd0190831ae30d662d27f421f4dc212c9f66b"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "25176e3adf4212a8957258b41481ee567c53d842d1b2064a3cbbadd73d9dba0b"
+
+[[files]]
 file = "config/everycomp-common.json"
 hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
 
@@ -438,7 +442,7 @@ hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
+hash = "25176e3adf4212a8957258b41481ee567c53d842d1b2064a3cbbadd73d9dba0b"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -780,11 +784,6 @@ hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
-file = "mods/chickensaurs.pw.toml"
-hash = "d8f247508e5f74e86be6b4280ad0c0cb41b7a7fd89d8f038f85e71f434504db8"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
@@ -990,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "680759995f2ccf87a3bc180f21a5728f9471f9670d6a6bd7ac55afea908a6fe2"
+hash = "95fe800e52e67142951c74da25faf049b36a6f0089d7960834b5ddcb3a729df0"
 metafile = true
 
 [[files]]
@@ -1444,7 +1443,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "158906efa43038115d87385d1f8b9329d9c5688d43bac0ccd95de7ae8f0a332c"
+hash = "47951ad1b4804f85eea9196e5f2bb52f449b04e8fceb89db612620456131754e"
 metafile = true
 
 [[files]]
@@ -1529,7 +1528,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7410977a1830936200c52b5d8682dc9dcf315ea6a9036935348aea91977ab5ae"
+hash = "7e849ba80b7fdd5226bc14adb4e7b680e902b517836f70145d3c9df8c103a29f"
 metafile = true
 
 [[files]]
@@ -3367,11 +3366,11 @@ hash = "f2dbf246a7d92b7ffedfd019349829e81712938f4c2843a65da5af4dba7c93f0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/transmogrification_table.json"
-hash = "36ee800006f7b39ed3baf227d17daf5f8e7d7a6acd8267efb6617eb15d9bdab0"
+hash = "23f87b4e67147a2eb94cf3b7e1842388f312ff68d94aea85c3b96abf6aea2787"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/recipe/void_fragment.json"
-hash = "6c23143a51ee5332bcadf1ddd4c6e663978434d7b57b1f29599e90ba48aa331c"
+hash = "873ad1967305ca1e29fd257a9f001d89303883ab812a0ed309d5c520cc055421"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/tags/item/transmog_fuels.json"
@@ -3687,7 +3686,7 @@ hash = "48efb47f5e976967567c34da590f6d4e0993ed38f0ecca75b269e6265ea3a146"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "79611580fd1870ecbde2de00eb17800f5c259d0e1eadb1bce48941168ef537bb"
+hash = "b69a2b50df138b197b8a1202edd3cee50b74bfc4241c4a8f27340cb6cf89cd00"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -3822,5 +3821,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.5.txt"
+file = "v1.1.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
