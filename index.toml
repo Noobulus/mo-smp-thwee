@@ -1650,79 +1650,79 @@ hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/beige_pietraforte.json"
-hash = "54ad5e8de429e5acb05380ab622183943f0a1639a6b4e0b186c531cabc769e4a"
+hash = "bdbab56e13193c45da09ab1e8a892e43a0ce2217b0466545c8e4c4d66bca84ec"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/hazel_pietraforte.json"
-hash = "23af965c7ffb57bcb00922be20a0add3b155c7629b548d315f08d5d9368b7487"
+hash = "1cc8cf51a39bcfb25fe14d38751d51d2a7cfebd30a0257f5ca5772aa3ae1f667"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/ivory_pietraforte.json"
-hash = "6bf6199098f1d9c8b6ef27cc8d90a22d8f010576128907084778eee4948425f5"
+hash = "c29d2bd8317e26a2460c2cc1eb18a6e67cd55c66fa27fd52dfd6a1c5371a892e"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/jet_pietraforte.json"
-hash = "e2535caa507d87d63e6aab480c22d10166f943fe9f2ab7d2b0643ea4ab5dc53b"
+hash = "20f138a7825fb0ee99059a583c1919cac8a4b09b28f276a779074b14218316f5"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/marlot_pietraforte.json"
-hash = "6fedc8ee319d6863d661b818607550db2e84315efbe360b8ec09de88e6a68dab"
+hash = "20c5ae92b8b61314d0ec6ec21f0335d5e5b9a8a89ffbd0d926faba5e07e8a7ef"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/ochre_pietraforte.json"
-hash = "4ac3a8e1a22856b7ca8e471e572c8a65e1f465e35cafc4651d2d096079766c6f"
+hash = "3f1749c5a44958f51af96c8cf0423013286bccdb351a2b8f94a2dd3b4ac89458"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/umber_pietraforte.json"
-hash = "9417eba4089cbff50d986eae09538436d51ca617d016e801d212ebfeb2804d74"
+hash = "be6b0da2115973a2c2eeac43010719b08ffad0662ae9d676af3f2766fe22395e"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/verdant_pietraforte.json"
-hash = "11f76e08736b16ef5aefbbe6a097eadb9d91b19a1450a236764b244b89e922a2"
+hash = "c8eeb042685ecf7d6f1432f7bc7446865553d39cdd1e7a1e792617fb60fbce8b"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/beige_pietraforte_smelting_cobbled_beige_pietraforte.json"
-hash = "70c013e6d03296d6603b36d5b991931e4f1e8377d580faa29f28a62dd81463ad"
+hash = "8c5964fcf7b4773efd135d8f8da89cdc689a22c3925d49baf9e703ded29b3327"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/cork_planks.json"
-hash = "f94aa25a77052d69688045d6764ce10251e87f5da50ba625c95e247829c4bd14"
+hash = "fc245dcdf2deddaf97f66d3059cadbaa77c16675b4ca124ffa77d92e215d19f9"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/hazel_pietraforte_smelting_cobbled_hazel_pietraforte.json"
-hash = "3eb3a73572775e64679c7136466c6ec41e0ed979ae2bc9a327f8031e466ddd7a"
+hash = "10742285f1730e9c90e622ea41da95c8d84c50dd8a21edd37ec550c2c1d2a4f9"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/ivory_pietraforte_smelting_cobbled_ivory_pietraforte.json"
-hash = "59874f8c58eebcbfbdc6fdf552e24ec1d30c63db3ba2395ad25d584865e31bd1"
+hash = "b865338dd84a6e29f1708f3362b2cb7533fc4128f1027ec9880892eeffc919a6"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/jet_pietraforte_smelting_cobbled_jet_pietraforte.json"
-hash = "eb68d297866056d5c8de3a7724c2f283c458108c3e8f5d3ea5ad149d503db9f9"
+hash = "eacc61e602e6b1bfa686917139ee5981ae2b356b80062bd3b096789f6c2169b2"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/marlot_pietraforte_smelting_cobbled_marlot_pietraforte.json"
-hash = "686c72598fe8521e1bf814799e358a08ea15558e68f188645d15f8c2618cdcff"
+hash = "d2af40809957e2d0db53f27cd8e0c8d7f2b73e5944ca5b01b65b0d3ceb7877f0"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/ochre_pietraforte_smelting_cobbled_ochre_pietraforte.json"
-hash = "53288dfea8bad64d1ea116690be9597114e0d0c5280e63414f0e0dc60736daf0"
+hash = "1e31ff9647b311c3080f26dc9140e15511277c794a17207fa6b001ea8f4d0811"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/umber_pietraforte_smelting_cobbled_umber_pietraforte.json"
-hash = "aeb995e5fbec50243ef63d9d037fbd0b5ed713c519393e4c17a77b8b019f3921"
+hash = "ef4258815db6b37ac3a48f67c762f6cd9e070de77c1e1e19dab8b2c7cc02b90b"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/recipe/verdant_pietraforte_smelting_cobbled_verdant_pietraforte.json"
-hash = "5b7d7ce61c1d50b14c6dca5fac9b8fd11758172ce7531b7820c2b0b22d15d713"
+hash = "99235a5cba999c88c5576dfbaeb0a77a74bc4714e7f69640ac219551aa73fec1"
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/tags/item/cork_logs.json"
-hash = "b446069d3042856781995c2af435dca57ddfb50a13ef6b9dbd29052b52672f3c"
+hash = "4d8cec3df568a4e16213f49571bd36047cd757c9f796bfc75842f5035e205092"
 
 [[files]]
 file = "resources/datapack/required/goobert/pack.mcmeta"
-hash = "0c597f51345e237d5e180fe9c3fcb8b42a6b950b55e36baaea326b5ed8e9cf34"
+hash = "1f8664052a799b721ad10c45c23cacc69603feb05c6ae694763d4c14605ba746"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
