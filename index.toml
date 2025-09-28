@@ -73,6 +73,10 @@ file = "config/clientsort-server.json"
 hash = "3af99a03a599be22172e594e0d15e7deca56b52a04af98369c98a4d7398ed10f"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "f8119b7047503df81e710dad8baa9a2d65f5db8feb182ff7c1bd9527c1ea58c8"
+
+[[files]]
 file = "config/cobblegen-meta.json5"
 hash = "b1dfb0d7502b981bc41e34512a767e9b5073aca2e9d6af10452eb84bb2db906e"
 
@@ -211,6 +215,10 @@ hash = "0bdeb65a9261ae426ee70ce754f2059303a29f62ef04053f9f1d2ae90d9473b0"
 [[files]]
 file = "config/harvest_with_ease-common.toml"
 hash = "f91a8af90dc6cf7d5c6a8bc7c6f46498bc133b6424ef6e8a5a7f45bd916f81fc"
+
+[[files]]
+file = "config/horseman-client.toml"
+hash = "d0abea86721a08ec95a375ecc597273738ee1ff246fd93bc330b16465b8703e3"
 
 [[files]]
 file = "config/horseman-common.toml"
@@ -378,7 +386,7 @@ hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "1dd7a05939e9435f51558ce573afa8face1afceb19131b5b41e65fec17194223"
+hash = "39d88df26dfd8081aa6d332bb0dc53090991b063a6ec46ef11648bfb2338b847"
 
 [[files]]
 file = "config/watut-common.toml"
@@ -421,8 +429,12 @@ file = "config/yosbr/config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/yosbr/config/clientsort-server.json"
+hash = "f1e8875048b85ac4e9d46abf7866f5c44ee9f4b5fe48050cf935c38bc3070fb1"
+
+[[files]]
 file = "config/yosbr/config/clientsort.json"
-hash = "ab26ce658550fe6d901624dfb6c86331ccf1c38e0e34eb4905fe6b736800f234"
+hash = "f8119b7047503df81e710dad8baa9a2d65f5db8feb182ff7c1bd9527c1ea58c8"
 
 [[files]]
 file = "config/yosbr/config/dummmmmmy-client.json"
@@ -653,6 +665,11 @@ hash = "5a2e2f5473e4f4477059dd0273bee37e7ff4ceba11f19f2cb4c28964bf181b2f"
 metafile = true
 
 [[files]]
+file = "mods/armorable-skeleton-horses.pw.toml"
+hash = "7560df02e59015b456bec4561b79a16d73dc72098c12406be49de645817fe21f"
+metafile = true
+
+[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "5dde461c1f6c0127ed8f4e4492adec5656af768185f6fde123d04fd303e7dff4"
 metafile = true
@@ -704,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "a02443d8540e879747cdd64bc7f3ba3be5af73931c90c674bc92d9c554c8d14d"
+hash = "06ff841030c323b5128a7380dd49db005642d5290f55f19f7ecd01efd4099885"
 metafile = true
 
 [[files]]
@@ -804,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "557324d5cd7066d86be219d239dd52a8fd7f2f26b6d8d5a183e6df288ddc4402"
+hash = "852bfb92e0767c53392eb7bcbe194eec771dc40169267e283f8b05eecb8cd937"
 metafile = true
 
 [[files]]
@@ -953,12 +970,12 @@ metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "76be799469466baf22ab606c07861a07ae93159212bd9554eadc4e6beca52968"
+hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -998,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "15f5068116d9bf87e7f711a2cd9139d9eb66d83e712172d95bb2bea5167d43dd"
+hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
 metafile = true
 
 [[files]]
@@ -1102,18 +1119,18 @@ hash = "05782f036acb3c9ccfe187d9fd8d17d075ea59fbbd1f54cebbaa1571da6effec"
 metafile = true
 
 [[files]]
-file = "mods/horse-stonks.pw.toml"
-hash = "2f31f95552d269d273a89716fe12a72353513307a04f6e2b7fb19898006fb41a"
-metafile = true
-
-[[files]]
 file = "mods/horseman.pw.toml"
-hash = "da880b4a7e24cb2465ff67aca6e2b332b19f0dc101543395d9b70c0ccace20d7"
+hash = "aa351c9dd81a95a19a72282ad809e22264b791000fadc545e73e08bd2d5dce56"
 metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "84c237a14db88cb31e937a7699d7cd3052e70104a4ae27de43ddf1d65f5f79c5"
+hash = "c817093410c3f29570439616a816f3d2eb3a08f1d6d85a00e9f1322aa9135850"
+metafile = true
+
+[[files]]
+file = "mods/improved-trident.pw.toml"
+hash = "ff9ef66291c53182b624e313b491e5277f298a251c44ca9555e9bf30e24dedfe"
 metafile = true
 
 [[files]]
@@ -1162,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b465b646e5499dd0bbea8905fca7b01265fe013bf36ccba2c92e822e7f9c24df"
+hash = "ddb9e0191de6a3c2f6aba068ab5ebe329b788c10c6f53fbcd38e56af4525066f"
 metafile = true
 
 [[files]]
@@ -1249,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "135cace97fae8c535528a7c1cf90322398f0cbbb9b608b4f5d4279055c7e398d"
+hash = "d6d045227a0107ff4a784e84b7d48f0cca62b8743539b9a3df7af5aab7a6dedc"
 metafile = true
 
 [[files]]
@@ -1324,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/pearfection.pw.toml"
-hash = "8bac74adb844bace03b26c731b2630199c96e390220ab3e40f649dbe21b90bda"
+hash = "3652643387f1bc8e0fcedb6c079814d2b2293400d115aba9ec14d901933219ae"
 metafile = true
 
 [[files]]
@@ -1437,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
-hash = "02845c4794b9bfc924d6a2b0b130e6f1a93ddc07a7bce6c19e008d29002f995e"
+hash = "97a5ca0dd7d4409661ca54951311d30899c5df295af3dac680d276ae39ece6c5"
 metafile = true
 
 [[files]]
@@ -1536,6 +1553,11 @@ hash = "7e849ba80b7fdd5226bc14adb4e7b680e902b517836f70145d3c9df8c103a29f"
 metafile = true
 
 [[files]]
+file = "mods/switchy.pw.toml"
+hash = "ca0527f121dde74b665893ea68a645b555b54aeea7a87ee38454454c7f72d5a3"
+metafile = true
+
+[[files]]
 file = "mods/toastbegone.pw.toml"
 hash = "13bf50723c91f5a9103560ed84ab2309a6bfa6b77362101e4f2dd01102eed508"
 metafile = true
@@ -1567,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
+hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
 metafile = true
 
 [[files]]
@@ -1723,6 +1745,10 @@ hash = "4d8cec3df568a4e16213f49571bd36047cd757c9f796bfc75842f5035e205092"
 [[files]]
 file = "resources/datapack/required/goobert/pack.mcmeta"
 hash = "1f8664052a799b721ad10c45c23cacc69603feb05c6ae694763d4c14605ba746"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/amendments/tags/item/goes_in_tripwire_hook.json"
+hash = "f442e0ff9212266b29c883fd09cd1fa50b7b0d9ec1019334f4f1189fce1e6826"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
@@ -3117,10 +3143,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt_shit.json.disabled"
-hash = "94b31e736d1aa978bc8ca04498e8090b459666fa31592f437b252fa40033326b"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
 hash = "2a6c138e22f9f44c42929079fbe2b949069527d327c04495952d642f8e10f2a0"
 
@@ -3183,6 +3205,14 @@ hash = "43692e3ce8f2ddac5569829e9796695d9d0f9cc52d50238ad1b20bdbc37a94c7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/sand_from_gravel.json"
 hash = "301ad8f67119a32da0920ea7e26103c192799b15293b1c720565d7c3b6812a51"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/soul_sand.json"
+hash = "c01c4a011a195013a524dcb65d2c38435d55b8e58fdec16579a3cfa4cb493b45"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/soul_soil.json"
+hash = "b3c717e633af72232eb62905cdfb158c7d28751de933a6bd8c80005ab2326182"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/spool_to_string.json"
@@ -3278,7 +3308,7 @@ hash = "4256a57015ce52529503e44539d6f026655afe28a396bff77300c42f2fbce969"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_bulb_cheapening.json"
-hash = "93f62e9a227cbf3eccd6c55f322bac886b162dc3fca204ef8b255191f9c73c05"
+hash = "d859a81739b38eddf88ceab3fdb48998c09662ed16e04931ad71710d34de99a3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
@@ -3485,8 +3515,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/relayer.json"
+hash = "ce5916cb4a4d2c947f138de0a496e363fe82f341383e7dbaf6af11de5f98e788"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/slingshot.json"
 hash = "567a7d3802c2b7ea5d802afb684a201ab753e13346393ddd01d1da803eaa9e6f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/turn_table.json"
+hash = "5ca9dc934d78bbc90fe3bd8a199a97825191a912bc702994b27cb7ce2689e176"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/way_sign_oak/architects_palette/twisted.json"
@@ -3953,5 +3991,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.2.0.txt"
+file = "v1.2.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

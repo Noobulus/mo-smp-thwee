@@ -2,12 +2,13 @@
     "common_ingredients": {
         "/": "blaze_rod",
         "^": "redstone_dust",
-        "-": "copper_ingot"
+        "-": "copper_ingot",
+        "?": "supplementaries:lumisene_bottle",
+        "&": "supplementaries:fire_pit"
     },
     "id_substrings": {
         "#": "copper_block",
-        "@": "copper_bulb",
-        "|": "copper_lantern"
+        "@": "copper_bulb"
     },
     "source_family": [
         {
@@ -21,12 +22,11 @@
         },
         {
             "pattern": [
-                "-",
-                "?",
-                "-"
+                "-?-",
+                "---"
             ],
-            "output_token": "|",
-            "output_count": 2,
+            "output_token": "&",
+            "output_count": 1,
             "remove": false
         }
     ],

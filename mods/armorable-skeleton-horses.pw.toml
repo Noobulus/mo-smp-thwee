@@ -1,0 +1,13 @@
+name = "Armorable Skeleton Horses"
+filename = "armorable-skeleton-horses-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OdtgyfMi/versions/gR5gNhts/armorable-skeleton-horses-1.0.1.jar"
+hash-format = "sha512"
+hash = "7322eba97f5463a15daa27074d061100e271ef5dad3121810507e105e85ab229f0e65a9d9f152fe967ed06334a89d16c33fa422405a1f0373fdc56495b16ead3"
+
+[update]
+[update.modrinth]
+mod-id = "OdtgyfMi"
+version = "gR5gNhts"
