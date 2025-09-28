@@ -1544,7 +1544,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+hash = "22a65829892382f1f4a8cea2c788fcedabf231c86b0852f9cbe33c65436a0d53"
 metafile = true
 
 [[files]]
@@ -4023,5 +4023,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.2.2.txt"
+file = "v1.2.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
