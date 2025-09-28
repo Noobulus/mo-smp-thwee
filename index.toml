@@ -660,6 +660,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/armadillos-drop-scute.pw.toml"
+hash = "f4dde98a68364fedd679b04d18b61214ef5af8322ecaebc1d44188fcc39f993a"
+metafile = true
+
+[[files]]
 file = "mods/armor-trim-item-fix.pw.toml"
 hash = "5a2e2f5473e4f4477059dd0273bee37e7ff4ceba11f19f2cb4c28964bf181b2f"
 metafile = true
@@ -1538,6 +1543,11 @@ hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "9137c688c724db6215a475abe5ec71e1dd4a508860434eb2b35933c5079c8e70"
 metafile = true
@@ -1553,6 +1563,11 @@ hash = "7e849ba80b7fdd5226bc14adb4e7b680e902b517836f70145d3c9df8c103a29f"
 metafile = true
 
 [[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "7958f087e3c949f3ea17e9301f50a9e097ef2b4f7db89359f0b6f2cf5c3a2d67"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "ca0527f121dde74b665893ea68a645b555b54aeea7a87ee38454454c7f72d5a3"
 metafile = true
@@ -1565,6 +1580,11 @@ metafile = true
 [[files]]
 file = "mods/transmog.pw.toml"
 hash = "8b08d401ea44b5d0a5c537afca6a87e280b0438c394ce978b6049a1f6d66eaa4"
+metafile = true
+
+[[files]]
+file = "mods/turtles-drop-scute.pw.toml"
+hash = "0b6ee3f8e8c110c728f36c96a3d88084521455abdf8300471ce481b021d25aa7"
 metafile = true
 
 [[files]]
@@ -2012,7 +2032,7 @@ hash = "91af5435e80b5273d1a2de73aa4a1f74d295e452ff1995a52e6e896abe10c47a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
-hash = "b1bfb8f7e8b3cfeedddc3583342dd3662123c8428f34db2dee770694bd766dcc"
+hash = "86fe96848ca56561982f0a0ddb159a922fd6d7fa9a01b0012243d5223800827a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
@@ -2695,6 +2715,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "82305969d5b3b1af645e27e140870f0ab995390c5cfc07c6ed2c850a2950cca2"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/furniture_hammer.json"
+hash = "f3707f20f734e313902703fe39be132d01fa7497967de6f9f3426eebb455cd9c"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
 hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
@@ -2743,6 +2767,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
+hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "6741d906a61c6dc993d368e441ed5160d6368ab3df10767de65ae42d0b4fb8fe"
 
@@ -2773,6 +2801,10 @@ hash = "6964bac4e1baeeac1fbc07df717d49f107026c77baa8417d5f7e75edb599ba9b"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/trident.json"
 hash = "6a4fc720b422e193b1fb9fe504e52d2f31a9b444de3807e3df18171e9e20b1ab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/vanilla_tools.json"
+hash = "bfd882d2fd5b189289a2c35919348831b244d98af057766e3b5f0c26b11b5e8b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/akita_plushie.json"
@@ -3092,7 +3124,7 @@ hash = "cef3f4ee2335050a93518b1c1a740e7e63c8cf9ad09a2885017b2ba297204e2c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fermenting/ice_from_water.json"
-hash = "ec6c05e2410cdd09b7d433694664045e6cfc9f363ed462c51f2100113b6ca343"
+hash = "ec9670b25dd701d6188d506329fb2a379bef7c5ef2d452cac743cfbd8b18a29b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
@@ -3991,5 +4023,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.2.1.txt"
+file = "v1.2.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

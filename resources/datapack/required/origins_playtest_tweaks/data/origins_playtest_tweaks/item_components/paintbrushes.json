@@ -1,0 +1,6 @@
+{
+  "targets": "#arts_and_crafts:paintbrushes",
+  "components": {
+    "minecraft:max_damage": 96
+  }
+}

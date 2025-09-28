@@ -1,0 +1,13 @@
+name = "Turtles Drop Scute"
+filename = "turtlesdropscute-1.0-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VqK8ZQUH/versions/XMSn5OJF/turtlesdropscute-1.0-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "555173288cc2e6bf903c966a3e74ee8b0297bf208f469402c3558a1041e9b5122f28db758032040f135f871468b07c3cc79eabe70bf4552c1a71e1eede71b33a"
+
+[update]
+[update.modrinth]
+mod-id = "VqK8ZQUH"
+version = "XMSn5OJF"

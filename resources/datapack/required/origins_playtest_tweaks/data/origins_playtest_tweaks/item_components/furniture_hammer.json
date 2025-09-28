@@ -1,0 +1,10 @@
+{
+  "targets": [
+    "another_furniture:furniture_hammer"
+  ],
+    "components": {
+        "minecraft:unbreakable": {
+            "show_in_tooltip": false
+        }
+    }
+}

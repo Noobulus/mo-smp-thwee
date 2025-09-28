@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "minecraft:flint_and_steel",
+    "minecraft:brush"
+  ],
+    "components": {
+        "minecraft:unbreakable": {
+            "show_in_tooltip": false
+        }
+    }
+}

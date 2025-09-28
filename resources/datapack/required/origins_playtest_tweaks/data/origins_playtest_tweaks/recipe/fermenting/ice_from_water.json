@@ -1,11 +1,11 @@
 {
   "type": "brewinandchewin:fermenting",
   "base_fluid": {
-    "amount": 1000,
+    "amount": 9000,
     "ingredient": {
       "tag": "#c:water"
     },
-    "unit": "millibuckets"
+    "unit": "droplets"
   },
   "experience": 0,
   "ingredients": [

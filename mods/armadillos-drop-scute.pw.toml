@@ -1,0 +1,13 @@
+name = "Armadillos Drop Scute"
+filename = "armadillosdropscute-1.2.1-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xHB66bjV/versions/AO8BcQCS/armadillosdropscute-1.2.1-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "56ddb8b547c484e90e8a21a4ca04a2314abef76e71ec367586df8ecfbc9b7bceba5b78a36c2ca741962fed8fe9145dcd68802e91f2b4031b1ed657157018d68c"
+
+[update]
+[update.modrinth]
+mod-id = "xHB66bjV"
+version = "AO8BcQCS"
