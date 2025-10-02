@@ -1139,11 +1139,6 @@ hash = "c817093410c3f29570439616a816f3d2eb3a08f1d6d85a00e9f1322aa9135850"
 metafile = true
 
 [[files]]
-file = "mods/improved-trident.pw.toml"
-hash = "ff9ef66291c53182b624e313b491e5277f298a251c44ca9555e9bf30e24dedfe"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
@@ -4028,5 +4023,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.2.5.txt"
+file = "v1.2.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
