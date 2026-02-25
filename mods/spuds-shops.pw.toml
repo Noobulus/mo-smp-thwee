@@ -1,13 +1,13 @@
 name = "Spud's shops"
-filename = "spuds-shops-1.21.1-1.8.1-sinytra_fix.jar"
+filename = "spuds-shops-1.21.1-1.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sHFbDnFN/versions/NuBmK0wi/spuds-shops-1.21.1-1.8.1-sinytra_fix.jar"
+url = "https://cdn.modrinth.com/data/sHFbDnFN/versions/E9OkDfuk/spuds-shops-1.21.1-1.9.0.jar"
 hash-format = "sha512"
-hash = "110ebb8b4ef471966b8eafc8747d7f2f165856fdb1a842dbaed6a5400c0c1d3c1fb838e367cb69bbb893004f9490f5a692f64244ffa3799fecb6062d83249f7d"
+hash = "cddaac845a66e8b9b22891837f2e153c234b74e03626e93ee879e96ed9f883fa608507f471d87b522896a9b5fc48ba9be4665054670ef183e9a354c891fcd31e"
 
 [update]
 [update.modrinth]
 mod-id = "sHFbDnFN"
-version = "NuBmK0wi"
+version = "E9OkDfuk"

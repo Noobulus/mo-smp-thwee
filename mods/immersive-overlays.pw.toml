@@ -1,13 +1,13 @@
 name = "Immersive Overlays"
-filename = "immersiveoverlays-fabric-1.3.1+1.21.1.jar"
+filename = "immersiveoverlays-1.5.1+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PKoLkD98/versions/lpQwGJ52/immersiveoverlays-fabric-1.3.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/PBpPWORj/immersiveoverlays-1.5.1%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "f71779f55287fd9e330bbba4ce7d569aad2d8395af7114c7e727176b6f3cbef5177711ed15fddac979fe38bc81d657c4871bd774410f3c406d3c60336c00481a"
+hash = "9cedb93044eca142309408ade19bbc5b10d79b86339f6f3496d6c0e825d3a806b819b7719fb3f78c9d4fee2ef977fbb4edac02e37516191f2db5a132fbf6019c"
 
 [update]
 [update.modrinth]
 mod-id = "PKoLkD98"
-version = "lpQwGJ52"
+version = "PBpPWORj"
