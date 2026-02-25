@@ -1365,11 +1365,6 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
-file = "mods/perfect-parity-1-21-5.pw.toml"
-hash = "49e0811fe174046317cba4a2f574938c6e09ce948903eb642339426f27340012"
-metafile = true
-
-[[files]]
 file = "mods/pigs-have-litters-1.1.1+1.21.1-metadatatweaked.jar"
 hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
 
@@ -1626,10 +1621,6 @@ metafile = true
 file = "mods/zombie-conversion.pw.toml"
 hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
-
-[[files]]
-file = "resources/datapack/required/BackTree.zip"
-hash = "990be258f529d602336804f5b3d6261eadc38595b659a5179bef8a053fc6af6c"
 
 [[files]]
 file = "resources/datapack/required/NoZombieSieges.zip"
@@ -4028,5 +4019,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.1.3.txt"
+file = "v0.1.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
