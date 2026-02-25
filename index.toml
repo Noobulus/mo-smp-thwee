@@ -1094,6 +1094,11 @@ hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
+metafile = true
+
+[[files]]
 file = "mods/give-me-a-new-splash-text.pw.toml"
 hash = "e27ea67a982c4f40fceedb819a7e956821cc287c49dbbfbe996117f247220bdc"
 metafile = true
@@ -1219,6 +1224,11 @@ hash = "67c98216ea0434282ef0e70f10481e7efcc278d5097018cd3e45c6172cfd0e14"
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "38d5a309095c272b7cb305e63bea744ab60052b36bda04051bd48914386ddbf1"
 metafile = true
 
 [[files]]
@@ -1560,11 +1570,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "aa5a67914473c79c2f30eea6c7b4107c60911887987048a477bbc6a860305d82"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-hash = "7958f087e3c949f3ea17e9301f50a9e097ef2b4f7db89359f0b6f2cf5c3a2d67"
 metafile = true
 
 [[files]]
@@ -4023,5 +4028,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.1.1.txt"
+file = "v0.1.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
