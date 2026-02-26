@@ -593,10 +593,6 @@ file = "mods/NoCoords-1.2.jar"
 hash = "28837b834d7b86862720d63a20d968b5d9255f221df829087399010c07fcff38"
 
 [[files]]
-file = "mods/OxyTools-1.1.1.jar"
-hash = "00c2debe66b37dda6b631fb02b4130a25eba3f4d86eb28e09e66754337d4c28a"
-
-[[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
 hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
 
@@ -757,11 +753,6 @@ metafile = true
 [[files]]
 file = "mods/branded-logs.pw.toml"
 hash = "05ab115365fb3de4507d557865eee6a8e828d0800bc7980236185c4b948d1d6d"
-metafile = true
-
-[[files]]
-file = "mods/breakerplacer.pw.toml"
-hash = "d727d15ccb0fe04f716e1ebf2c8ddf77a1c18177b7ce2d172eb6a0ea00baf554"
 metafile = true
 
 [[files]]
@@ -1154,10 +1145,6 @@ hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
-file = "mods/ironrod_1.21.1-1.0.3.jar"
-hash = "ee669e6966575bc3f0c35deb53672286f73c23cd439bab14108f4cabf0031efc"
-
-[[files]]
 file = "mods/item-components.pw.toml"
 hash = "a5409a49315db37eb8fde4b72dd462cb3f1c5430c0f6c5f76ea45920cc05a002"
 metafile = true
@@ -1310,11 +1297,6 @@ hash = "292d07bc16e85e42604ee12c14f8b2cb1edf1f7063bb371f2923b692e2159f6c"
 metafile = true
 
 [[files]]
-file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
-metafile = true
-
-[[files]]
 file = "mods/nostalgic-tweaks.pw.toml"
 hash = "332f1e871c8ed251a4b91fce517ab05a437ab5dc019fcd38498f0049ce80bdcf"
 metafile = true
@@ -1427,10 +1409,6 @@ metafile = true
 file = "mods/revamped-worldborder.pw.toml"
 hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
 metafile = true
-
-[[files]]
-file = "mods/rusticdelight-fabric-1.21.1-1.4.2.jar"
-hash = "e4eb2f67df6b79a3a997b71027102a18832e80ee017039f02f781fb2ec174199"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -4018,5 +3996,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.1.5.txt"
+file = "v0.2.0.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
