@@ -100,14 +100,6 @@
         "path": "recipe/dried_ghast.json"
     },
     {
-        "namespace": "perfectparity",
-        "path": "recipe/cake.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/cooking/fried_egg_from_cooking_oil.json"
-    },
-    {
         "namespace": "mynethersdelight",
         "path": "recipe/boiled_egg_cooking.json"
     },
@@ -156,38 +148,6 @@
         "path": "recipe/cookie.json"
     },
     {
-        "namespace": "rusticdelight",
-        "path": "recipe/pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/cherry_blossom_pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/honey_pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/pumpkin_pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/vegetable_pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/chocolate_pancakes.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/paper_from_cotton_boll.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/canvas_from_cotton_boll.json"
-    },
-    {
         "namespace": "exposure",
         "path": "recipe/camera_stand.json"
     },
@@ -198,10 +158,6 @@
     {
         "namespace": "mynethersdelight",
         "path": "recipe/cutting/cutting/bullet_pepper.json"
-    },
-    {
-        "namespace": "rusticdelight",
-        "path": "recipe/golden_coffee_beans.json"
     },
     {
         "namespace": "nears",

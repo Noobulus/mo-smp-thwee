@@ -1,6 +1,0 @@
-{
-  "pack": {
-    "pack_format": 34,
-    "description": "ugly little shim to help migrate away from accessories & vanity slots without deleting items"
-  }
-}

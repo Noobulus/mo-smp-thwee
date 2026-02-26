@@ -4,10 +4,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "rusticdelight:cooking_oil"
-    },
-    {
-      "item": "rusticdelight:batter"
+      "item": "farmersdelight:wheat_dough"
     },
     {
       "item": "mynethersdelight:hoglin_loin"
