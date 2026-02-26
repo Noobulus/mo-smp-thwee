@@ -830,11 +830,6 @@ hash = "4bc328bd27151f16af8b66bf8a98dc8b255936058c011046a327f9651a17eec4"
 metafile = true
 
 [[files]]
-file = "mods/clifftree.pw.toml"
-hash = "2791013a69169135217d1ea8250b4368172f62aa9ef751dc2b602833c5166f68"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -1224,11 +1219,6 @@ hash = "67c98216ea0434282ef0e70f10481e7efcc278d5097018cd3e45c6172cfd0e14"
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "788b10db97a8c2e1fdca7a4450fd0aac96c9e6b7fe29fccc13bcf4487964e16d"
 metafile = true
 
 [[files]]
@@ -1685,6 +1675,15 @@ hash = "b62f7e0e450ad3dd9dd1fbcab5ca9df88bf50c59f1ebce75d97c5ef8710788fa"
 [[files]]
 file = "resources/datapack/required/bundle/pack.mcmeta"
 hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
+
+[[files]]
+file = "resources/datapack/required/clifftree-3.1.4b-1.21.1.zip"
+hash = "ab6a4f57e982c7fd303148b5dcd7bc2c40a1b92bc4bd1d75c275d48dea836e21"
+
+[[files]]
+file = "resources/datapack/required/clifftree.pw.toml"
+hash = "9c3abaa0cf33263c1c347fcfe0a5b402da8d75c3f408649853123f8ce07bd28e"
+metafile = true
 
 [[files]]
 file = "resources/datapack/required/goobert/data/arts_and_crafts/loot_table/blocks/beige_pietraforte.json"
@@ -4019,5 +4018,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.1.4.txt"
+file = "v0.1.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
