@@ -1,0 +1,16 @@
+[
+  {
+    "action": "remove",
+    "mod": ["supplementaries", "suppsquared"],
+    "items": [
+      "supplementaries:awning",
+      "suppsquared:metal_frame",
+      "suppsquared:metal_brace",
+      "suppsquared:metal_cross_brace"
+    ],
+    "patterns": [
+      "/.*shelf.*/",
+      "/.*gold_candle.*/"
+    ]
+  }
+]

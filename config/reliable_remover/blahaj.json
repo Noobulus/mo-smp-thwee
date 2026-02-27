@@ -1,0 +1,14 @@
+[
+  {
+    "action": "remove",
+    "mod": ["blahaj"],
+    "not": {
+      "items": [
+        "blahaj:blue_shark",
+        "blahaj:blue_whale",
+        "blahaj:bread",
+        "blahaj:brown_bear"
+      ]
+    }
+  }
+]

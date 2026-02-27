@@ -233,10 +233,6 @@ file = "config/indypets.json"
 hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
-file = "config/item_obliterator.json5"
-hash = "58154660be232b89918a98bcacaf4bc569c40edd403bb31ae2376efe7b498f7c"
-
-[[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -313,6 +309,38 @@ file = "config/preferred-gamerules.properties"
 hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
+file = "config/reliable_remover/archpal.json"
+hash = "4e72d66b020880b76c86d40863b3c64383061c349916d8e98358c8af0ae02517"
+
+[[files]]
+file = "config/reliable_remover/arts_and_crafts.json"
+hash = "f588ac3c308593cc50f171e731395a2c95e544d3bc6d937aed70ed8dc1aa08bd"
+
+[[files]]
+file = "config/reliable_remover/blahaj.json"
+hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
+
+[[files]]
+file = "config/reliable_remover/kaleidoscopic.json"
+hash = "4211c2b4ae086a0d5e6d756c04decb58dfac95e476150eb6e762a1a3dddb169f"
+
+[[files]]
+file = "config/reliable_remover/miku_plushies.json"
+hash = "d17520f7be0c0dfd4ccd2330a1f9bbf39c41eb10236c5f0d308d18dfd74371cf"
+
+[[files]]
+file = "config/reliable_remover/misc.json"
+hash = "79974289ecbbd0a1034ee9361b9d9035b11a5d84657421c67e634d48b9cb4b10"
+
+[[files]]
+file = "config/reliable_remover/spudshops.json"
+hash = "57aeb857cb073877fa4da2ebb95532e02402e30755b0bc4085ef5444d759010a"
+
+[[files]]
+file = "config/reliable_remover/supplementaries.json"
+hash = "6c82970d3e1da9a854feea231becc99426f760f7a73d847c219292baad7d30f0"
+
+[[files]]
 file = "config/smarterfarmers-common.json"
 hash = "7f05739c4fc5504fd0410f6d5b3518b83e3c50e911e84bb9e4b74c6f95e7c460"
 
@@ -334,15 +362,15 @@ hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
 
 [[files]]
 file = "config/supplementaries-client.json"
-hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
+hash = "ab15867041d1ab28b73bcb4a660f44349daf89bb25a3423edfb411e153701ddd"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "92a7cac96de8cb2474a619d06e66eb8d023da26b241cae14df0c1a61375f5ee5"
+hash = "b25e28dcb74ebe2caa21715e94aa148d258c8b3a7ad0c8bc46e4bcd31eb15422"
 
 [[files]]
 file = "config/suppsquared-common.json"
-hash = "a2501583b9581acb039b411d08fe85698609398684e3b18c590731acc34b9c7d"
+hash = "01854acfe9e3914935d1dfc20b869ef458d598a0ece95e961df22e287b43b7d6"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -373,8 +401,12 @@ file = "config/unloaded-activity.json"
 hash = "855e335b591262fb4e5f1d2b4579c621b36d24fa842f00e7ba400026cb37ca08"
 
 [[files]]
+file = "config/vanillabackport-client.toml"
+hash = "886175dbf340c15d4dceed9982a653b506cc621548e9f611e9438a94163e0e7d"
+
+[[files]]
 file = "config/vanillabackport-common.toml"
-hash = "b1e6756b48663ae1c7f5684e5e86a131baf9be32e4c54d68f705bff9176069c1"
+hash = "f1810369836533351151ce16c545b1b9e5d1077272f809490df7e273b6d0e10a"
 
 [[files]]
 file = "config/vanityslots-server.toml"
@@ -1145,11 +1177,6 @@ hash = "a5409a49315db37eb8fde4b72dd462cb3f1c5430c0f6c5f76ea45920cc05a002"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
 metafile = true
@@ -1393,6 +1420,21 @@ metafile = true
 [[files]]
 file = "mods/recipes.pw.toml"
 hash = "172a658be9fa46cb9a34044985a954711c4cdfa66c6c3396e74b3a979ec9ceac"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "dc4b22a521eb4a097c23d36bce0210e2659a99c42dc849bb20a3cb95727a8d23"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "26a693d27e7de2a1b97d13f5fa38bc6e1015c20fb6bb32c905daa20084cfa1d2"
+metafile = true
+
+[[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "aa12a55f83264e77d741c2a932713586c266eabab3d0fd210980b486ef20b045"
 metafile = true
 
 [[files]]
@@ -3879,5 +3921,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.1.txt"
+file = "v0.2.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

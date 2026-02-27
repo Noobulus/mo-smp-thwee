@@ -1,0 +1,7 @@
+[
+  {
+    "action": "remove",
+    "mod": ["arts_and_crafts"],
+    "patterns": ["/.*bleached_.*/"]
+  }
+]

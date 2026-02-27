@@ -1,0 +1,14 @@
+[
+  {
+    "action": "remove",
+    "mod": ["spudaciousshops"],
+    "not": {
+      "items": [
+        "spudaciousshops:contract_scroll",
+        "spudaciousshops:hook_shop",
+        "spudaciousshops:crate_shop"
+      ],
+      "patterns": ["/.*rug.*/"]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "build_tools:cloud_bucket",
+      "moonlight:placeable_item",
+      "porting_lib:area_selector",
+      "everycomp:all_woods",
+      "vanillabackport:music_disc_lava_chicken",
+      "horseman:copper_horn",
+      "camphor:coin_purse",
+      "build_tools:wrench"
+    ]
+  }
+]

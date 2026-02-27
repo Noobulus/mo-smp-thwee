@@ -1,0 +1,13 @@
+name = "Reliable Replacer"
+filename = "reliable_replacer-fabric-1.21.1-1.2.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swDAEYpN/versions/e8NKGCHI/reliable_replacer-fabric-1.21.1-1.2.10.jar"
+hash-format = "sha512"
+hash = "18216ddc4d0f9158aa8eaa376673f0cab4f30770e819ee49604acfb2adb61fcdedf8d9fa46c080ff279042358ebb04e24afd1ffc78982ef56859ae26f10304cd"
+
+[update]
+[update.modrinth]
+mod-id = "swDAEYpN"
+version = "e8NKGCHI"

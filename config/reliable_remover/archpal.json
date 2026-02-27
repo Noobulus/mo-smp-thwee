@@ -1,0 +1,43 @@
+[
+  {
+    "action": "remove",
+    "mod": ["architects_palette"],
+    "not": {
+      "items": [
+        "architects_palette:pipe",
+        "architects_palette:spool",
+        "architects_palette:heavy_stone_bricks",
+        "architects_palette:heavy_mossy_stone_bricks",
+        "architects_palette:heavy_cracked_stone_bricks",
+        "architects_palette:tuff_lamp"
+      ],
+      "patterns": [
+        "/.*:plating.*/",
+        "/.*myonite.*/",
+        "/.*olivestone.*/",
+        "/.*flint.*/",
+        "/.*sunmetal.*/",
+        "/.*twisted.*/",
+        "/.*ancient.*/",
+        "/.*bread.*/",
+        "/.*unobtanium.*/",
+        "/.*nether_brass.*/",
+        "/.*dripstone.*/",
+        "/.*calcite.*/",
+        "/.*tread_plate.*/",
+        "/.*sheet_metal.*/",
+        "/.*hazard.*/",
+        "/.*oracle.*/"
+      ]
+    }
+  },
+  {
+    "action": "remove",
+    "mod": ["architects_palette"],
+    "patterns": [
+        "/.*nub.*/",
+        "/.*railing.*/",
+        "/.*board.*/"
+    ]
+  }
+]
