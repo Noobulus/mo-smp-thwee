@@ -1,10 +1,6 @@
 {
     "values": [
         "#c:eggs",
-        "#c:foods/milk",
-        {
-            "id": "rusticdelight:cooking_oil",
-            "required": false
-        }
+        "#c:foods/milk"
     ]
 }

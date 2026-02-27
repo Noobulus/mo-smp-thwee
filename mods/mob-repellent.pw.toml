@@ -1,0 +1,13 @@
+name = "Mob Repellent"
+filename = "Mob-Repellent-Fabric-1.1.1-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XV1TMTqe/versions/vZS3I0BD/Mob-Repellent-Fabric-1.1.1-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "009fb23d63c1a0f5e115cff6b1105adc0237f5a015ddf661e575885fb38628b860ac92bf4ae748e5e87a95513558ebe38bb1752b3bd4c4b80da7bdfcba77b286"
+
+[update]
+[update.modrinth]
+mod-id = "XV1TMTqe"
+version = "vZS3I0BD"

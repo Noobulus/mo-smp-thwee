@@ -1,0 +1,13 @@
+name = "Slopper"
+filename = "slopper-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NUNNHQGt/versions/LpKgdakl/slopper-1.0.0.jar"
+hash-format = "sha512"
+hash = "305a455009941af5a6ceef8cf6d32fe79c2c83d1b42b347e9e0a7bdb3ea7643f4abff6ee549652327b4390b6d357e6234bc032cb0e6f88ac99d5f7c7eed5724f"
+
+[update]
+[update.modrinth]
+mod-id = "NUNNHQGt"
+version = "LpKgdakl"

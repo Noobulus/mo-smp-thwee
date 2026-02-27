@@ -1027,6 +1027,11 @@ hash = "6321f4d1a0f6f084d0325d27806c0c875526c704a1209c04a19a6a9d31283917"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "6318503d0db8d7955a97a70277aaf44f5001081448131adc889aa8de33abe93c"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "a62a83e4da40c73a07223aadd61e38235769d9d2a06c95a3b8523fdd0837d706"
 metafile = true
@@ -1038,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
@@ -1269,6 +1274,11 @@ file = "mods/mnemonics-1.4.1.jar"
 hash = "53203150bacf813ccff191a9d561ccdc203d6e37b4bccceeecf6f9a9ed2c3ba2"
 
 [[files]]
+file = "mods/mob-repellent.pw.toml"
+hash = "799b46bef7edf5186967dca88aa771411b1d99521eaa2e6c6f59e2cd6cdbe497"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
 metafile = true
@@ -1309,6 +1319,11 @@ hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
+file = "mods/nether-additions.pw.toml"
+hash = "41f6f5c3259bb84e02d558e4069bb1498ee9dc912b380865e521c869fd082497"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
@@ -1329,6 +1344,11 @@ hash = "460905660fb355ffb970de6bc76298cc216bf61c1a7343ffd815441476d84b61"
 metafile = true
 
 [[files]]
+file = "mods/onion-onion.pw.toml"
+hash = "bf67e203026bb8a9b923aaf0885eb9dacab2440a3dcc06a50c6a27b7fc335df1"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "c376cf0fea164e49d350235fb84edcd651f0f0470350054015d263d3a57506de"
 metafile = true
@@ -1341,6 +1361,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/oxide.pw.toml"
+hash = "97a0433c053d6004dd848c6a267da494d54feffa42619f9b0a5afc2bd00f2d1a"
 metafile = true
 
 [[files]]
@@ -1488,6 +1513,11 @@ hash = "cabe8fb83bb069431798b84da7678892ac2bdaf8b6100cedd9c2744efdca3c08"
 metafile = true
 
 [[files]]
+file = "mods/slopper.pw.toml"
+hash = "94b13c30f8ad131509fa476f68a898b7658745508dac3f22b079617373cd4ad4"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "f859244dee8cb24d950a915886be27754847b2d216a530a20645a682923ba78c"
 metafile = true
@@ -1569,12 +1599,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aa5a67914473c79c2f30eea6c7b4107c60911887987048a477bbc6a860305d82"
+hash = "2cad25b230d75f0845fa867f76f6b7032d071d063b3602fb995ce26e2e574e7c"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "66e9ba66dcee3ba5657f9290b97f8357ad3e76ccec28fde1c47e10a570bfea8a"
+hash = "10f4f0982e8d09c581450e4a423b5c30b05bd0b7da1991a1e5d57be65a0fdb3f"
 metafile = true
 
 [[files]]
@@ -2289,10 +2319,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "a25c32f88d3f31aa0a142b33169be0a2b92cc9a32e962a60436ac6271d35f695"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/golden_coffee_beans.json"
-hash = "069d17bb9581f2ad0f32f078201fe6da0bb4dd6514978888cb267afaa04880de"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/green_dye.json"
 hash = "15e87884b346f01cd02665d32c979587e2932fe1b1b8eaa8c4531e0a9ec67642"
 
@@ -2431,10 +2457,6 @@ hash = "d87fe9e988fc101ac23259ff80d01e9fabd00773c5c765caaf8d686cc778f2f7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/tnt.json"
 hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/white_wool_from_string.json"
-hash = "ad03c9d3e382b2bc9e966924d2f53cb7b91902ef273f5d3308e221ba3b6a8ff0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/beacon_base_blocks.json"
@@ -2829,10 +2851,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7ff37bef0e9037135cb948910f13baaf2a1b95e084a779324b5e9aabd47abd88"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/cotton_boll.json"
-hash = "f5506ab3469e5776b9cebedff958974fe60268120906eccb067641bc8605173f"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/doors.json"
 hash = "f09168ebc5f28c7cbcf6b2eeffbcbfe31054f62280fdab91ba9b1c77730c3ca3"
 
@@ -3185,10 +3203,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "d2b4f53961e546d46aa2b3aaebbde9f9509bad1a2063c19894acdb07983e5f14"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_cotton.json"
-hash = "46626e6dc6ba109ea0ee963386e4d09be69c7b0ca47fe031a73e16d8a470c35d"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_logs.json"
 hash = "43692e3ce8f2ddac5569829e9796695d9d0f9cc52d50238ad1b20bdbc37a94c7"
 
@@ -3362,7 +3376,7 @@ hash = "889426b6a8d4d4d0646abb681646f6d835970fa9b78b944e8a6d911d04418e27"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
-hash = "7464242ecf89d7241e01eef829da7fe1e9d2c588077209fff728ab156c572e4a"
+hash = "2c562de871412cf0fe973997831ffcf9a9fd75a9d1aa9be47059311a0fa6b1ae"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
@@ -3371,10 +3385,6 @@ hash = "4253eccd9c0400137e47bf37f88bf1efbdfcd59dc6829b8b0b349f45086e291a"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/quiche_toppings.json"
 hash = "eb45043bc5735907862b71b4193822c2597f06f2de08d9d8c4daedd2e311e0fd"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/vanity_armors.json"
-hash = "0818b395f7d985c5ae6399fc7d71c142919f1ee9c77853fa45adea1b2f715b93"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
@@ -3921,5 +3931,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.2.txt"
+file = "v0.2.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
