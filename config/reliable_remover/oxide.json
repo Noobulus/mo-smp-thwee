@@ -1,0 +1,14 @@
+[
+  {
+    "action": "remove",
+    "mod": ["oxide"],
+    "items": [
+      "oxide:cirnonail",
+      "oxide:cement_eater",
+      "oxide:rebar"
+    ],
+    "patterns": [
+      "/.*nail.*/"
+    ]
+  }
+]

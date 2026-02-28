@@ -2,11 +2,11 @@
     "type": "architects_palette:warping",
     "ingredient": [
         {
-            "item": "miku-plushie:teto_plush_synthv"
+            "item": "blahaj:bread"
         }
     ],
     "result": {
-        "id": "miku-plushie:teto_plush_birdbrain"
+        "id": "blahaj:brown_bear"
     },
     "dimension": "minecraft:the_nether"
 }

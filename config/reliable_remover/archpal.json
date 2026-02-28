@@ -34,6 +34,10 @@
   {
     "action": "remove",
     "mod": ["architects_palette"],
+    "items": [
+      "architects_palette:sunmetal_blend",
+      "architects_palette:nether_brass_blend"
+    ],
     "patterns": [
         "/.*nub.*/",
         "/.*railing.*/",

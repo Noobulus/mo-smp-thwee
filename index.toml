@@ -113,10 +113,6 @@ file = "config/debugify.json"
 hash = "e7ed47713ff6f09bcfd5c9f7779097ca7349e1d4d155e3c417c13667d6cf2a9b"
 
 [[files]]
-file = "config/dramaticdoors-startup.toml"
-hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
-
-[[files]]
 file = "config/dummmmmmy-common.json"
 hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
@@ -310,7 +306,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "4e72d66b020880b76c86d40863b3c64383061c349916d8e98358c8af0ae02517"
+hash = "f2dc52af2e3d3a107f39076bc572184ef7ceaf8ef1cc9d4ac937a0343cb2fa4b"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -326,11 +322,15 @@ hash = "4211c2b4ae086a0d5e6d756c04decb58dfac95e476150eb6e762a1a3dddb169f"
 
 [[files]]
 file = "config/reliable_remover/miku_plushies.json"
-hash = "d17520f7be0c0dfd4ccd2330a1f9bbf39c41eb10236c5f0d308d18dfd74371cf"
+hash = "4ec2e8c27f8b3278b07b8436a2480bf6fbcd7ac2efed316727bea60c086563f9"
 
 [[files]]
 file = "config/reliable_remover/misc.json"
 hash = "79974289ecbbd0a1034ee9361b9d9035b11a5d84657421c67e634d48b9cb4b10"
+
+[[files]]
+file = "config/reliable_remover/oxide.json"
+hash = "2f5711a8c62df59d872ea707b65b65a70d83045a5ddb112ed6d4135583648041"
 
 [[files]]
 file = "config/reliable_remover/spudshops.json"
@@ -878,11 +878,6 @@ hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
 
 [[files]]
-file = "mods/connectiblechains.pw.toml"
-hash = "5be713e693dce8bfa7d874f289cdec853113a9db1fb0a7458f96a28bff3bbd30"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -942,16 +937,6 @@ file = "mods/dont-break-your-tools-1.3.1-1.21.1.jar"
 hash = "571a3e60083a1f099993b108906556053c645abfefb54b0b85a45d6de0b01c3c"
 
 [[files]]
-file = "mods/door-jam.pw.toml"
-hash = "7821cf0b443c676ac6576a84da6323de5bda9154874d8e7c0dce8f0a278b0fd6"
-metafile = true
-
-[[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
-metafile = true
-
-[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "060981d6866a73e34cdd2236ec18d7ed291840590611923b25af9880fb14b288"
 metafile = true
@@ -999,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
 hash = "4b90a181883115f95724390a8911ca953652238345d45417e0ebcf10416fb86b"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "19fad0686ce50d6f894e70cfd3c1302624dd549c818f8ff021624730c0d273f1"
 metafile = true
 
 [[files]]
@@ -1236,6 +1226,11 @@ hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "38d5a309095c272b7cb305e63bea744ab60052b36bda04051bd48914386ddbf1"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "0376bf20dee7c6029927537c7b04e0b4d24cdfdd39df712e02411b775e7ffe41"
 metafile = true
@@ -1448,6 +1443,11 @@ hash = "172a658be9fa46cb9a34044985a954711c4cdfa66c6c3396e74b3a979ec9ceac"
 metafile = true
 
 [[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "ebd83a123983e8906b494dd502810ff5bd205bb30061af97f514f2c57ac61602"
+metafile = true
+
+[[files]]
 file = "mods/reliable-recipes.pw.toml"
 hash = "dc4b22a521eb4a097c23d36bce0210e2659a99c42dc849bb20a3cb95727a8d23"
 metafile = true
@@ -1490,6 +1490,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0d51bf2566f8057955226b2bc0ddf7b404d581304dcf163139e1b4fb6ac2fc7e"
+metafile = true
+
+[[files]]
+file = "mods/shutter-up.pw.toml"
+hash = "d3c436bc4083952d77b2d21138ce013ad80bff40556f4f5a3cf6954d9d2d2835"
 metafile = true
 
 [[files]]
@@ -1650,6 +1655,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/ziplines-rezipped.pw.toml"
+hash = "eb1d0078e1312adf751d7aa3d039677503e4b9e1bd839c8be80803c35dd93cd1"
 metafile = true
 
 [[files]]
@@ -3224,11 +3234,15 @@ hash = "2c8c4a274490bfac9bc63532400f863548fd8d3d8c40f6de4c6b110047483dad"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
-hash = "42103e9ff0915280e9a418a8216fd850a1b90ffbc76ddfcd7fada6539108d0f2"
+hash = "a06e62a1587b8e8ef9aafad32b230af1671952fa2121ae7430f7dd402c417a51"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/tube_coral_block.json"
 hash = "9989c7afd2f88b7d79e72d14a386d28aa095cc9fc4a9a246d42f9f1e992415bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/akita_from_gumi.json"
+hash = "9bbe2b26562f3bcac4f7fca39d8390a38c9d48ba70905f200c22b01d36a6cde4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/akita_from_len.json"
@@ -3236,11 +3250,15 @@ hash = "f54fd6d3fc0db8b6ab49bc965b64c50882c245b7a33acfb5c5d4fe3c0a404199"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/birdbrain_teto_from_teto.json"
-hash = "5fcadb0fa1a51930081bf808d2271ba69af6a52da570349acc1ac718d70562bd"
+hash = "c0b7c6107856792f29f24076b81e5254b4e1254056ee8234fe299259dfbe2c48"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_bread.json"
 hash = "7e8922e9364047ebcd2030862bfd54d207ea30a6eaeb0c9e3515b5fcc8360df8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_brown_bear.json"
+hash = "5aac08103637a1207f3f315081bd8bc214e26a5af6b6e2bb9ea59a4c1a68426f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_whale_from_blue_shark.json"
@@ -3255,8 +3273,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "bbb7693517737e6e42dd028f9b3c4a82423a464993656a092d2a19ab910d3785"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/brown_bear_from_bread.json"
+hash = "13f66a5db7a8ad3ca687092b14563c24f7f6c5c37afc124e437b67b6f2746dee"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/entwine_rod_from_bone.json"
+hash = "cdb4e8ca357fe9147230a91291e61ad650d32be2343e062552b4904570a9fd30"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/fujo_miku_from_brazilian_miku.json"
 hash = "bd7689f56ffa24bb5dcb58b964b15f3c19e86524ececcdb59e9e308bc5d09214"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/gumi_from_len.json"
+hash = "99b2df82cf81ce715138c38b9de88a0f0917d42dd17722e7afc4812a6789d0e3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/len_from_rin.json"
@@ -3267,6 +3297,26 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4ee8ee08b427dc8d1def96052969c60dcadf1f97b461c20c8fddf979dda9c3cb"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/miku_from_static_miku.json"
+hash = "162eea1f54d1723d266b920d8150a6bdd8797350764f19609c9723f5c4d4d0df"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/nether_brass_from_copper.json"
+hash = "bd479820bd3341b02d3ec8563883667368c7723a98dec596f76cba15a849c1b4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/nether_brass_nugget_from_copper_nugget.json"
+hash = "8c88943a20d5f1ef58a4996dbf465936e5353ff31892d898c371393567d0361d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/oracle_jelly_from_slimeball.json"
+hash = "d95d68fa16ce9494e314f560046afeb5f8b88c3f31fbfdc6f06db0f9aacda2dc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/prismarine_from_fish.json"
+hash = "d73281f5adcc935bddb79355cdf2049bb05320a0127cb8e28a4e8af08af1941b"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/rin_from_akita.json"
 hash = "fa653f6f15aeb47c5114b20ed14f90f3cc4a524edfb36b32e4b783b64819291e"
 
@@ -3275,8 +3325,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "97ed5d8423e7f0fbbca1b272a5acd586193e79836cafb08c16553abc0c3fb6c3"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/spoken_for_teto_from_smots_teto.json"
+hash = "2f1d85586a2341228c34d68b5a7cfab8045459cdc9f535b763ca2fa58f645015"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/static_miku_from_fujo_miku.json"
+hash = "45fa152a10a578088bb39df1888ddf22b95842b3130f1ba5f58d91ff487035ad"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/sunmetal_from_brick.json"
+hash = "03b096f0a5ccb11889f690b9deec1d5f53366b77ebac9a7ff245ea4528e0c111"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_smots_teto.json"
 hash = "eb12d15d5f2c10a3da9b88f98dca9e0e4a1dc7386b773fbcd3d68d03deaca562"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_spoken_for_teto.json"
+hash = "4215558cb60150c3cc1ba79b0c4978e4a31197ddef9c7174abe882d546b5018f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/wood_campfire.json"
@@ -3516,7 +3582,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "46210abfbe367aff00ab4535f109805a21884062c989f09bce03650b9b493ff2"
+hash = "3be0956a1c1f4f7f4048e122429e54cd853ef9c7c4b7c8fdcd4940ae82096e59"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3931,5 +3997,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.3.txt"
+file = "v0.2.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

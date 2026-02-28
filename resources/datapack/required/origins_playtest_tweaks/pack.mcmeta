@@ -198,6 +198,18 @@
     {
         "namespace": "supplementaries",
         "path": "flute_songs/alia.json"
+    },
+    {
+        "namespace": "architects_palette",
+        "path": "recipe/sunmetal_blend.json"
+    },
+    {
+        "namespace": "architects_palette",
+        "path": "recipe/nether_brass_blend.json"
+    },
+    {
+        "namespace": "architects_palette",
+        "path": "recipe/oracle_jelly.json"
     }]
   }
 }

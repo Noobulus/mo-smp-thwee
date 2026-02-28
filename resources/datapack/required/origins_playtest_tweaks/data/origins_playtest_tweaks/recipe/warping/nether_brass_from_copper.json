@@ -2,11 +2,11 @@
     "type": "architects_palette:warping",
     "ingredient": [
         {
-            "item": "miku-plushie:teto_plush_synthv"
+            "item": "minecraft:copper_ingot"
         }
     ],
     "result": {
-        "id": "miku-plushie:teto_plush_birdbrain"
+        "id": "architects_palette:nether_brass_ingot"
     },
     "dimension": "minecraft:the_nether"
 }
