@@ -1,16 +1,18 @@
 {
+  "replace": true,
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "oxide:cement_block"
+      "item": "minecraft:iron_block"
     }
   },
   "pattern": [
-    "###"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 6,
-    "id": "oxide:cement_block_slab"
+    "count": 64,
+    "id": "oxide:plate_iron"
   }
 }

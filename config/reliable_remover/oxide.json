@@ -6,9 +6,6 @@
       "oxide:cirnonail",
       "oxide:cement_eater",
       "oxide:rebar",
-      "oxide:cement_bucket",
-      "oxide:cement",
-      "oxide:cement_slab"
     ],
     "patterns": [
       "/.*nail.*/",

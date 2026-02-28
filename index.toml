@@ -338,7 +338,7 @@ hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
-hash = "2bc03f222a7e4f86f3bbd931ba9ddfca8f63523f3a76fdc64dd31de6330fa4c9"
+hash = "76fcb49f97341544f38afbda18cf81bacce7d40ff5f29cace5e35a270672a5a4"
 
 [[files]]
 file = "config/reliable_remover/spudshops.json"
@@ -1371,9 +1371,8 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
-file = "mods/oxide.pw.toml"
-hash = "97a0433c053d6004dd848c6a267da494d54feffa42619f9b0a5afc2bd00f2d1a"
-metafile = true
+file = "mods/oxide-1.21.1-BETA-26.2.13b-fabric.jar"
+hash = "2ce63fed130c64552108c82eeaab1708d170fb4fd4a0a66538136bf55d1b440a"
 
 [[files]]
 file = "mods/particular.pw.toml"
@@ -2230,7 +2229,7 @@ hash = "23f510146263d66e738f2133b0f8ca2393bf276d71184fab568af47eed933753"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/miku-plushie/worldgen/configured_feature/leek.json"
-hash = "bac359cfaf5347d19e01252db0c9c1e33d0afbc898509fb7b3c70fbe19f758a5"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
@@ -3241,28 +3240,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_block.json"
-hash = "535e080109a2f7ec597093eec9b6a0a5078608714d5a63f6b4d429785a19cf78"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_slab.json"
-hash = "df5075eab6474859e6a20e3e343dfb4dc56fa59495815fefcc05020e4be18111"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cinder_blocks.json"
-hash = "69c0ff8e948aad4d204017eabbbf2f299392e052a6a6b6282d825dfc678cdd4c"
+hash = "01ce24a29d9b2726bc61e0d342add6f86b9f656ef3324baf1a87f974bd02a18c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/clinker_bricks.json"
-hash = "7b0f4899ec4546991ae56736fd897d8841bdffbd64efbf6acee8ae5c999e3c3a"
+hash = "515ee05c7af1f5c12eaa6eacc502493c7920525c023a2c479ca707e5a783c651"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cream_bricks.json"
-hash = "c691b11a42cb3b4f445fa4e096307d8d6a5a6a5537b24e4c2e1796782bdb41f1"
+hash = "beec462cd2b51c9b525a1269c7010feef5e604c849c40f11c53809ad23a6ebcf"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/stock_bricks.json"
-hash = "bd82b6a187c5a5bae5242f762f572df05229aa0cacf826b6dbbfd3c16c97f213"
+hash = "fc27c20e9b5628af5e6e5fb745a0d9107bb620747f9d92c73a7aa41c8e8fac14"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/quiche.json"
@@ -3529,76 +3520,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_slab.json"
-hash = "9cf85f0d5dfbd60eaaf08069d5c676de60769e5fdb0dd6fd3fb0e47c224d38a3"
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/heavy_iron_trapdoor.json"
+hash = "3c8ecbfdd2ca01906e89b2701dde6cb3f034145b3411c4d2e231ad79d1826baa"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_stairs.json"
-hash = "9096f1afab90520a9d1d720a8fae0add94cff19327ab9dc713fdc112bc0b98bf"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_wall.json"
-hash = "9e28023b73254b44eb1bea7402a2d949e8c9f783c2c7235a21cc1b3b0e4b1c1a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_slab.json"
-hash = "c5ea3fece63d795083d8bfe6b3bcda859f8bb61653c8172b7350e8958b7f276c"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_stairs.json"
-hash = "c59898340300b142894573ff0085940b93e5d64bc4ebdaa51ca0918c20893551"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_wall.json"
-hash = "8f5937d514099685d975b6c2a7c570d637ef966dc4791a713b9ccb0b6d2aadc1"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_slab.json"
-hash = "5ecc80ea120efb7ab67be8d184bfc7db1c89b74c04c3afc1ce04edcb05383fa2"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_stairs.json"
-hash = "7df6b64de804beda47c1838299f962f5267da900b5d247859b7a89f9a0f2dbb2"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_wall.json"
-hash = "96cae3d129e8d2dc32b2d96b0b47c80ad6b4027b2de3350fcc49be4c1996223f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_slab.json"
-hash = "c9b861223a241234af37bbe890947c015fa0438129f72ec8a938fd12a9e7ee7b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_stairs.json"
-hash = "b35dba558c712dcef3954cf1f3a97fafba5fb812d125d941c28821f6d9d9f681"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_wall.json"
-hash = "71723cc74cbed86e1871116b0c5c1ed964fb849c059540ddb31bc20d22edfa3b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_slab.json"
-hash = "b4566a1da1ab22e3510e738212ad3fe9400260551ce7cc0346399779c86cd0c9"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_stairs.json"
-hash = "717abc66ed4e5a27a2d50d28556aedad0c1a57f83f4fb1a2307c594650e36785"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_wall.json"
-hash = "ef61338af52b435ac1a6f6799313be3049038841717856e4ca272dc102c2755e"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_slab.json"
-hash = "6c15c5d06b513d3f194fe63536424aa9f6b28a9ee0ce3b4d58d140286d2b2c3f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_stairs.json"
-hash = "ae6289a9541a44a0778758df617268ea919df6506e401bf61ca307c42f67ea8e"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_wall.json"
-hash = "01c79c7382e1ce63a4694e4161821a9a08d6bbed7260a5dec4696b8bc4e6a7dc"
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/plate_iron.json"
+hash = "885ed61a012d71ccd5b1f58adcb82f0714e382b388edc895672d28107580b025"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/pearfection/recipe/pear_tart.json"
@@ -4141,5 +4068,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.5.txt"
+file = "v0.2.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
