@@ -1,1 +1,11 @@
-{"onlyLoadSpecified":false,"loadOrder":[]}
+{
+    "onlyLoadSpecified":false,
+    "loadOrder": [
+        "file/clifftree-3.1.4b-1.21.2.zip",
+        "enderscape:new_strongholds",
+        "enderscape:new_terrain",
+        "enderscape:new_end_cities",
+        "enderscape:fix_vanilla_recipes",
+        "enderscape:fix_levitation_advancement"
+    ]
+}

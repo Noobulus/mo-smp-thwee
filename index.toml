@@ -106,7 +106,7 @@ hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
+hash = "8ff413321850e92476ef5662fa6e26273032c56d0991f4475576f2d6eb6efb49"
 
 [[files]]
 file = "config/debugify.json"
@@ -306,7 +306,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "f2dc52af2e3d3a107f39076bc572184ef7ceaf8ef1cc9d4ac937a0343cb2fa4b"
+hash = "a986673e03bc99c42dca7769a2acd3b699f4dfeee2e6e43b8a04332f536f6884"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -315,6 +315,10 @@ hash = "f588ac3c308593cc50f171e731395a2c95e544d3bc6d937aed70ed8dc1aa08bd"
 [[files]]
 file = "config/reliable_remover/blahaj.json"
 hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
+
+[[files]]
+file = "config/reliable_remover/everycomp.json"
+hash = "63e78643e42f3cba60b66eeaec92c861898a5a64463bd6375c2777a356c3a05b"
 
 [[files]]
 file = "config/reliable_remover/kaleidoscopic.json"
@@ -326,11 +330,15 @@ hash = "4ec2e8c27f8b3278b07b8436a2480bf6fbcd7ac2efed316727bea60c086563f9"
 
 [[files]]
 file = "config/reliable_remover/misc.json"
-hash = "79974289ecbbd0a1034ee9361b9d9035b11a5d84657421c67e634d48b9cb4b10"
+hash = "fa54bba901861e6ee61a151b8b4be18e42b36d3b4f1b167f8212d1ef10438d3c"
+
+[[files]]
+file = "config/reliable_remover/nether_addition.json"
+hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
-hash = "2f5711a8c62df59d872ea707b65b65a70d83045a5ddb112ed6d4135583648041"
+hash = "2bc03f222a7e4f86f3bbd931ba9ddfca8f63523f3a76fdc64dd31de6330fa4c9"
 
 [[files]]
 file = "config/reliable_remover/spudshops.json"
@@ -611,6 +619,10 @@ hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
+
+[[files]]
+file = "config/zipline.json"
+hash = "82858499b370a7a382d33761bc176adb45b36a2ee0221a05645f6ae0497e5a42"
 
 [[files]]
 file = "icon.png"
@@ -1227,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "38d5a309095c272b7cb305e63bea744ab60052b36bda04051bd48914386ddbf1"
+hash = "788b10db97a8c2e1fdca7a4450fd0aac96c9e6b7fe29fccc13bcf4487964e16d"
 metafile = true
 
 [[files]]
@@ -1604,7 +1616,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2cad25b230d75f0845fa867f76f6b7032d071d063b3602fb995ce26e2e574e7c"
+hash = "d6bd6f926076809bb9720e44ec970fde84336763485c82d546a5ae0999cfe73f"
 metafile = true
 
 [[files]]
@@ -2033,6 +2045,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your
 hash = "017e21c701fca964fc55a3d2244f30a703a8e549e018cc174f93ff848c5532d4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/shadoline_chain.json"
+hash = "aa56e264760a199aa0f46896d235cc4db4feef6068b7ea4fa7597db1cf7674a0"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
 hash = "b5bb7d5e6390c54ee74162a47a3dde8e59ef92a2e7ebedc15c7f4610cf362888"
 
@@ -2185,8 +2201,36 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/a
 hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/block/warm_blocks_user_friendly.json"
+hash = "c424f74bce8ba449a839a62d24b43b933e8a70572d2b03c30e87e5b946583525"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/block/warm_blocks_when_lit.json"
+hash = "c424f74bce8ba449a839a62d24b43b933e8a70572d2b03c30e87e5b946583525"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/block/woodsy_hideable.json"
+hash = "96139a3929900f0279d30d9a18ee734124b17d56288daea2887a94e3bb11287d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/berries.json"
+hash = "5c545006a5f51a56ef15f9dd7ae5eaa371af0bf64d70610e630956d5be957b10"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/fruit_products.json"
+hash = "75902e3d1edc69664503ff2e894643fcea6a01a2922d33e0a11c9bdd9a4d0b5c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/grain_products.json"
+hash = "2c1df3d21cc270374b24dea0dcb3056290006a1521e4c89e8f115ba1ed727761"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddysmanyminiaturemodifications/tags/item/horse_bulk_food.json"
 hash = "23f510146263d66e738f2133b0f8ca2393bf276d71184fab568af47eed933753"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/miku-plushie/worldgen/configured_feature/leek.json"
+hash = "bac359cfaf5347d19e01252db0c9c1e33d0afbc898509fb7b3c70fbe19f758a5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
@@ -3197,6 +3241,30 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_block.json"
+hash = "535e080109a2f7ec597093eec9b6a0a5078608714d5a63f6b4d429785a19cf78"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_slab.json"
+hash = "df5075eab6474859e6a20e3e343dfb4dc56fa59495815fefcc05020e4be18111"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cinder_blocks.json"
+hash = "69c0ff8e948aad4d204017eabbbf2f299392e052a6a6b6282d825dfc678cdd4c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/clinker_bricks.json"
+hash = "7b0f4899ec4546991ae56736fd897d8841bdffbd64efbf6acee8ae5c999e3c3a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cream_bricks.json"
+hash = "c691b11a42cb3b4f445fa4e096307d8d6a5a6a5537b24e4c2e1796782bdb41f1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/stock_bricks.json"
+hash = "bd82b6a187c5a5bae5242f762f572df05229aa0cacf826b6dbbfd3c16c97f213"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/quiche.json"
 hash = "9673cb1179f3acb1a1c50a42d81831cabefcc14689e8870825773bfcc88fd136"
 
@@ -3409,6 +3477,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9424f0342608adfcb70b6fd4d47fc4d0f59492eee65ba88a6c5bb445b3ed921a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shadoline_cutting_buff.json"
+hash = "5977983c6195961721aa836e400882e4ec54d50a2cf225ce80ea02b342afb152"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shops.json"
 hash = "b599a9924aee06371b4c18e2630e46ceaf57407dde3dcc10c9f51ed4a1871cea"
 
@@ -3455,6 +3527,78 @@ hash = "eb45043bc5735907862b71b4193822c2597f06f2de08d9d8c4daedd2e311e0fd"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_slab.json"
+hash = "9cf85f0d5dfbd60eaaf08069d5c676de60769e5fdb0dd6fd3fb0e47c224d38a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_stairs.json"
+hash = "9096f1afab90520a9d1d720a8fae0add94cff19327ab9dc713fdc112bc0b98bf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/clinker_brick_wall.json"
+hash = "9e28023b73254b44eb1bea7402a2d949e8c9f783c2c7235a21cc1b3b0e4b1c1a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_slab.json"
+hash = "c5ea3fece63d795083d8bfe6b3bcda859f8bb61653c8172b7350e8958b7f276c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_stairs.json"
+hash = "c59898340300b142894573ff0085940b93e5d64bc4ebdaa51ca0918c20893551"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cream_brick_wall.json"
+hash = "8f5937d514099685d975b6c2a7c570d637ef966dc4791a713b9ccb0b6d2aadc1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_slab.json"
+hash = "5ecc80ea120efb7ab67be8d184bfc7db1c89b74c04c3afc1ce04edcb05383fa2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_stairs.json"
+hash = "7df6b64de804beda47c1838299f962f5267da900b5d247859b7a89f9a0f2dbb2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stock_brick_wall.json"
+hash = "96cae3d129e8d2dc32b2d96b0b47c80ad6b4027b2de3350fcc49be4c1996223f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_slab.json"
+hash = "c9b861223a241234af37bbe890947c015fa0438129f72ec8a938fd12a9e7ee7b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_stairs.json"
+hash = "b35dba558c712dcef3954cf1f3a97fafba5fb812d125d941c28821f6d9d9f681"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/clinker_brick_wall.json"
+hash = "71723cc74cbed86e1871116b0c5c1ed964fb849c059540ddb31bc20d22edfa3b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_slab.json"
+hash = "b4566a1da1ab22e3510e738212ad3fe9400260551ce7cc0346399779c86cd0c9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_stairs.json"
+hash = "717abc66ed4e5a27a2d50d28556aedad0c1a57f83f4fb1a2307c594650e36785"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/cream_brick_wall.json"
+hash = "ef61338af52b435ac1a6f6799313be3049038841717856e4ca272dc102c2755e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_slab.json"
+hash = "6c15c5d06b513d3f194fe63536424aa9f6b28a9ee0ce3b4d58d140286d2b2c3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_stairs.json"
+hash = "ae6289a9541a44a0778758df617268ea919df6506e401bf61ca307c42f67ea8e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/stock_brick_wall.json"
+hash = "01c79c7382e1ce63a4694e4161821a9a08d6bbed7260a5dec4696b8bc4e6a7dc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/pearfection/recipe/pear_tart.json"
@@ -3997,5 +4141,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.4.txt"
+file = "v0.2.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

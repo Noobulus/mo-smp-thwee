@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "mod": ["nether_additions"],
+    "patterns": [
+      "/.*tile.*/"
+    ]
+  }
+]

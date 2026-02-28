@@ -1,0 +1,13 @@
+[
+  {
+    "action": "remove",
+    "mod": ["everycomp"],
+    "items": [
+        "everycomp:all_woods"
+    ],
+    "patterns": [
+        "/.*railing.*/",
+        "/.*board.*/"
+    ]
+  }
+]

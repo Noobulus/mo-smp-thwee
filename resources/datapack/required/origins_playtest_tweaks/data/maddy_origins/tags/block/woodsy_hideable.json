@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "enderscape:corrupt_growth",
+            "required": false
+        },
+        {
+            "id": "enderscape:celestial_growth",
+            "required": false
+        },
+        {
+            "id": "enderscape:wisp_flower",
+            "required": false
+        },
+        {
+            "id": "enderscape:veiled_vines",
+            "required": false
+        }
+    ]
+}

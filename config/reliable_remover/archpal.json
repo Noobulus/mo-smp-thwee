@@ -27,7 +27,9 @@
         "/.*tread_plate.*/",
         "/.*sheet_metal.*/",
         "/.*hazard.*/",
-        "/.*oracle.*/"
+        "/.*oracle.*/",
+        "/.*crater.*/",
+        "/.*basalt.*/"
       ]
     }
   },

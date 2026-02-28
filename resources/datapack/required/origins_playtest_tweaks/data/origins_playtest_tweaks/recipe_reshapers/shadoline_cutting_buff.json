@@ -1,0 +1,28 @@
+{
+    "id_substrings": {
+        "@": "cut_shadoline",
+        "#": "shadoline_block"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "##",
+                "##"
+            ],
+            "output_token": "@",
+            "output_count": 4
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_cut_shadoline",
+            "pattern": [
+                "##",
+                "##"
+            ],
+            "output_token": "@",
+            "output_count": 16,
+            "category": "building"
+        }
+    ]
+}
