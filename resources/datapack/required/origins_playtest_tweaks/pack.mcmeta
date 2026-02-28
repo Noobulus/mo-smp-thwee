@@ -212,7 +212,7 @@
         "path": "recipe/oracle_jelly.json"
     },
     {
-        "namespace": "arciitects_palette",
+        "namespace": "architects_palette",
         "path": "recipe/ancient_plating.json"
     }]
   }

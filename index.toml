@@ -3745,7 +3745,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "c70963f66caab5bd781e444e2f340751e52b8c3056d1c0887893a67a0c0ec864"
+hash = "7f773eca88a03116f3972c2f658dade79df808c02fb986ed1268bade84bd7802"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4160,5 +4160,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.7.txt"
+file = "v0.2.8.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
