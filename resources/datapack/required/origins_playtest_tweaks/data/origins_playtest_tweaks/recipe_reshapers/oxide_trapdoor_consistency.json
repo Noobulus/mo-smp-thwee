@@ -1,0 +1,28 @@
+{
+    "id_substrings": {
+        "=": "trapdoor"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                " # ",
+                "# #",
+                " # "
+            ],
+            "output_token": "=",
+            "output_count": 12
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_consistent_oxide_trapdoors",
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        }
+    ]
+}

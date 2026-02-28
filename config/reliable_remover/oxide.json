@@ -5,7 +5,7 @@
     "items": [
       "oxide:cirnonail",
       "oxide:cement_eater",
-      "oxide:rebar",
+      "oxide:rebar"
     ],
     "patterns": [
       "/.*nail.*/",

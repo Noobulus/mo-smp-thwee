@@ -25,7 +25,6 @@
         "/.*dripstone.*/",
         "/.*calcite.*/",
         "/.*tread_plate.*/",
-        "/.*sheet_metal.*/",
         "/.*hazard.*/",
         "/.*oracle.*/",
         "/.*crater.*/",

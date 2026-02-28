@@ -1,0 +1,26 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "type": "minecraft:stonecutting",
+        "output": "/.*heavy_iron.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "output": "oxide:plate_iron"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "output": "oxide:cut_iron"
+      }
+    }
+  ]
+}

@@ -1,17 +1,18 @@
 {
   "replace": true,
   "type": "minecraft:crafting_shaped",
+  "category": "building",
   "key": {
     "#": {
       "item": "oxide:plate_iron"
     }
   },
   "pattern": [
-    "###",
-    "###",
+    "#",
+    "#"
   ],
   "result": {
-    "count": 6,
-    "id": "oxide:heavy_iron_trapdoor"
+    "count": 2,
+    "id": "oxide:iron_pillar"
   }
 }

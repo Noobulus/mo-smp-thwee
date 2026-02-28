@@ -1,13 +1,13 @@
 name = "Reliable Recipes"
-filename = "reliable_recipes-fabric-1.21.1-1.3.10.jar"
+filename = "reliable_recipes-fabric-1.21.1-1.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/TREpu0gg/reliable_recipes-fabric-1.21.1-1.3.10.jar"
+url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/SEVAov7m/reliable_recipes-fabric-1.21.1-1.4.5.jar"
 hash-format = "sha512"
-hash = "bc04b72abfede04dfd7e13bf205490ec3b60946484e9f8d2e7a5b7125f50fb266f689e36f42bf0e887f39b460ea7b7bd91af98f3b0fd0ff475df173d1a390cef"
+hash = "a8d29d3818bbbb5bfc89a123f27126a0d21b8a7197e563dc007bcb8f0184398165b36e8e804384749d60ca04561a143795bfab12cf7c654cb6e956eacf2c98bd"
 
 [update]
 [update.modrinth]
 mod-id = "Hl4ARA1z"
-version = "TREpu0gg"
+version = "SEVAov7m"

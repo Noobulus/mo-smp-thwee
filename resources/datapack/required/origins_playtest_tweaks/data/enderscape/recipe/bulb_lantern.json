@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "enderscape:bulb_flower"
+    },
+    "X": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    " C ",
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "id": "enderscape:bulb_lantern"
+  }
+}

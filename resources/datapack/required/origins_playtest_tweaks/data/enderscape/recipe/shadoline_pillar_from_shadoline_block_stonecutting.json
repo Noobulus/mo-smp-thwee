@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "enderscape:shadoline_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "enderscape:shadoline_pillar"
+  }
+}

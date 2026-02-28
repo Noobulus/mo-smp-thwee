@@ -305,8 +305,12 @@ file = "config/preferred-gamerules.properties"
 hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
+file = "config/reliable_recipes/oxide.json"
+hash = "ee8ec0a10cf601a8aa5ba4ffc3fdffe7b6058802f28729c65ae63ed2a85c1d54"
+
+[[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "a986673e03bc99c42dca7769a2acd3b699f4dfeee2e6e43b8a04332f536f6884"
+hash = "298406966ccaa3764a52354a5f921b049781df8cc76dd85ca78fc44f68a5a523"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -338,7 +342,7 @@ hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
-hash = "76fcb49f97341544f38afbda18cf81bacce7d40ff5f29cace5e35a270672a5a4"
+hash = "70b466f8a449c6229c7aba56dda3987edd2e2c54943e70907e95d79736925d52"
 
 [[files]]
 file = "config/reliable_remover/spudshops.json"
@@ -1460,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "dc4b22a521eb4a097c23d36bce0210e2659a99c42dc849bb20a3cb95727a8d23"
+hash = "46634df74545ffacdd505761d792f723bb06abb66a2fc4ababe9162671ae2717"
 metafile = true
 
 [[files]]
@@ -1470,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "aa12a55f83264e77d741c2a932713586c266eabab3d0fd210980b486ef20b045"
+hash = "e2bcf25689a29da44bb23a3d1c62d3744fb7eb9c62394302555e8424188228b2"
 metafile = true
 
 [[files]]
@@ -1792,6 +1796,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/another_furnitu
 hash = "6ddcc20dbcd8dc150aefeb19904f5dc3e1dc2f2073794b44b00c31f7ba34bcc2"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/ancient_plating_fence.json"
+hash = "2823c935240655a7c50c41a4cb45cc0138adced214f4afe5f7098473d01a1cb8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_block.json"
+hash = "8e1d484c9a5f6fda7fec2a2519e2496e47797d6a16b06375751b06fef724f2d1"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_chain.json"
 hash = "49efe64d0f6cc56a230ab20579df5e49766a72d4c0b33d9281604c0d6373ca30"
 
@@ -1804,8 +1816,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/architects_pale
 hash = "ae38aeef7b2f813cea8c482e869e2bc52df202fa79216022c5be1adbccc0037e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/pipe.json"
+hash = "5eabf1e8620adaef14163d6c993ee804d1f84840d2efa1d7d23bd40e4b1727d4"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/spool.json"
 hash = "3838f551f977503770261fdfb1aa394e07508b11cc79fbbc40157290b71d1cde"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/stonecutting/sunmetal_pillar.json"
+hash = "a2dc5a22e64067525011fc04f7c6631f1f3ae65078a42c680f2ebf53204d35be"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/sunmetal_block.json"
+hash = "99966437d29b528057abd35f5d2a487408e26f16c68a0e4e486c4670b09d1472"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/sunmetal_pillar.json"
+hash = "3752f2c39b0000cde186a026186067dd11a8ea1442488f94257f66abf58178d0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/tread_plate.json"
+hash = "7fe99aeafc3e226809c0a59f8ca72292dc61bbb9eee455dddc9f1bf045e396e0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/tags/item/boards.json"
@@ -2044,8 +2076,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your
 hash = "017e21c701fca964fc55a3d2244f30a703a8e549e018cc174f93ff848c5532d4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
+hash = "52d38a4a4e72fd8c908e23781351ea86b83a00923bb5076db004e22f6b520564"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/dusk_purpur_pillar.json"
+hash = "d58b03246b1f6b792f8241ce8796ad29b196a352a763dbc4fedce6c643859ba5"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/shadoline_chain.json"
 hash = "aa56e264760a199aa0f46896d235cc4db4feef6068b7ea4fa7597db1cf7674a0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/shadoline_pillar.json"
+hash = "6a95b7858301c91f3e188eab1b04a41d5a706900e681fcf48781a53e3e47b570"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/shadoline_pillar_from_shadoline_block_stonecutting.json"
+hash = "84a67553c10b1e97e82dbb464c312e00460c18baffa87e68042abdd57e51341f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/void_lantern.json"
+hash = "81b84b37b8b8ab63438c53efcb7356b8aec4a9b50f166dd0dbe5eaf37e856b5c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
@@ -3308,6 +3360,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "f54fd6d3fc0db8b6ab49bc965b64c50882c245b7a33acfb5c5d4fe3c0a404199"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/ancient_plating_from_plate_iron.json"
+hash = "10c76aa54562db6877f9a1411f5fb744fa235290f50f033c9f7ab326e6505c92"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/birdbrain_teto_from_teto.json"
 hash = "c0b7c6107856792f29f24076b81e5254b4e1254056ee8234fe299259dfbe2c48"
 
@@ -3360,6 +3416,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "162eea1f54d1723d266b920d8150a6bdd8797350764f19609c9723f5c4d4d0df"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/nether_brass_block_from_copper_block.json"
+hash = "b855e93e5b55298b78920e95685ceed9485f473a125ab02adf8d3bb4555102d6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/nether_brass_from_copper.json"
 hash = "bd479820bd3341b02d3ec8563883667368c7723a98dec596f76cba15a849c1b4"
 
@@ -3390,6 +3450,10 @@ hash = "2f1d85586a2341228c34d68b5a7cfab8045459cdc9f535b763ca2fa58f645015"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/static_miku_from_fujo_miku.json"
 hash = "45fa152a10a578088bb39df1888ddf22b95842b3130f1ba5f58d91ff487035ad"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/sunmetal_block_from_bricks.json"
+hash = "83fd6374c87112bff8769e7b6eba6be11520be43e56170171e28dae515a16ff7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/sunmetal_from_brick.json"
@@ -3460,6 +3524,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "104418c19da590e727aca8fc3d41bfb3a743242aa82b1e10db965d59a6291ead"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/oxide_trapdoor_consistency.json"
+hash = "d3224d670b52c222826c4f93031bc1f054f9d458a137f8571934ade28b2eea06"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/pane_buff.json"
 hash = "32e24db4d7925e098ffa2a6969b84ee546819986be82f9829ddb81bd5740041a"
 
@@ -3520,12 +3588,36 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/heavy_iron_trapdoor.json"
-hash = "3c8ecbfdd2ca01906e89b2701dde6cb3f034145b3411c4d2e231ad79d1826baa"
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cement_powder_bucket.json"
+hash = "96cdc4bb5c3b0834db6eaa30324f0f4159579c7df88bd0413198a4da1a934585"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/iron_pillar.json"
+hash = "4e37c77949d4b44e548d03ab17fc4379cb5db409e197694e07c9071a8579117d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/plate_iron.json"
-hash = "885ed61a012d71ccd5b1f58adcb82f0714e382b388edc895672d28107580b025"
+hash = "496f8e6afed84391b77fd5a1b3f7a2bff901b9531b6d0d1ec843e5413a1e678b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/rusted_iron_pillar.json"
+hash = "bdaa37f807ff93ce1fb284590f8be9b05a426cc6263b25c5d8a76b55332327eb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/iron_pillar.json"
+hash = "e10cc17facf892823a16cdf5860bbfe4024447142b5991b7c8c6a231f58add2e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/rusted_iron_pillar.json"
+hash = "30bf8e0b6cf2dc6a5ba55c9d7aa7568be4fce1e1f7b8262ebf0b103795374d35"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/weathered_iron_pillar.json"
+hash = "a9c4ff6781777fabc820836306e6238214d0bd33d2ed86321e5dd86981890c78"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/weathered_iron_pillar.json"
+hash = "52a7bc3c7b9746769bc8657f42d501e8ba8ac0150764e103b043cc2bfa785e18"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/pearfection/recipe/pear_tart.json"
@@ -3653,7 +3745,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "3be0956a1c1f4f7f4048e122429e54cd853ef9c7c4b7c8fdcd4940ae82096e59"
+hash = "c70963f66caab5bd781e444e2f340751e52b8c3056d1c0887893a67a0c0ec864"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4068,5 +4160,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.6.txt"
+file = "v0.2.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

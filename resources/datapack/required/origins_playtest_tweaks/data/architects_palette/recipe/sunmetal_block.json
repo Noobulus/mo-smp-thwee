@@ -3,16 +3,15 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:iron_ingot"
+    "x": {
+      "item": "architects_palette:sunmetal_brick"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "xx",
+    "xx"
   ],
   "result": {
-    "count": 4,
-    "id": "oxide:plate_iron"
+    "id": "architects_palette:sunmetal_block"
   }
 }

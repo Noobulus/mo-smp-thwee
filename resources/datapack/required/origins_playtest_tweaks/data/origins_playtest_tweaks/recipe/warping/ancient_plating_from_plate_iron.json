@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "oxide:plate_iron"
+        }
+    ],
+    "result": {
+        "id": "architects_palette:ancient_plating"
+    },
+    "dimension": "minecraft:the_nether"
+}

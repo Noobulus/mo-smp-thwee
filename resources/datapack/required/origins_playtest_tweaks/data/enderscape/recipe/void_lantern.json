@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "enderscape:void_torch"
+    },
+    "X": {
+      "item": "enderscape:shadoline_nugget"
+    },
+    "C": {
+      "item": "enderscape:shadoline_chain"
+    }
+  },
+  "pattern": [
+    " C ",
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "id": "enderscape:void_lantern"
+  }
+}

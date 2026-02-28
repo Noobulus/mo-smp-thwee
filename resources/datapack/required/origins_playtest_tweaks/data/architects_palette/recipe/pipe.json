@@ -3,16 +3,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:iron_ingot"
+    "x": {
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "x x",
+    "x x",
+    "x x"
   ],
   "result": {
-    "count": 4,
-    "id": "oxide:plate_iron"
+    "count": 2,
+    "id": "architects_palette:pipe"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "oxide:plate_iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "oxide:iron_pillar"
+  }
+}

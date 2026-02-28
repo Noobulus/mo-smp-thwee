@@ -1,0 +1,37 @@
+{
+  "replace": true,
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": {
+    "id": "oxide:cement_powder_bucket",
+    "count": 1
+  }
+}

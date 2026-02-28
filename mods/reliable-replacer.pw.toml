@@ -1,6 +1,6 @@
 name = "Reliable Replacer"
 filename = "reliable_replacer-fabric-1.21.1-1.2.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/swDAEYpN/versions/e8NKGCHI/reliable_replacer-fabric-1.21.1-1.2.10.jar"

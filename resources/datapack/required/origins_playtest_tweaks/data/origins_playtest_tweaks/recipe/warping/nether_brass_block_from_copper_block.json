@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "minecraft:copper_block"
+        }
+    ],
+    "result": {
+        "id": "architects_palette:nether_brass_block"
+    },
+    "dimension": "minecraft:the_nether"
+}

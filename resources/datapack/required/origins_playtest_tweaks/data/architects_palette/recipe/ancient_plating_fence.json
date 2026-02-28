@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "architects_palette:ancient_plating"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "#I#",
+    "#I#"
+  ],
+  "result": {
+    "count": 6,
+    "id": "architects_palette:ancient_plating_fence"
+  }
+}
