@@ -3589,11 +3589,11 @@ hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cement_powder_bucket.json"
-hash = "96cdc4bb5c3b0834db6eaa30324f0f4159579c7df88bd0413198a4da1a934585"
+hash = "bada24324cea3995bc3ad29109f81b64fb3c555b70a496f6b45b6de0d9901f54"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/iron_pillar.json"
-hash = "4e37c77949d4b44e548d03ab17fc4379cb5db409e197694e07c9071a8579117d"
+hash = "5448b059963b1e35b431441d27eb2e513da49ae6298991d13061c6327603e7bd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/plate_iron.json"
@@ -3601,23 +3601,23 @@ hash = "496f8e6afed84391b77fd5a1b3f7a2bff901b9531b6d0d1ec843e5413a1e678b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/rusted_iron_pillar.json"
-hash = "bdaa37f807ff93ce1fb284590f8be9b05a426cc6263b25c5d8a76b55332327eb"
+hash = "a171d75229e468c8951755d2b02a2946b32e44f4d8f612ea2bb0c7a18ec19c87"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/iron_pillar.json"
-hash = "e10cc17facf892823a16cdf5860bbfe4024447142b5991b7c8c6a231f58add2e"
+hash = "76c282ac89c26d45d8886d6a76d79f34de71336032163004c56f9ed46d3527a4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/rusted_iron_pillar.json"
-hash = "30bf8e0b6cf2dc6a5ba55c9d7aa7568be4fce1e1f7b8262ebf0b103795374d35"
+hash = "4a3b62abcea7a0cb5ece360e0ee42c2935707276ba067819d6a8c3a8a94ccc21"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/stonecutter/weathered_iron_pillar.json"
-hash = "a9c4ff6781777fabc820836306e6238214d0bd33d2ed86321e5dd86981890c78"
+hash = "5e02f1ecde71c120af931ad4e8e43dd203dc78824602503e890c0ea2d66bc915"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/weathered_iron_pillar.json"
-hash = "52a7bc3c7b9746769bc8657f42d501e8ba8ac0150764e103b043cc2bfa785e18"
+hash = "7f3ee274e5146948ee07171d60ab34ceb71c4d184e85aac3a0fa3c7e2330b487"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/pearfection/recipe/pear_tart.json"
