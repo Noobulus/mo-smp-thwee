@@ -6,7 +6,11 @@
       "braziliandelight:repugnant_arrow",
       "braziliandelight:couscous",
       "braziliandelight:broa",
-      "braziliandelight:lemon_slice"
+      "braziliandelight:lemon_slice",
+      "braziliandelight:brazilian_dinner",
+      "braziliandelight:chimarrao",
+      "braziliandelight:raw_coxinha",
+      "braziliandelight:raw_cassava_fritters"
     ],
     "patterns": [
       "/.*collard.*/",
@@ -19,7 +23,10 @@
       "/.*tray.*/",
       "/.*salt.*/",
       "/.*golden_coconut.*/",
-      "/.*kernel.*/"
+      "/.*kernel.*/",
+      "/.*feijoada.*/",
+      "/.*green_soup.*/",
+      "/.*minas.*/"
     ]
   }
 ]

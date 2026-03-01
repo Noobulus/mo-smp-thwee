@@ -1,0 +1,9 @@
+{
+  "tag_modifications": [
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:pickaxes",
+      "items": "/.*teto.*/"
+    }
+  ]
+}

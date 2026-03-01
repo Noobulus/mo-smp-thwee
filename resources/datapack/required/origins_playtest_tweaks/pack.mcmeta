@@ -218,6 +218,10 @@
     {
         "namespace": "onion_onion",
         "path": "recipe/cutting_onion.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/wheat_dough_from_water.json"
     }]
   }
 }

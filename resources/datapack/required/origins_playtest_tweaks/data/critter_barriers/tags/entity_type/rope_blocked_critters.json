@@ -1,0 +1,30 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:bee",
+		"minecraft:frog",
+		"minecraft:silverfish",
+		"minecraft:bat",
+		"minecraft:parrot",
+		"minecraft:allay",
+		"minecraft:endermite",
+		"minecraft:chicken",
+		"minecraft:rabbit"
+		{
+            "id": "enderscape:rubblemite",
+            "required": false
+        },
+		{
+            "id": "enderscape:rustle",
+            "required": false
+        },
+		{
+            "id": "enderscape:drifter",
+            "required": false
+        },
+		{
+            "id": "envelope:pigeon",
+            "required": false
+        }
+	]
+}

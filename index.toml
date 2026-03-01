@@ -309,6 +309,10 @@ file = "config/reliable_recipes/brazil.json"
 hash = "12feb348193e2450b31c1253224f018dcc7b7dd0e7f08fe7e851c20cec3f7f2e"
 
 [[files]]
+file = "config/reliable_recipes/miku.json"
+hash = "47b2b5b6e693bb12eafbfd4e8b807afa16ab4870b64fab5fd559f1fbd1241c31"
+
+[[files]]
 file = "config/reliable_recipes/oxide.json"
 hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
 
@@ -330,7 +334,11 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "c2d0c47c70a08415af8b70f5cc50ebb8d6f996a34f980901d99af7a923612cc4"
+hash = "79d7164fd1fcbad8502e5d93a7e41c5146d16e46faa4de09f074924580dbcdd6"
+
+[[files]]
+file = "config/reliable_remover/critter_barriers.json"
+hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -772,9 +780,8 @@ hash = "c19edb5c3735723a7d5294f12ddf595c77cfb2c07110049c004e0dfdcd746cfc"
 metafile = true
 
 [[files]]
-file = "mods/be-a-doll.pw.toml"
-hash = "eebd79086190c89d649313199a2ee58d293226d51acda0a38c8108685d59485b"
-metafile = true
+file = "mods/be-a-doll-1.0.9+fabric-1.21.1.jar"
+hash = "bd681b7f0495ae3592f7a6a63472f1553725d3566894626e3d5b5d5ee7a707e0"
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
@@ -1941,8 +1948,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts
 hash = "a8204c21126589109f7e006558701120505ed6b5d5fced98cbd06bca6cf997bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/be_a_doll/tags/item/undolling_items.json"
+hash = "2668c6717bacc15b37144733d7da2badc758811a58ebdf4f59abb595aa8b4b17"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
-hash = "f43149969ed463e312b511c7fac4adda30ddd4477f33dff6ba62d772c0c387bf"
+hash = "12a7dddf4026adb92062b3f02a2286f5d2c430fa48cde651a8d6916f4f556f78"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
@@ -2139,6 +2150,14 @@ hash = "cc77bd2542082416af54014f33c052b26a06445343754721cbb2d4b0e08a9324"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/connectiblechains/tags/item/catenary_items.json"
 hash = "91af5435e80b5273d1a2de73aa4a1f74d295e452ff1995a52e6e896abe10c47a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/critter_barriers/recipe/rope_curtain.json"
+hash = "516983f1c6b3ff6ac3197069f7c3fc455a28a37196e27afd51d141715b04d3b7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/critter_barriers/tags/entity_type/rope_blocked_critters.json"
+hash = "437749be1674f1680a3acb19e20337c29ec845ef3160b39685e8882a11b834cd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
@@ -3069,12 +3088,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "c5fea9f8d994abf557817d26c1f600b4187776d5911118ca32dd27df353ce422"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cassava_fritters.json"
+hash = "fce020ac27a738e938f3ce6072979e423269a1dfe2e0a1cceb38e9ca6d7ca121"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cocoa_fudge.json"
 hash = "a81f76825580c0d274800ccc15ae08c24e0366e47eae42ddd42f053467986d74"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/coxinha.json"
+hash = "6350112a4510546cee0607b8cf3214ac6a32f70cea630654cfbd3de0b50fdd26"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/fried_cassava_with_butter.json"
+hash = "ba5257ac260fec7f4c91ab9f89089e1d962e98a240ced7949d355cd847a4bfdd"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/ghasta_from_dried_ghast.json"
-hash = "ee5e7a7e2c9e172e2e782ced8a79d11a0eef88ff5980e89bcb8276a6f2722962"
+hash = "f498f661b6232697ea08200e8a4484f03562668aad637d8c02c8208005cac82b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
@@ -3954,7 +3985,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "fdc09b6769206530817e127ab6eb4403e2d731e29a93e037c0bbdd17df9b0160"
+hash = "c0a249d06d5c919f579bd9dd90e44f368a60cc85c7b8db5fe1d86e11702307cd"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4405,5 +4436,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.17.txt"
+file = "v0.2.18.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

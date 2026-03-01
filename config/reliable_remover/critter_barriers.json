@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "mod": ["critter_barriers"],
+    "items": [
+      "critter_barriers:chain_curtain"
+    ]
+  }
+]
