@@ -1,0 +1,13 @@
+ [
+   {
+     "inputs": [
+       "supplementaries:urn"
+     ],
+     "output": "minecraft:air",
+     "structures": [
+       "minecraft:trial_chamber",
+       "enderscape:stronghold"
+     ]
+   }
+ ]
+ 

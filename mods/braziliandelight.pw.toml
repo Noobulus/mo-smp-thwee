@@ -1,0 +1,13 @@
+name = "Brazilian Delight"
+filename = "braziliandelight-fabric-3.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bgz35D5U/versions/8fvt6CgA/braziliandelight-fabric-3.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "423a1801828ea12e09301e5be8614dc592ddb0a833227d9241df54e98c0e23c93168ed8fd5395a7d3b0a396532ec420a1e1cedfe68813ef9e1816c2b5c3c4b84"
+
+[update]
+[update.modrinth]
+mod-id = "Bgz35D5U"
+version = "8fvt6CgA"

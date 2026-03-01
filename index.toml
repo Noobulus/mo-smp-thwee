@@ -369,6 +369,10 @@ file = "config/reliable_remover/supplementaries.json"
 hash = "0e794c92818216249993509992ae79fbc51c6724db47e00adc8e1b09070bd9db"
 
 [[files]]
+file = "config/reliable_replacer/no_urns_in_structures.json"
+hash = "5e2379800f4137cff2b2c8858c455259151f2c403dc7dbdb92b28f5d9ae6193b"
+
+[[files]]
 file = "config/smarterfarmers-common.json"
 hash = "7f05739c4fc5504fd0410f6d5b3518b83e3c50e911e84bb9e4b74c6f95e7c460"
 
@@ -820,6 +824,11 @@ hash = "05ab115365fb3de4507d557865eee6a8e828d0800bc7980236185c4b948d1d6d"
 metafile = true
 
 [[files]]
+file = "mods/braziliandelight.pw.toml"
+hash = "d0aa4363dfd8337cb1059fdd816464b2d766a5c875fac8425e8fb20e1d2d8b5c"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "08450a7b48ca66e9696382862e66a0168b0edcef997beb79464a9f4f9838adf5"
 metafile = true
@@ -945,6 +954,11 @@ hash = "df0aa38b3b7bfc94c9c251bf9693103c9168f52b90858feb9c181dc0efc47654"
 metafile = true
 
 [[files]]
+file = "mods/critter-barriers.pw.toml"
+hash = "5e03e029683d21af840f16e1743c05b1ee225eb0a18ad6b44358c575cabc776e"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "739fca9d092e9033c06c0246e92d5e4e666f1a3b61a73eab8ed80be5b09bd6fa"
 metafile = true
@@ -962,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "0a02d1cdb77be51e2b0601c5f7de9f7489d6b64ea3cae85fb680adb479719dc0"
 metafile = true
 
 [[files]]
@@ -1246,6 +1265,11 @@ metafile = true
 [[files]]
 file = "mods/just-sit!.pw.toml"
 hash = "c40dfe01a9295b3f12169469b6fe3890589891a211652840bed0bba41b773215"
+metafile = true
+
+[[files]]
+file = "mods/just-utilities.pw.toml"
+hash = "c6346893bee83be22dbb0474d6a97a31b86f417b69d84ec711f66711007b0f54"
 metafile = true
 
 [[files]]
@@ -4053,5 +4077,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.14.txt"
+file = "v0.2.15.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

@@ -1,0 +1,13 @@
+name = "Critter Barriers"
+filename = "critter_barriers-fabric-1.21.1-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ru4Y7G4a/versions/ONSWTxzK/critter_barriers-fabric-1.21.1-21.1.3.jar"
+hash-format = "sha512"
+hash = "560203823a84ac46fb640d4f69aeb9b99ee487b4ff1b3fd56c02a0ea48ed8fa527d78c86adfd349fe479812567e60f053cf1e88ae8585f37ac21e68fd97c4f00"
+
+[update]
+[update.modrinth]
+mod-id = "ru4Y7G4a"
+version = "ONSWTxzK"

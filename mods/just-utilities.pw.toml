@@ -1,0 +1,13 @@
+name = "Just Utilities"
+filename = "justutilities-fabric-1.21-21.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hg7Dfy98/versions/ERZt84mL/justutilities-fabric-1.21-21.0.9.jar"
+hash-format = "sha512"
+hash = "5bcee81ad3ec8269f5637cf73381fc1893fcd52c467ed45b550638f48a1e04a97c78b85e5eef01acedb1dd1e1e4d1fcfafb1ec10fa89b8519826abb8526fc69c"
+
+[update]
+[update.modrinth]
+mod-id = "Hg7Dfy98"
+version = "ERZt84mL"
