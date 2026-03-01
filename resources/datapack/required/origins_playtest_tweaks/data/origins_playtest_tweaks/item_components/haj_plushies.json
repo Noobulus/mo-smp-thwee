@@ -2,7 +2,8 @@
     "targets": [
         "blahaj:blue_whale",
         "blahaj:blue_shark",
-        "blahaj:bread"
+        "blahaj:bread",
+        "blahaj:brown_bear"
     ],
     "components": {
         "minecraft:fire_resistant": {},

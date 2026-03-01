@@ -3,12 +3,15 @@
     "miku-plushie:miku_plush",
     "miku-plushie:miku_plush_br",
     "miku-plushie:miku_plush_rotten_girl",
-    "miku-plushie:teto_plush",
+    "miku-plushie:miku_plush_static",
+    "miku-plushie:teto_plush_synthv",
     "miku-plushie:teto_plush_birdbrain",
     "miku-plushie:teto_plush_some_more_of_that_song",
+    "miku-plushie:teto_plush_spoken_for",
     "miku-plushie:akita_neru_plush",
     "miku-plushie:rin_plush",
-    "miku-plushie:len_plush"
+    "miku-plushie:len_plush",
+    "miku-plushie:gumi_plush"
   ],
   "components": {
     "minecraft:fire_resistant": {},

@@ -39,6 +39,19 @@
         "type": "minecraft:stonecutting",
         "output": "oxide:cut_iron"
       }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "output": "oxide:varnish_sprayer",
+        "not" : {
+          "id": [
+            "oxide:varnish_sprayer_refill_varnish",
+            "oxide:varnish_sprayer"
+          ]
+        }
+      }
     }
   ]
 }

@@ -306,7 +306,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
-hash = "cf077011dc212defa81c929ae103b886188c048dc7416e05f74abed24889ef6c"
+hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
 
 [[files]]
 file = "config/reliable_remover/another_furniture.json"
@@ -756,6 +756,11 @@ hash = "c19edb5c3735723a7d5294f12ddf595c77cfb2c07110049c004e0dfdcd746cfc"
 metafile = true
 
 [[files]]
+file = "mods/be-a-doll.pw.toml"
+hash = "eebd79086190c89d649313199a2ee58d293226d51acda0a38c8108685d59485b"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
 metafile = true
@@ -958,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "ba8b5da91075ac957c34a56cf6a3ab34616b6d6c998f59130cc73476012066d4"
+metafile = true
+
+[[files]]
+file = "mods/dispenserfarm.pw.toml"
+hash = "9fbbb1644473c98f133cde218d0a802d8440f7c64256c88b8da22896a8dec3f5"
 metafile = true
 
 [[files]]
@@ -1323,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fda06e889a670d153da171cc91f72b3fd26f9228344dae2e36abd3412e0d4f41"
+hash = "58a0f3259dfc6c58b4a2849de43d5bd2e604a0819967adbdf4239e7e44d9a787"
 metafile = true
 
 [[files]]
@@ -1486,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "46634df74545ffacdd505761d792f723bb06abb66a2fc4ababe9162671ae2717"
+hash = "70ca5acc66b4b95111f2cc2eebca393f02c6f81d62c03f9af7e654fb6438a3d7"
 metafile = true
 
 [[files]]
@@ -1496,7 +1506,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "e2bcf25689a29da44bb23a3d1c62d3744fb7eb9c62394302555e8424188228b2"
+hash = "923956f4a5ade3f2b2203910cc65dc3dedab915b41971367ff96d25a372534df"
 metafile = true
 
 [[files]]
@@ -2876,7 +2886,7 @@ hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/haj_plushies.json"
-hash = "8981a0cac6f5bd089d7f04b60c7a90bd3b70e28fe83ab043bfa40bd0418265ad"
+hash = "4453d4ed11faadff0232454cdab66cfa85bea9e7e68d17f33d498c7be9c04b7b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/horror_lasagna.json"
@@ -2904,7 +2914,7 @@ hash = "bee183d588775f676513975756e04a25ec4f530c237b2f1055f685255d34bf89"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/miku_plushies.json"
-hash = "fcb4d467f5ffa754850d438dbd6b69c9ff25bdccaa9b00942154e521bf13cc49"
+hash = "dff4d259f74eb60d41bcac6ec60fe228716daa1420eca2cd72726b1cff145ac6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"
@@ -4295,5 +4305,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.11.txt"
+file = "v0.2.12.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
