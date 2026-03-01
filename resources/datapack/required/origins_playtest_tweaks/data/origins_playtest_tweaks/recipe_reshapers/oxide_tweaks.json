@@ -1,0 +1,113 @@
+{
+    "common_ingredients": {
+        ",": "iron_nugget",
+    },
+    "id_substrings": {
+        "|": "heavy_iron_chain",
+        "#": "plate_iron",
+        "H": "heavy_iron_ladder",
+        "X": "scaffold",
+        "F": "wrought_iron_fence",
+        "G": "wrought_iron_fence_gate"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "=",
+                "#",
+                "="
+            ],
+            "output_token": "|",
+            "output_count": 16
+        },
+        {
+            "pattern": [
+                "# #",
+                "#=#",
+                "# #"
+            ],
+            "output_token": "H",
+            "output_count": 12
+        },
+        {
+            "pattern": [
+                "= =",
+                " # ",
+                "= ="
+            ],
+            "output_token": "X",
+            "output_count": 16
+        },
+        {
+            "pattern": [
+                "#=#",
+                "#=#"
+            ],
+            "output_token": "F",
+            "output_count": 8
+        },
+        {
+            "pattern": [
+                "=#=",
+                "=#="
+            ],
+            "output_token": "G",
+            "output_count": 4
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_tweaked_heavy_chains",
+            "pattern": [
+                ",",
+                "#",
+                ","
+            ],
+            "output_token": "|",
+            "output_count": 3,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_tweaked_heavy_ladders",
+            "pattern": [
+                ", ,",
+                ",#,",
+                ", ,"
+            ],
+            "output_token": "H",
+            "output_count": 8,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_tweaked_scaffold",
+            "pattern": [
+                ", ,",
+                " # ",
+                ", ,"
+            ],
+            "output_token": "H",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_tweaked_wrought_iron_fences",
+            "pattern": [
+                "#,#",
+                "#,#"
+            ],
+            "output_token": "F",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_tweaked_wrought_iron_fence_gates",
+            "pattern": [
+                ",#,",
+                ",#,"
+            ],
+            "output_token": "G",
+            "output_count": 2,
+            "category": "building"
+        }
+    ]
+}

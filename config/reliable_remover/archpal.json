@@ -12,7 +12,6 @@
         "architects_palette:tuff_lamp"
       ],
       "patterns": [
-        "/.*:plating.*/",
         "/.*myonite.*/",
         "/.*olivestone.*/",
         "/.*flint.*/",

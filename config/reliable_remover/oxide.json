@@ -9,7 +9,8 @@
     ],
     "patterns": [
       "/.*nail.*/",
-      "/.*cinder_brick.*/"
+      "/.*cinder_brick.*/",
+      "/.*reinforced.*/"
     ]
   }
 ]

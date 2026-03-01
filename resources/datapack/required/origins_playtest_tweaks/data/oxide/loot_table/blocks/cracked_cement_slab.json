@@ -1,0 +1,40 @@
+{
+  "replace": true,
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oxide:cracked_cement",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "oxide:cracked_cement_slab",
+              "properties": {
+                "type": "double"
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oxide:cracked_cement_slab",
+          "functions": [
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "oxide:blocks/cracked_cement_slab"
+}

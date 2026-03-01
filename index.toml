@@ -306,11 +306,11 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
-hash = "ee8ec0a10cf601a8aa5ba4ffc3fdffe7b6058802f28729c65ae63ed2a85c1d54"
+hash = "433046b64b0c8665b028066875a19d371353ba42e4d70f7e45e7bd9d3b38e15b"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "298406966ccaa3764a52354a5f921b049781df8cc76dd85ca78fc44f68a5a523"
+hash = "c268e6cce65be7d7d66171a11718696004069bc6b33e994e1dfcf66d07fc6ee6"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -342,7 +342,7 @@ hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
-hash = "70b466f8a449c6229c7aba56dda3987edd2e2c54943e70907e95d79736925d52"
+hash = "e978c08cc9a66db6e2bedac6f7f7a806e9cee5939c8418a0f25c3fbe23d70f82"
 
 [[files]]
 file = "config/reliable_remover/spudshops.json"
@@ -3292,6 +3292,22 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_block_slab.json"
+hash = "df5075eab6474859e6a20e3e343dfb4dc56fa59495815fefcc05020e4be18111"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_blocks.json"
+hash = "9ddb1dfc03ccfaca4acc1464e61c0819e22296b92df44ea699f9f25a6f7ccc89"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_slab.json"
+hash = "e046377cfee45a91497534b7ae8f0aeb577d913a0a583336dd4072a8f1f0d94e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cinder_block_slab.json"
+hash = "4bdc6316026ceaf6ba8d627da04755b43a0d249b44b24e2b696b53a9b03b19f9"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cinder_blocks.json"
 hash = "01ce24a29d9b2726bc61e0d342add6f86b9f656ef3324baf1a87f974bd02a18c"
 
@@ -3300,12 +3316,32 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "515ee05c7af1f5c12eaa6eacc502493c7920525c023a2c479ca707e5a783c651"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cracked_cement_slab.json"
+hash = "ce4e5c77b55107a81d8e8452bfec5174138bf72e68f2ed9ea2190ee4be5c7ca7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cracked_weathered_cement_slab.json"
+hash = "68e11d04f29c3b943d2bc56eaf87a83a354fe48e5897a60a6a40eff616d9f9e6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cream_bricks.json"
 hash = "beec462cd2b51c9b525a1269c7010feef5e604c849c40f11c53809ad23a6ebcf"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/stock_bricks.json"
 hash = "fc27c20e9b5628af5e6e5fb745a0d9107bb620747f9d92c73a7aa41c8e8fac14"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/weathered_cement_block_slab.json"
+hash = "86adff827f4ba131a8fef66cc5a9ce79947f2e28b63acdef9201d8ec37ec8544"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/weathered_cement_blocks.json"
+hash = "e754b4d049a7eb1928b9160dd071fbdebb7f5af656999265b3a76f52259e9c24"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/weathered_cement_slab.json"
+hash = "c48dee53552e5cefb4d247da0a9a17b9cc1d97c61389ee3adbcc9acd71866e91"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/quiche.json"
@@ -3528,6 +3564,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "d3224d670b52c222826c4f93031bc1f054f9d458a137f8571934ade28b2eea06"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/oxide_tweaks.json"
+hash = "e637df98b16671d8f9fe6f929616b16e76a417dbe9257755de5f21a5b22c938a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/pane_buff.json"
 hash = "32e24db4d7925e098ffa2a6969b84ee546819986be82f9829ddb81bd5740041a"
 
@@ -3586,6 +3626,38 @@ hash = "eb45043bc5735907862b71b4193822c2597f06f2de08d9d8c4daedd2e311e0fd"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cement.json"
+hash = "4c3beec28fef00a447caf412841682dcab14c0c28134149ef83ab5fd7d522083"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cement_slab.json"
+hash = "47347260cb1812bf9f5d25f7d2b1e4cb096651b18fa211b4c0aa5d98b4892f0e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cracked_cement.json"
+hash = "63d1d75c50332e5c0ed831e9a196ca13ec4abb463cee77fcb005c6a99bfdb81a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cracked_cement_slab.json"
+hash = "e4b2245bd74b7e0d3e5900b430d7793dd1a13e2c5e3ae7d126e6bbc78ba1a7a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cracked_weathered_cement.json"
+hash = "66b9e8b9bcc2bd84b2b8fed864f162f477b9391c3fb5ffd34343b423dcaacb7f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cracked_weathered_cement_slab.json"
+hash = "9fa81d81317b80acbab8818e0a64acd2d5171a3567e9ef1e83468cd804f0f8c9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/weathered_cement.json"
+hash = "453fd03af9a9c2e9eba9ecf7f52bba24e15ec3bc8f08a6f3b1a8ee476fdc3608"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/weathered_cement_slab.json"
+hash = "a4cb3cc3c9f1a89fc8ca01af15c00554b2a75a8224965a33f374d8da96901299"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/recipe/cement_powder_bucket.json"
@@ -4160,5 +4232,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.8.txt"
+file = "v0.2.9.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

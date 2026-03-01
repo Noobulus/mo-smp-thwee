@@ -12,6 +12,23 @@
       "action": "remove",
       "filter": {
         "mod": "oxide",
+        "type": "minecraft:stonecutting",
+        "output": "/.*wrought_iron.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "type": "minecraft:stonecutting",
+        "output": "/.*scaffold.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "oxide",
+        "type": "minecraft:stonecutting",
         "output": "oxide:plate_iron"
       }
     },
@@ -19,7 +36,14 @@
       "action": "remove",
       "filter": {
         "mod": "oxide",
+        "type": "minecraft:stonecutting",
         "output": "oxide:cut_iron"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": "oxide:varnish_sprayer_refill_lava"
       }
     }
   ]
