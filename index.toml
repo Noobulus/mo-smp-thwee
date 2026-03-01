@@ -305,6 +305,10 @@ file = "config/preferred-gamerules.properties"
 hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
+file = "config/reliable_recipes/brazil.json"
+hash = "e8a30b68aee24ac6b2c11a4dc7b485fe6a1509bff49a392cef1090387dfe6e4a"
+
+[[files]]
 file = "config/reliable_recipes/oxide.json"
 hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
 
@@ -323,6 +327,10 @@ hash = "0ba438570774e24fa007fde0d359d2ceb3694e7b84dd4cd0443bd518cf5c44ea"
 [[files]]
 file = "config/reliable_remover/blahaj.json"
 hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
+
+[[files]]
+file = "config/reliable_remover/brazil.json"
+hash = "9f4d4aef9d62b8653dd27ae9a25a5b3c8a1074d10183b5fcd790853dcab881ff"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -1746,6 +1754,10 @@ metafile = true
 file = "mods/zombie-conversion.pw.toml"
 hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/BD Behavioral Tweaks.zip"
+hash = "1cdcc9d77512f35f65a497a80fb707eb8bfd5660f5bcbe6add5190eb7d828dd4"
 
 [[files]]
 file = "resources/datapack/required/NoZombieSieges.zip"
@@ -3921,6 +3933,294 @@ file = "resources/datapack/required/spoinglypaintings.zip"
 hash = "183a79bb036ad3e54af717dedb0d12b9dadf076b5988d55360036ff2ccdf6061"
 
 [[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/lang/en_us.json"
+hash = "3b645be391dc5fb0fa542762766f7f774623858bf347462aaf5485f31f9edd0b"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage0.png"
+hash = "bf65780dbf73dc1b84f0e8cdf84c4ddc71e8ec93b7d398c1b6d37cf0bffaa565"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage1.png"
+hash = "bf65780dbf73dc1b84f0e8cdf84c4ddc71e8ec93b7d398c1b6d37cf0bffaa565"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage2.png"
+hash = "eb20aaf0672e23a85ddbb8cfa28fed9c44dcacf1fecb9654cd7f3c3b453d6e5e"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage3.png"
+hash = "eb20aaf0672e23a85ddbb8cfa28fed9c44dcacf1fecb9654cd7f3c3b453d6e5e"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage4.png"
+hash = "3eadd78c469fca9951a76961adb5db10bada222f8d182f1a12439ede4835dc8c"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage5.png"
+hash = "3eadd78c469fca9951a76961adb5db10bada222f8d182f1a12439ede4835dc8c"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage6.png"
+hash = "3b8cfbbb98a7692327a5758fb1fb2d4af7a841a7aa26bb509a7b5b38c8ee7239"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_bottom_stage7.png"
+hash = "3b8cfbbb98a7692327a5758fb1fb2d4af7a841a7aa26bb509a7b5b38c8ee7239"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage0.png"
+hash = "196d97c698620b8367187f4c7eb6b64c53d9c72b213ebd7cc34a953aa729cf46"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage1.png"
+hash = "196d97c698620b8367187f4c7eb6b64c53d9c72b213ebd7cc34a953aa729cf46"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage2.png"
+hash = "c05e84b0d3f26f6ad9fa867fe9f78cc62231a1fd46a58200346c0e02a6ed3554"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage3.png"
+hash = "c05e84b0d3f26f6ad9fa867fe9f78cc62231a1fd46a58200346c0e02a6ed3554"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage4.png"
+hash = "1f6a3d7a8e8f3c418b3b58cbb9c75fe7940cbe880b851e76503adae3d2a2a3a9"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage5.png"
+hash = "1f6a3d7a8e8f3c418b3b58cbb9c75fe7940cbe880b851e76503adae3d2a2a3a9"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage6.png"
+hash = "e4bcb59dd46b17d31d5675d1110421bf7785d2e908cb040d3548dc646b8cd463"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_budding_stage7.png"
+hash = "e4bcb59dd46b17d31d5675d1110421bf7785d2e908cb040d3548dc646b8cd463"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage0.png"
+hash = "cd2144088e58382fad1342dc8b2fd2d47cd20f64be37888182fe3d3a11cf42bf"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage1.png"
+hash = "cd2144088e58382fad1342dc8b2fd2d47cd20f64be37888182fe3d3a11cf42bf"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage2.png"
+hash = "1904ebfa024e3de63dcde59e0a5b06c8e5894c9c59ceb62af2297de050bbc6bf"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage3.png"
+hash = "1904ebfa024e3de63dcde59e0a5b06c8e5894c9c59ceb62af2297de050bbc6bf"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage4.png"
+hash = "d399f87a0985914ac9ee3d980d4473a00097078e9f54baac6883e1da7ac59ad7"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage5.png"
+hash = "d399f87a0985914ac9ee3d980d4473a00097078e9f54baac6883e1da7ac59ad7"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage6.png"
+hash = "c8b509e7972c9bab0b2bf8952aac08a4fcae65bb0297adfcead8fd588bb24d38"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/cassava/cassava_top_stage7.png"
+hash = "c8b509e7972c9bab0b2bf8952aac08a4fcae65bb0297adfcead8fd588bb24d38"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/chicken_pot_pie_bottom.png"
+hash = "4f39e32bdc86ffcb494766af4cc6dea7a9eb5a522e824914f12f228a2c2273c6"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/chicken_pot_pie_inner.png"
+hash = "468077af5671ea6fda9ab7b58e943556e7043892c8cc602d3202f8796d8ca45e"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/chicken_pot_pie_side.png"
+hash = "0ad84af25f24132b835b05044ac099f40e1e0afa588f1ab369d543b65eeb2ffd"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/chicken_pot_pie_top.png"
+hash = "764f249f5fdb12aea0327c060d8f3d00620b601129e88d2e910f3946786ea13c"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage0.png"
+hash = "99b719a0fb28e0ec802593d76177de1f0ef60a3be31a7e571006f3950c8a8703"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage1.png"
+hash = "99b719a0fb28e0ec802593d76177de1f0ef60a3be31a7e571006f3950c8a8703"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage2.png"
+hash = "3ce80c53e9d9416c100ab467e92d51a16736cc939cb21469dd4014ae2df17dcc"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage3.png"
+hash = "3ce80c53e9d9416c100ab467e92d51a16736cc939cb21469dd4014ae2df17dcc"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage4.png"
+hash = "b5a21f079c58d8299f1cfa4130cda69e7cebf8dd750100dc0e6bd590fc413d3c"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage5.png"
+hash = "b5a21f079c58d8299f1cfa4130cda69e7cebf8dd750100dc0e6bd590fc413d3c"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage6.png"
+hash = "32783fc919851ff354324655cdf2f798b2dd702f03772a753f013da21a877e7f"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_bottom_stage7.png"
+hash = "32783fc919851ff354324655cdf2f798b2dd702f03772a753f013da21a877e7f"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage0.png"
+hash = "ed1380894616ed9b2ef2f73e4212fe34fdbcdf3abfc9ac16a082eb467ae21cc5"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage1.png"
+hash = "ed1380894616ed9b2ef2f73e4212fe34fdbcdf3abfc9ac16a082eb467ae21cc5"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage2.png"
+hash = "fe1fff5ab1260ff428725aae8f1baffba015d4672022490bfdfe245ba4fbac15"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage3.png"
+hash = "fe1fff5ab1260ff428725aae8f1baffba015d4672022490bfdfe245ba4fbac15"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage4.png"
+hash = "209d4268fc06de90a5f3234ee453a1935151c8ae965fe1210657c11a5fbf42a0"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage5.png"
+hash = "209d4268fc06de90a5f3234ee453a1935151c8ae965fe1210657c11a5fbf42a0"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage6.png"
+hash = "f039dd69e63d5d54debe90c6d0d486ddaf0888e866ad003328dceca7692041e6"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_budding_stage7.png"
+hash = "f039dd69e63d5d54debe90c6d0d486ddaf0888e866ad003328dceca7692041e6"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage0.png"
+hash = "2344c02643fdb655242d208384ddee0d793cc4fca153c9610844c742c5fa205d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage1.png"
+hash = "2344c02643fdb655242d208384ddee0d793cc4fca153c9610844c742c5fa205d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage2.png"
+hash = "87329db82ac463035c1e4d5a01d29f0b4e7718311be192611bc454b2ba4a178d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage3.png"
+hash = "87329db82ac463035c1e4d5a01d29f0b4e7718311be192611bc454b2ba4a178d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage4.png"
+hash = "0ca7e3f9c553baa36830f78ac880f860fcb246cdc323e5455e45bc35202bf78b"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage5.png"
+hash = "0ca7e3f9c553baa36830f78ac880f860fcb246cdc323e5455e45bc35202bf78b"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage6.png"
+hash = "c6a420fd081e3c3caa2139952e29031f7c91a47f7ee7747241b98bec1d028ab5"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/guarana/guarana_top_stage7.png"
+hash = "c6a420fd081e3c3caa2139952e29031f7c91a47f7ee7747241b98bec1d028ab5"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage0.png"
+hash = "689d17cab985e817a6e101f66cb08cf17b824d7e895bbe0ae31c3015fc16b5df"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage1.png"
+hash = "689d17cab985e817a6e101f66cb08cf17b824d7e895bbe0ae31c3015fc16b5df"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage2.png"
+hash = "29d7044667f8cfc0b591acd0ece5fb84c718238e69fb67dca2a8e264512d5d9e"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage3.png"
+hash = "29d7044667f8cfc0b591acd0ece5fb84c718238e69fb67dca2a8e264512d5d9e"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage4.png"
+hash = "3983f87e0f3c0bb8da14a222f5b9feae3f6d8d4d3f1b4ad3c7e6231ceb3565f1"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage5.png"
+hash = "3983f87e0f3c0bb8da14a222f5b9feae3f6d8d4d3f1b4ad3c7e6231ceb3565f1"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage6.png"
+hash = "ab6f01d557ab611d76436572328ca2a356391116cb46711a9171da823fa2453d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/peanut/peanut_stage7.png"
+hash = "ab6f01d557ab611d76436572328ca2a356391116cb46711a9171da823fa2453d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/wild_cassava.png"
+hash = "f63e6fc20043634ccee7277e19a212a50ae8286f5151981a0ecab81f13dc344d"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/wild_guarana_bottom.png"
+hash = "c60b4106483a74b90c3d55d73aca474686dc68d3352ff73a39b7baac8bcacf1a"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/wild_guarana_top.png"
+hash = "4dc183e29272210fb16930b6aadebf5fb2974015d8c66fdecc2aa39ff8fe80d5"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/block/wild_peanuts.png"
+hash = "b05dccbd3e310e099bd9f9976c18e78c16490c887f8d54a169dd7c813cc4fa59"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/chicken_pot_pie.png"
+hash = "aa37accfbc8409beb66f353ad5ff4714027474ebae8e7766244db523e4c57e53"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/chicken_pot_pie_slice.png"
+hash = "b1c8694a78c091722475eb32d534e51d4ab0895be54437699349cd75174d9697"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/guarana_juice.png"
+hash = "62e9131e3e0c58cc10f1e933ccb90a7dce3a2efa8f20fc6f6c46c36872896056"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/guarana_soda.png"
+hash = "4356eb23d74be2467d3bd6694cbb9da214513771fb2dd0e49cc34820dd69bfca"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/peanut.png"
+hash = "49b692f98b79ebf84ede4e4dc26006b39874619fdc35506cccebb15866728f49"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/textures/item/peanut_seeds.png"
+hash = "44be9f30467837d97f24f29ad4a4c8a45654eb634db8cf9cf9d32b7961e6b07f"
+
+[[files]]
+file = "resources/resourcepack/required/BD Visual Tweaks/pack.mcmeta"
+hash = "000aab374a0f122ea5427670e599564d17ad58e2f9c2798416331a73589c76a0"
+
+[[files]]
 file = "resources/resourcepack/required/Enchanting Table Lapis Icons.zip"
 hash = "744da9505a8afb9d828a68cfa42713a5a66f701291bccccdafe77efbc4025fdb"
 
@@ -4077,5 +4377,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.15.txt"
+file = "v0.2.16.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

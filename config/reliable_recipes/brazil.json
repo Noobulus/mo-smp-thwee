@@ -1,0 +1,23 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "replace_input",
+      "target": "braziliandelight:peanut",
+      "replacement": [
+        "braziliandelight:peanut_seeds"
+      ],
+      "filter": {
+        "mod": "braziliandelight"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+      "id": [
+        "braziliandelight:peanut_seeds",
+        "braziliandelight:peanut"
+      ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "action": "remove",
+    "mod": ["braziliandelight"],
+    "items": [
+      "braziliandelight:repugnant_arrow",
+      "braziliandelight:couscous",
+      "braziliandelight:broa",
+      "braziliandelight:peanut"
+    ],
+    "patterns": [
+      "/.*collard.*/",
+      "/.*corn.*/",
+      "/.*garlic.*/",
+      "/.*yerba.*/",
+      "/.*coffee.*/",
+      "/.*bean.*/",
+      "/.*shrimp.*/",
+      "/.*tray.*/",
+      "/.*salt.*/",
+      "/.*golden_coconut.*/"
+    ]
+  }
+]
