@@ -1,0 +1,25 @@
+{
+    "id_substrings": {
+        "-": "wildflower_garland"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "###"
+            ],
+            "output_token": "-",
+            "output_count": 3
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_tweaked_flower_garlands",
+            "pattern": [
+                "###"
+            ],
+            "output_token": "-",
+            "output_count": 1,
+            "category": "building"
+        }
+    ]
+}

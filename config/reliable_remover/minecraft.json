@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "mod": ["minecraft"],
+    "items": [
+      "minecraft:wildflowers"
+    ]
+  }
+]
