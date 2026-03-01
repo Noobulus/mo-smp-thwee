@@ -2157,7 +2157,7 @@ hash = "516983f1c6b3ff6ac3197069f7c3fc455a28a37196e27afd51d141715b04d3b7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/critter_barriers/tags/entity_type/rope_blocked_critters.json"
-hash = "437749be1674f1680a3acb19e20337c29ec845ef3160b39685e8882a11b834cd"
+hash = "31c8822d39b485965e6a8770db222357db88e8a76d32f4b53d4398c420a9e69c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
