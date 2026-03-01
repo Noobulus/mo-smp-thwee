@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "c:nuggets/iron"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    " N ",
+    "N N",
+    "III"
+  ],
+  "result": {
+    "id": "monobank:replacement_lock",
+    "count": 2
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    " P ",
+    "P P",
+    " P "
+  ],
+  "result": {
+    "count": 2,
+    "id": "envelope:paper_box"
+  }
+}

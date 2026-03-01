@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "L": {
+      "item": "monobank:replacement_lock"
+    }
+  },
+  "pattern": [
+    "III",
+    "ILI",
+    "III"
+  ],
+  "result": {
+    "id": "monobank:monobank"
+  },
+  "show_notification": true
+}

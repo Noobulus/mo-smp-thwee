@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "mod": ["onion_onion"],
+    "items": [
+      "onion_onion:onion_slice"
+    ]
+  }
+]

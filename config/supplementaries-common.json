@@ -1,7 +1,7 @@
 {
   "redstone": {
     "speaker_block": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "narrator_enabled": true,
       // Accepted range: 0 to 10000
@@ -11,7 +11,7 @@
       "range": 128
     },
     "bellows": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 1 to 512
       "base_period": 78,
@@ -24,7 +24,7 @@
       "range": 5
     },
     "spring_launcher": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.0 to 16.0
       "velocity": 1.5,
@@ -32,7 +32,7 @@
       "fall_height_required": 5
     },
     "enderman_head": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "drop_head": true,
       // Accepted range: 0 to 10000
@@ -40,30 +40,30 @@
       "work_from_any_side": false
     },
     "turn_table": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "rotate_entities": true,
       "shuffle_containers": true
     },
     "pulley_block": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.0 to 1.0
       "mineshaft_elevator": 0.035
     },
     "dispenser_minecart": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "adjust_projectile_angle": true
     },
     "faucet": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "spill_items": true,
       "fill_entities_below": false
     },
     "crystal_display": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "chaining": true
     },
@@ -79,14 +79,14 @@
   },
   "functional": {
     "rope": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "block_side_attachment": false,
       "slide_on_fall": false,
       "horizontal_ropes": false
     },
     "jar": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 1 to 256
       "capacity": 12,
@@ -98,7 +98,7 @@
       "jar_liquids": true
     },
     "cage": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "allow_all_mobs": false,
       "cage_allow_all_babies": false,
@@ -109,13 +109,13 @@
       "require_taming": true
     },
     "safe": {
-      // Allows wearing shulker shells
-      "enabled": true,
+      // Adds dragon banner pattern made from dragon head
+      "enabled": false,
       "prevent_breaking": true,
       "simple_safes": false
     },
     "sack": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "sack_penalty": false,
       // Accepted range: 1 to 50
@@ -124,7 +124,7 @@
       "slots": 9
     },
     "bamboo_spikes": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "tipped_spikes": false,
       "player_loot": false,
@@ -132,15 +132,16 @@
       "populate_creative_tab": true
     },
     "urn": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.0 to 1.0
       "critter_spawn_chance": 0.01,
       "cave_urns": true
     },
     "soap": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
+      "block_cleaning_enabled": true,
       "clean_blacklist": [
         "minecraft:glazed_terracotta",
         "botania:mystical_flower",
@@ -166,7 +167,7 @@
       }
     },
     "cannon": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted values: IGNITE, IGNITE_ON_IMPACT, NONE
       "explode_tnt": "IGNITE",
@@ -177,13 +178,13 @@
       // Accepted range: 0 to 500
       "cooldown": 60,
       "cannon_boat": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": true,
         // Accepted range: 0.0 to 5.0
         "recoil_multiplier": 0.5
       },
       "cannonball": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": true,
         // Accepted range: 0.0 to 100.0
         "power_scaling": 3.5,
@@ -191,27 +192,27 @@
         "break_radius": 1.1
       },
       "plunderer": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": true,
         "galleon": true
       },
       "music_disc_heave_ho": true
     },
     "present": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "trapped_present": true
     },
     "flax": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "wild_flax": false
     },
     "lumisene": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "lumisene_bottle": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": true,
         // Accepted range: 0 to 10000
         "flammable_duration": 300,
@@ -226,77 +227,77 @@
   },
   "building": {
     "spider_head": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "barnacles": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false
     },
     "blackboard": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "colored_blackboard": true,
       // Accepted values: BOTH, GUI, MANUAL
       "interaction_mode": "BOTH"
     },
     "gravel_bricks": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "allow_breaking": false
     },
     "slidy_block": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       // Accepted range: 0 to 20
       "speed": 0.125
     },
     "timber_frame": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "swap_on_shift": false,
       "axes_strip": true,
       "replace_daub": true
     },
     "iron_gate": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "double_opening": false,
       "door-like_gates": false
     },
     "gold_bars": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false
     },
     "item_shelf": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "climbable_shelves": false
     },
     "sugar_cube": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0 to 1000
       "horse_speed_duration": 10
     },
     "planter": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "broken_by_sapling": false,
       "rich_soil_planter": true
     },
     "notice_board": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "allow_any_item": false,
       "gui": true
     },
     "pedestal": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "ash": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.0 to 1.0
       "ash_from_fire_chance": 1.0,
@@ -304,28 +305,28 @@
       "basalt_ash": true
     },
     "flag": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "stick_pole": true,
       // Accepted range: 0 to 256
       "pole_length": 16
     },
     "goblet": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "allow_drinking": true
     },
     "globe": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "show_coordinates": false,
       "sepia_globe": true
     },
     "way_sign": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "road_signs": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": false,
         "show_distance_text": true,
         // Accepted range: 1 to 1000
@@ -336,21 +337,21 @@
       }
     },
     "daub": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "wattle_and_daub": true
     },
     "ash_bricks": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "hat_stand": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "unrestricted": false
     },
     "awning": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "slant": true,
       "shift_through": true,
@@ -358,13 +359,13 @@
       "angle": 69.44395478041653
     },
     "flower_box": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "simple_mode": true
     },
     "netherite_doors": {
-      "door": true,
-      "trapdoor": true,
+      "door": false,
+      "trapdoor": false,
       "unbreakable": false
     },
     "lapis_bricks": false,
@@ -376,7 +377,7 @@
     "blackstone_tile": true,
     "bunting": false,
     "sconce": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "sconce_lever": true
     },
@@ -394,7 +395,7 @@
   },
   "tools": {
     "quiver": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "use_without_slow": true,
       // Accepted range: 1 to 9
@@ -406,20 +407,20 @@
       "quiver_pickup": true
     },
     "lunch_basket": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "placeable": false,
       // Accepted range: 1 to 9
       "slots": 6
     },
     "slice_map": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.0 to 5.0
       "range_multiplier": 0.25
     },
     "bubble_blower": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       // Accepted range: 1 to 25
       "stasis_cost": 5,
@@ -432,20 +433,20 @@
       }
     },
     "wrench": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted values: MAIN_HAND, OFF_HAND, BOTH, NONE
       "bypass_when_on": "MAIN_HAND"
     },
     "rope_arrow": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 1 to 256
       "capacity": 32,
       "exclusive_to_crossbows": false
     },
     "flute": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "unbound": false,
       // Accepted range: 0 to 500
@@ -454,7 +455,7 @@
       "bound_distance": 64
     },
     "bomb": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0.1 to 10.0
       "explosion_radius": 2.0,
@@ -472,7 +473,7 @@
       }
     },
     "slingshot": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       // Accepted range: 0.0 to 5.0
       "range_multiplier": 1.0,
@@ -491,7 +492,7 @@
       "allow_enderpearls": false
     },
     "antique_ink": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "candy": true,
@@ -510,12 +511,8 @@
   },
   "tweaks": {
     "dragon_banner_pattern": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
-    },
-    "shulker_helmet": {
-      // Allows wearing shulker shells
-      "enabled": false
     },
     "ai_tweaks": {
       // Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
@@ -524,11 +521,11 @@
       "raiders_dismount_boats": true
     },
     "golden_apple_disenchant": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false
     },
     "traders_open_doors": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "dispenser_tweaks": {
@@ -537,7 +534,7 @@
       "extract_from_bundles": true
     },
     "throwable_bricks": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false
     },
     "placeable_sticks": {
@@ -545,7 +542,7 @@
       "blaze_rods": true
     },
     "placeable_gunpowder": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       // Accepted range: 0 to 20
       "speed": 2,
@@ -553,11 +550,11 @@
       "spread_age": 2
     },
     "raked_gravel": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false
     },
     "bottle_xp": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       // Accepted range: 0 to 20
       "cost": 2,
@@ -565,7 +562,7 @@
     },
     "map_tweaks": {
       "random_adventurer_maps": {
-        // Allows wearing shulker shells
+        // Adds dragon banner pattern made from dragon head
         "enabled": true,
         // Accepted range: 1 to 1000
         "max_search_radius": 100,
@@ -578,7 +575,7 @@
       "tinted_blocks_on_maps": true
     },
     "placeable_books": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true,
       "mixed_books": false
     },
@@ -590,22 +587,22 @@
       "zombie_horse_inverse_conversion": true
     },
     "noteblocks_scare": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "bad_luck_tweaks": {
       "lightning_unluck": true
     },
     "item_lore": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "sus_recipes": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": true
     },
     "slimed_effect": {
-      // Allows wearing shulker shells
+      // Adds dragon banner pattern made from dragon head
       "enabled": false,
       "throwable_slimeballs": false,
       // Accepted values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
@@ -617,7 +614,8 @@
     },
     "clock_and_compass": {
       "clock_right_click": true,
-      "compass_right_click": false
+      "compass_right_click": false,
+      "works_in_unnatural_dimensions": false
     }
   }
 }

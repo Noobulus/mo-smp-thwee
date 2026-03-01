@@ -2,6 +2,6 @@
   {
     "action": "remove",
     "mod": ["another_furniture"],
-    "patterns": ["/.*shutter_.*/"]
+    "patterns": ["/.*shutter.*/"]
   }
 ]

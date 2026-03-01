@@ -306,11 +306,11 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
-hash = "621a98256b02304d6ebea5cbdf4d7b989574eda705e9714a273031b31df0cdb5"
+hash = "cf077011dc212defa81c929ae103b886188c048dc7416e05f74abed24889ef6c"
 
 [[files]]
 file = "config/reliable_remover/another_furniture.json"
-hash = "e67c8839988c84786b54b64368a21f98fe65998bc21d068ecea5bc1b2ba29e0c"
+hash = "5abed2f476383a9eb547c76cc40d7694f40e57d4d81beb56515c034f363a3f26"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
@@ -349,6 +349,10 @@ file = "config/reliable_remover/nether_addition.json"
 hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 
 [[files]]
+file = "config/reliable_remover/onion_onion.json"
+hash = "f3010491bb069b550c4f68d38c0e96099d64374741c3e2a6e832abb504c27ec9"
+
+[[files]]
 file = "config/reliable_remover/oxide.json"
 hash = "e978c08cc9a66db6e2bedac6f7f7a806e9cee5939c8418a0f25c3fbe23d70f82"
 
@@ -358,7 +362,7 @@ hash = "57aeb857cb073877fa4da2ebb95532e02402e30755b0bc4085ef5444d759010a"
 
 [[files]]
 file = "config/reliable_remover/supplementaries.json"
-hash = "6c82970d3e1da9a854feea231becc99426f760f7a73d847c219292baad7d30f0"
+hash = "0e794c92818216249993509992ae79fbc51c6724db47e00adc8e1b09070bd9db"
 
 [[files]]
 file = "config/smarterfarmers-common.json"
@@ -386,7 +390,7 @@ hash = "ab15867041d1ab28b73bcb4a660f44349daf89bb25a3423edfb411e153701ddd"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "b25e28dcb74ebe2caa21715e94aa148d258c8b3a7ad0c8bc46e4bcd31eb15422"
+hash = "f2560ea9eb7d7a3f089bb92bd41ed1468d6c2ba6c7d1549eb7f897e2524ceaf1"
 
 [[files]]
 file = "config/suppsquared-common.json"
@@ -1487,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "26a693d27e7de2a1b97d13f5fa38bc6e1015c20fb6bb32c905daa20084cfa1d2"
+hash = "22de696a9df1ae0e9ce6ae2cf87f4e37737b217c8152a0a3610ed0060108a768"
 metafile = true
 
 [[files]]
@@ -1697,7 +1701,7 @@ metafile = true
 
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
-hash = "eb1d0078e1312adf751d7aa3d039677503e4b9e1bd839c8be80803c35dd93cd1"
+hash = "db1dbd8eaa7e14575ba23b08b6f5319d688953efab4ef591dedd14958a6dacc2"
 metafile = true
 
 [[files]]
@@ -2121,6 +2125,14 @@ hash = "84a67553c10b1e97e82dbb464c312e00460c18baffa87e68042abdd57e51341f"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/void_lantern.json"
 hash = "81b84b37b8b8ab63438c53efcb7356b8aec4a9b50f166dd0dbe5eaf37e856b5c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/envelope/recipe/oak_pigeonhole.json"
+hash = "dfa248ee0aeb17a8cd7f2c5cc1df4256eeb342ab07c0c2ee32d849d19eeb0883"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/envelope/recipe/paper_box.json"
+hash = "c18a81ea4edb86b63bddf5246ff57d02caed4121fc553fbdb4cfec4beb75b843"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
@@ -2689,6 +2701,14 @@ hash = "7072374558c1988501fa0a119cfd594e454037436918f61c5774fbdef9c6ad23"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mob_repellent/recipe/terracotta_brazier.json"
 hash = "0b79920467275aa61d0613cfcb1b969968dae3ca0cc8b1974201e4c6f840b6bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/monobank/recipe/monobank.json"
+hash = "005b6111db3903d3b55e47663442e3dccdf348d22361ac82f6beb6404ebb270b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/monobank/recipe/replacement_lock.json"
+hash = "e8a49c01ce93f672f5a505fb171a26f3c2bf733e41ea5657a4ca987a613673cd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/cooking/cooking/fried_hoglin_chop.json"
@@ -4275,5 +4295,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.10.txt"
+file = "v0.2.11.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

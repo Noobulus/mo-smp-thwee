@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "pigeonhole",
+  "key": {
+    "H": {
+      "item": "farmersdelight:straw_bale"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PHP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "envelope:oak_pigeonhole"
+  }
+}

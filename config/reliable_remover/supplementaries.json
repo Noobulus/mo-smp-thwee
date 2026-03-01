@@ -6,11 +6,14 @@
       "supplementaries:awning",
       "suppsquared:metal_frame",
       "suppsquared:metal_brace",
-      "suppsquared:metal_cross_brace"
+      "suppsquared:metal_cross_brace",
+      "supplementaries:safe"
     ],
     "patterns": [
       "/.*shelf.*/",
-      "/.*gold_candle.*/"
+      "/.*gold_candle.*/",
+      "/.*key.*/",
+      "/.*netherite.*/"
     ]
   }
 ]
