@@ -71,6 +71,14 @@
         {
             "id": "y21:black_bloque",
             "required": false
+        },
+        {
+            "id": "braziliandelight:peanut",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:guarana_powder",
+            "required": false
         }
     ]
 }

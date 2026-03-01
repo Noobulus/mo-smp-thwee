@@ -106,7 +106,7 @@ hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "33ffa73f75a9ffb5936c34090b9908c01263ee20d7c0904525a7583e89d31f67"
+hash = "978ee60e4a457839ec87543da1bd271da21f725cc361c2691bfd2b512b1fa820"
 
 [[files]]
 file = "config/debugify.json"
@@ -306,7 +306,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/brazil.json"
-hash = "e8a30b68aee24ac6b2c11a4dc7b485fe6a1509bff49a392cef1090387dfe6e4a"
+hash = "12feb348193e2450b31c1253224f018dcc7b7dd0e7f08fe7e851c20cec3f7f2e"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
@@ -330,7 +330,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "9f4d4aef9d62b8653dd27ae9a25a5b3c8a1074d10183b5fcd790853dcab881ff"
+hash = "c2d0c47c70a08415af8b70f5cc50ebb8d6f996a34f980901d99af7a923612cc4"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -1941,6 +1941,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts
 hash = "a8204c21126589109f7e006558701120505ed6b5d5fced98cbd06bca6cf997bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
+hash = "f43149969ed463e312b511c7fac4adda30ddd4477f33dff6ba62d772c0c387bf"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
 hash = "b3b4d31458e0c42b599a8798f2ab59f1cb4d86d92c3604621d798b239d2a0a60"
 
@@ -2102,7 +2106,7 @@ hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
+hash = "08a0e8fae0861086a6b0c777cb3e69287f77d1f1fd2902aea04e91fcb7a0fff3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
@@ -2205,6 +2209,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe
 hash = "9fd11294430ed3e5f37144fabbab6e9aa03733c4c28a527ca2b18f1513b2f6a6"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/baked_cod_stew.json"
+hash = "3d190e6fbe66fbb03cf4f98235dca1b1f9c57d58ee58c186431e938cec9f4733"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
@@ -2229,6 +2237,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/
 hash = "2024dd00048a7328f43c1d5e22349f9d36ecb6f465cf9ba0c156543e37aa712e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/grilled_salmon.json"
+hash = "2cd6e8b61ee1b7b93f53d47412e609c2486098f2c1950375e58928acafec1d4f"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/hanging_canvas_sign.json"
 hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
 
@@ -2247,6 +2259,10 @@ hash = "5776655c5e8fcaf3c8e4241468b82467b4630685cd2e4a28d235da6a68cab120"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/milk_bucket_from_bottles.json"
 hash = "a40029801b253ba0f5ff7b339feb4ffa37464c23c6a33ed07410a83b8be30d68"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/mixed_salad.json"
+hash = "164de4798394466226e3372014e0eb1a41a9177059b448c07b691240ca16ad58"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/packed_mud_from_straw.json"
@@ -2765,6 +2781,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdeligh
 hash = "210f1eb63cf70adad315ad9c9f73beaf760722e30bac97e991be4ad62afd954e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/crafting/ghast_salad.json"
+hash = "d8fcf49fd35a3899727e54b6b385fa7222500a30e0065a43db7f96e85d6d6e67"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/crafting/powdery_plank.json"
 hash = "3813fed00d4987a695b9b971e435a178de882e7a95ac4107b00fe13bd23e1907"
 
@@ -2843,6 +2863,10 @@ hash = "9cda119cb38377cd50e7d793b00e40380c2408bd7141a8502d6e4689d0a2487a"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/bloody_mary.json"
 hash = "11739e3d779173f1014343c0582a0fd8d35097b8b9bf2f6ffaed8583fc48ec97"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/caipirinha.json"
+hash = "0b13a971dfa3ed85e5ff3cf4a4c7908dd535a39fae4c893d56fbcb9f7720c934"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/dread_nog.json"
@@ -2971,6 +2995,10 @@ hash = "03d80f35a34c1f285ec24f9bf44c5c745df0698e80ef9b2abc3af3f9790f8c0e"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
 hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/peanuts.json"
+hash = "1187d6ab5ede4e7781ab40d8f535b245c600805cc2f284584234af21cb83c646"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
@@ -3718,7 +3746,7 @@ hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
-hash = "889426b6a8d4d4d0646abb681646f6d835970fa9b78b944e8a6d911d04418e27"
+hash = "873877ae29e7e400173c33e2272986034bdb8134cf30e59f6590d924929d1108"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
@@ -4377,5 +4405,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.16.txt"
+file = "v0.2.17.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

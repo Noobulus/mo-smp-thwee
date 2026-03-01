@@ -3,6 +3,7 @@
     "loadOrder": [
         "bundle",
         "trade_rebalance",
+        "file/BD Behavioral Tweaks.zip",
         "file/clifftree-3.1.4b-1.21.2.zip",
         "enderscape:new_strongholds",
         "enderscape:new_terrain",

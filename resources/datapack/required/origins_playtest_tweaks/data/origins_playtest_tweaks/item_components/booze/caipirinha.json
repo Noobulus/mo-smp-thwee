@@ -1,0 +1,27 @@
+{
+  "targets": "braziliandelight:caipirinha",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 1800,
+            "id": "brewinandchewin:tipsy"
+          }
+        },
+        {
+          "effect": {
+            "show_icon": false,
+            "duration": 2400,
+            "id": "brewinandchewin:sweet_heart",
+            "show_particles": false
+          }
+        }
+      ]
+	}
+  }
+}

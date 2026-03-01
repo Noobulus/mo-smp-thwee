@@ -9,6 +9,7 @@
         {
             "id": "farmersdelight:red_mushroom_colony",
             "required": false
-        }
+        },
+        "#c:lemon"
     ]
 }

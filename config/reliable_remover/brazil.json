@@ -6,7 +6,7 @@
       "braziliandelight:repugnant_arrow",
       "braziliandelight:couscous",
       "braziliandelight:broa",
-      "braziliandelight:peanut"
+      "braziliandelight:lemon_slice"
     ],
     "patterns": [
       "/.*collard.*/",
@@ -18,7 +18,8 @@
       "/.*shrimp.*/",
       "/.*tray.*/",
       "/.*salt.*/",
-      "/.*golden_coconut.*/"
+      "/.*golden_coconut.*/",
+      "/.*kernel.*/"
     ]
   }
 ]
