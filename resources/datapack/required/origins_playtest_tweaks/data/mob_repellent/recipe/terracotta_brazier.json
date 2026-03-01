@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TCT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "tag": "minecraft:terracotta"
+    },
+    "C": {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        },
+        {
+          "item": "charcoalblock:charcoal_block"
+        }
+      ]
+    }
+  },
+  "result": {
+    "id": "mob_repellent:terracotta_brazier"
+  }
+}

@@ -306,7 +306,11 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
-hash = "433046b64b0c8665b028066875a19d371353ba42e4d70f7e45e7bd9d3b38e15b"
+hash = "621a98256b02304d6ebea5cbdf4d7b989574eda705e9714a273031b31df0cdb5"
+
+[[files]]
+file = "config/reliable_remover/another_furniture.json"
+hash = "e67c8839988c84786b54b64368a21f98fe65998bc21d068ecea5bc1b2ba29e0c"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
@@ -314,7 +318,7 @@ hash = "c268e6cce65be7d7d66171a11718696004069bc6b33e994e1dfcf66d07fc6ee6"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
-hash = "f588ac3c308593cc50f171e731395a2c95e544d3bc6d937aed70ed8dc1aa08bd"
+hash = "0ba438570774e24fa007fde0d359d2ceb3694e7b84dd4cd0443bd518cf5c44ea"
 
 [[files]]
 file = "config/reliable_remover/blahaj.json"
@@ -322,7 +326,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
-hash = "63e78643e42f3cba60b66eeaec92c861898a5a64463bd6375c2777a356c3a05b"
+hash = "fde5ee5e67f5b5480d616a309a657201e1c68f4158725cefa9b638a181375d98"
 
 [[files]]
 file = "config/reliable_remover/kaleidoscopic.json"
@@ -335,6 +339,10 @@ hash = "4ec2e8c27f8b3278b07b8436a2480bf6fbcd7ac2efed316727bea60c086563f9"
 [[files]]
 file = "config/reliable_remover/misc.json"
 hash = "fa54bba901861e6ee61a151b8b4be18e42b36d3b4f1b167f8212d1ef10438d3c"
+
+[[files]]
+file = "config/reliable_remover/mob_repellent.json"
+hash = "40f66529b0790afee2976da2f25cc84fc4e76e3282f9dffee671940868fb6b99"
 
 [[files]]
 file = "config/reliable_remover/nether_addition.json"
@@ -1233,6 +1241,11 @@ hash = "bf335596b8013d4d4fa611c42c4fc11ae2f2d5fcc0a15f02311f483ea03e4740"
 metafile = true
 
 [[files]]
+file = "mods/le-fishe-exotique-au-chocolat.pw.toml"
+hash = "c650aaec32e4b70f276df4cc7e5e594aeac678f72270894c8bd1f829518d9590"
+metafile = true
+
+[[files]]
 file = "mods/lib39-1.5.2+1.21.1-all.jar"
 hash = "67c98216ea0434282ef0e70f10481e7efcc278d5097018cd3e45c6172cfd0e14"
 
@@ -1297,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/monobank.pw.toml"
+hash = "25c888e7f00d9f7b21361ab9690d81752af82a4446665b76495b9d74601c74e6"
 metafile = true
 
 [[files]]
@@ -1485,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/revamped-worldborder.pw.toml"
 hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "dbcedaac8ac506b31f71efe752c66df513ad65c44a102f1f0f6a682796946862"
 metafile = true
 
 [[files]]
@@ -1793,7 +1816,7 @@ hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
-hash = "6ddcc20dbcd8dc150aefeb19904f5dc3e1dc2f2073794b44b00c31f7ba34bcc2"
+hash = "62c64fbadc542fbb334f060f1ec840be888820743779676da9e11e53f310a375"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/ancient_plating_fence.json"
@@ -2664,6 +2687,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recip
 hash = "7072374558c1988501fa0a119cfd594e454037436918f61c5774fbdef9c6ad23"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/mob_repellent/recipe/terracotta_brazier.json"
+hash = "0b79920467275aa61d0613cfcb1b969968dae3ca0cc8b1974201e4c6f840b6bc"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/cooking/cooking/fried_hoglin_chop.json"
 hash = "7485462d8fbae7d30c1929a3a458707e2da402b798ade8867dba3a5e451386ce"
 
@@ -2692,6 +2719,22 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/bloc
 hash = "5df9f97c870e0b557bfd45d4487853b47d4689e281e7b23d7cf8aba0e252bb95"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/onion_onion/recipe/motley_grill_block.json"
+hash = "c33699e17386b226b1f3b36cc36d58c9de520bc2f598b396fcc2e4a381ea9534"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/onion_onion/recipe/onion_rings.json"
+hash = "2c215e83db4f380715811a1b42b0f51dcd6acf905fa222966cbf0838f270b30d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/onion_onion/recipe/onion_rings_from_campfire_cooking.json"
+hash = "59b004d50e530db99708c20f2421329d06296d9914c6bf7a4d13b9003c9e05a2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/onion_onion/recipe/onion_rings_from_smoking.json"
+hash = "1b5805722091724ac1eb3a144701b3fff784957f3581bf54fe99727be19ddb5b"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
 hash = "7d42c636d274fb69c565759c30006c30ef8569c12755db369e9288f1a4370e10"
 
@@ -2702,6 +2745,10 @@ hash = "57d304e607dab246da1f1c925a4c17f7d86b2169e820d13c1079d86ffc52fb13"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sack.json"
 hash = "2d399c037637e5557eb2e5bf417f28d8b38c9d539084e2680e7abaa733a85af2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sheet_metal.json"
+hash = "0c29744474009e2f817b203c37c2ee03e9a4f0982f664fa2d35675a2aab231d8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sofas.json"
@@ -2852,6 +2899,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/onion_rings.json"
+hash = "03d80f35a34c1f285ec24f9bf44c5c745df0698e80ef9b2abc3af3f9790f8c0e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
 hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
 
@@ -2992,24 +3043,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "1eebbb15b711c3fdb2159669e1599f85bdab06770d63f6aae2cf196ec53c3f0d"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/short_doors.json"
-hash = "786f9775d7a31b23d1b121afb929809a97a179449ebc2abca24eb67d453b8ce9"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/shutters.json"
-hash = "efdfee586262eecd5889f968521a9e4c9477fc213bfb3c22b7219c78de9fff84"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/signs.json"
 hash = "3d7da5bd6ef2fee2a12dec179fa23d9605db7e8129b03f2fa092f1177cdead26"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/tables.json"
 hash = "f8fdb8940fb28d9802d41493ba7cfe19125149a52e29d56d04cca11162b12e71"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/tall_doors.json"
-hash = "99b592e37e9fa3215f500de52a703fae81d76ed978c93861ae0d4a36992e1c53"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/trapdoors.json"
@@ -3565,7 +3604,7 @@ hash = "d3224d670b52c222826c4f93031bc1f054f9d458a137f8571934ade28b2eea06"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/oxide_tweaks.json"
-hash = "e637df98b16671d8f9fe6f929616b16e76a417dbe9257755de5f21a5b22c938a"
+hash = "e1275a32976b9698a99913f05f37aefa39dd0473cad86bb0639220f3999f7655"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/pane_buff.json"
@@ -3582,6 +3621,10 @@ hash = "5977983c6195961721aa836e400882e4ec54d50a2cf225ce80ea02b342afb152"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shops.json"
 hash = "b599a9924aee06371b4c18e2630e46ceaf57407dde3dcc10c9f51ed4a1871cea"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shutter_buff.json"
+hash = "440dabe2162f3d4ca41e5c055ae862b47a8aa5811da28047c64c3d7dae7f8d14"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/sign_encheapening.json"
@@ -3817,7 +3860,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "7f773eca88a03116f3972c2f658dade79df808c02fb986ed1268bade84bd7802"
+hash = "fdc09b6769206530817e127ab6eb4403e2d731e29a93e037c0bbdd17df9b0160"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4232,5 +4275,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.9.txt"
+file = "v0.2.10.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

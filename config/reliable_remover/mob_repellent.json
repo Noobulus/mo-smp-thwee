@@ -1,0 +1,10 @@
+[
+  {
+    "action": "remove",
+    "mod": ["mob_repellent"],
+    "items": [
+      "mob_repellent:wooden_brazier",
+      "mob_repellent:stone_brazier"
+    ]
+  }
+]

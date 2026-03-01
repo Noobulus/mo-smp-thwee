@@ -1,0 +1,22 @@
+{
+  "blocks": "#oxide:clean_corrugated_iron",
+  "mappings": {
+    "arts_and_crafts:white_paintbrush": "oxide:white_corrugated_iron",
+    "arts_and_crafts:light_gray_paintbrush": "oxide:light_gray_corrugated_iron",
+    "arts_and_crafts:gray_paintbrush": "oxide:gray_corrugated_iron",
+    "arts_and_crafts:black_paintbrush": "oxide:black_corrugated_iron",
+    "arts_and_crafts:brown_paintbrush": "oxide:brown_corrugated_iron",
+    "arts_and_crafts:red_paintbrush": "oxide:red_corrugated_iron",
+    "arts_and_crafts:orange_paintbrush": "oxide:orange_corrugated_iron",
+    "arts_and_crafts:yellow_paintbrush": "oxide:yellow_corrugated_iron",
+    "arts_and_crafts:lime_paintbrush": "oxide:lime_corrugated_iron",
+    "arts_and_crafts:green_paintbrush": "oxide:green_corrugated_iron",
+    "arts_and_crafts:cyan_paintbrush": "oxide:cyan_corrugated_iron",
+    "arts_and_crafts:light_blue_paintbrush": "oxide:light_blue_corrugated_iron",
+    "arts_and_crafts:blue_paintbrush": "oxide:blue_corrugated_iron",
+    "arts_and_crafts:purple_paintbrush": "oxide:purple_corrugated_iron",
+    "arts_and_crafts:magenta_paintbrush": "oxide:magenta_corrugated_iron",
+    "arts_and_crafts:pink_paintbrush": "oxide:pink_corrugated_iron",
+    "arts_and_crafts:bleachdew_paintbrush": "oxide:white_corrugated_iron"
+  }
+}

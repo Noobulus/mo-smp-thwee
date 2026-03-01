@@ -1,0 +1,28 @@
+{
+    "id_substrings": {
+        "S": "shutter",
+        "#": "planks"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "# #",
+                "# #"
+            ],
+            "output_token": "S",
+            "output_count": 2
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_shutters",
+            "pattern": [
+                "# #",
+                "# #"
+            ],
+            "output_token": "S",
+            "output_count": 4,
+            "category": "building"
+        }
+    ]
+}

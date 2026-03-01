@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "farmersdelight:onion"
+  },
+  "result": {
+    "id": "onion_onion:onion_rings"
+  }
+}

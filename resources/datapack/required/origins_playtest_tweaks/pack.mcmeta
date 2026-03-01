@@ -214,6 +214,10 @@
     {
         "namespace": "architects_palette",
         "path": "recipe/ancient_plating.json"
+    },
+    {
+        "namespace": "onion_onion",
+        "path": "recipe/cutting_onion.json"
     }]
   }
 }

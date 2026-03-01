@@ -1,0 +1,13 @@
+name = "Le Fishe Exotique Au Chocolat"
+filename = "le_fishe_au_chocolat-fabric-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kcdw05QN/versions/aT4NQbdK/le_fishe_au_chocolat-fabric-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "47fa125cddb008c550c4e7b534a711d73b9117b8c188b4a48617646dd929962e2071b5686469e6a9864ccf8a31871fcd7b7c4b757bbdc6303528f8df325b1834"
+
+[update]
+[update.modrinth]
+mod-id = "Kcdw05QN"
+version = "aT4NQbdK"

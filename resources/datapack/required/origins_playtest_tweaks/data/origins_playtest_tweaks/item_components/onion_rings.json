@@ -1,0 +1,8 @@
+{
+  "targets": "onion_onion:onion_rings",
+  "components": {
+    "minecraft:food": {
+      "saturation": 4,
+      "nutrition": 4.8
+  }
+}

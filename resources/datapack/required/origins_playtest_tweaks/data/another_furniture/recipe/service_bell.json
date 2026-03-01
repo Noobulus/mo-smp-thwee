@@ -7,16 +7,16 @@
       "item": "minecraft:iron_ingot"
     },
     ",": {
-      "item": "minecraft:iron_block"
+      "item": "minecraft:iron_nugget"
     },
     "A": {
       "item": "minecraft:amethyst_shard"
     }
   },
   "pattern": [
-    " I ",
-    ",A,",
-    ",,,"
+    " , ",
+    ", ,",
+    "III"
   ],
   "result": {
     "count": 1,

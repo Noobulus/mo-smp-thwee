@@ -45,6 +45,24 @@
       "filter": {
         "id": "oxide:varnish_sprayer_refill_lava"
       }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": "oxide:varnish_sprayer_refill_.*_paint"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": "oxide:varnish_sprayer_refill_water"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": "oxide:varnish_sprayer_refill_milk"
+      }
     }
   ]
 }

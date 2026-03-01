@@ -2,6 +2,9 @@
   {
     "action": "remove",
     "mod": ["arts_and_crafts"],
-    "patterns": ["/.*bleached_.*/"]
+    "patterns": [
+      "/.*bleached_.*/",
+      "/.*plaster_.*/"
+    ]
   }
 ]

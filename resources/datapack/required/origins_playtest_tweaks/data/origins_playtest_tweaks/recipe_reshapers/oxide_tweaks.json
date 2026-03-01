@@ -1,6 +1,7 @@
 {
     "common_ingredients": {
         ",": "iron_nugget",
+        "=": "iron_ingot"
     },
     "id_substrings": {
         "|": "heavy_iron_chain",
@@ -11,6 +12,14 @@
         "G": "wrought_iron_fence_gate"
     },
     "source_family": [
+        {
+            "pattern": [
+                "="
+            ],
+            "output_token": ",",
+            "output_count": 9,
+            "remove": false
+        },
         {
             "pattern": [
                 "=",
@@ -85,7 +94,7 @@
                 " # ",
                 ", ,"
             ],
-            "output_token": "H",
+            "output_token": "X",
             "output_count": 6,
             "category": "building"
         },
