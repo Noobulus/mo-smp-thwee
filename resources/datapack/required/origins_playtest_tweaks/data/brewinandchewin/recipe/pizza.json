@@ -13,7 +13,7 @@
       "item": "farmersdelight:tomato_sauce"
     },
     "w": {
-      "item": "farmersdelight:wheat_dough"
+      "tag": "c:foods/dough"
     }
   },
   "pattern": [

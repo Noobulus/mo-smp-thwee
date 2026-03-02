@@ -1,0 +1,74 @@
+{
+  "replace": true,
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "block": "braziliandelight:budding_lemon_leaves",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "age": "3"
+              }
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "braziliandelight:lemon"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "block": "braziliandelight:budding_lemon_leaves",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "age": "3"
+              }
+            },
+            {
+              "chance": 0.5,
+              "condition": "minecraft:random_chance"
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "braziliandelight:lemon"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "chance": 0.1,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "braziliandelight:lemon_sapling"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

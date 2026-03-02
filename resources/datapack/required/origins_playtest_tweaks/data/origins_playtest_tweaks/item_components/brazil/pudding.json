@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "braziliandelight:pudding",
+    "braziliandelight:carrot_cake",
+    "braziliandelight:carrot_cake_with_chocolate",
+    "braziliandelight:fish_moqueca_pot",
+    "braziliandelight:stroganoff_pot",
+    "braziliandelight:canjica_pot"
+  ],
+  "components": {
+    "minecraft:max_stack_size": 1
+  }
+}

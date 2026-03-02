@@ -1,0 +1,28 @@
+{
+  "replace": true,
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "braziliandelight:coconut_milk"
+    },
+    {
+      "item": "braziliandelight:coconut_slice"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 4,
+    "id": "braziliandelight:quindim"
+  }
+}

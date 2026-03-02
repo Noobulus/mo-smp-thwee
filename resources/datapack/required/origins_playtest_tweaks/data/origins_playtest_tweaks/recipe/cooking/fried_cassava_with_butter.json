@@ -4,10 +4,10 @@
   "experience": 1,
   "ingredients": [
     {
-      "item": "brazilian_delight:cassava_root"
+      "item": "braziliandelight:cassava_root"
     },
     {
-      "item": "brazilian_delight:cassava_root"
+      "item": "braziliandelight:cassava_root"
     },
     {
       "tag": "c:foods/milk"
@@ -16,6 +16,6 @@
   "recipe_book_tab": "meals",
   "result": {
     "count": 3,
-    "id": "brazilian_delight:fried_cassava_with_butter"
+    "id": "braziliandelight:fried_cassava_with_butter"
   }
 }

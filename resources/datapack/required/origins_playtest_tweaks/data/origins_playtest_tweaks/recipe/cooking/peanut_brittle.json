@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1,
+  "ingredients": [
+    {
+      "item": "braziliandelight:peanut_seeds"
+    },
+    {
+      "item": "braziliandelight:peanut_seeds"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 4,
+    "id": "braziliandelight:peanut_brittle"
+  }
+}

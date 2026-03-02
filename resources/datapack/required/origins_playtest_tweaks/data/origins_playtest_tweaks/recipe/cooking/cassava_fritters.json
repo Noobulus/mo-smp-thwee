@@ -4,10 +4,10 @@
   "experience": 1,
   "ingredients": [
     {
-      "item": "brazilian_delight:cassava_flour"
+      "item": "braziliandelight:cassava_flour"
     },
     {
-      "item": "brazilian_delight:cassava_flour"
+      "item": "braziliandelight:cassava_flour"
     },
     {
       "tag": "brewinandchewin:foods/cheese_wedge"
@@ -19,6 +19,6 @@
   "recipe_book_tab": "meals",
   "result": {
     "count": 2,
-    "id": "brazilian_delight:cassava_fritters"
+    "id": "braziliandelight:cassava_fritters"
   }
 }

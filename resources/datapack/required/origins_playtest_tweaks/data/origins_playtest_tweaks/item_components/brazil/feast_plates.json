@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "braziliandelight:plate_of_stroganoff",
+    "braziliandelight:plate_of_fish_moqueca"
+  ],
+  "components": {
+    "minecraft:food": {
+      "saturation": 24.5,
+      "nutrition": 14,
+      "effects": [
+        {
+          "effect": {
+            "show_particles": false,
+            "show_icon": false,
+            "duration": 6000,
+            "id": "farmersdelight:nutrition"
+          }
+        }
+      ]
+	}
+  }
+}

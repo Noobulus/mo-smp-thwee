@@ -1,0 +1,19 @@
+{
+  "targets": "braziliandelight:caipirinha",
+  "components": {
+    "minecraft:food": {
+      "saturation": 11.2,
+      "nutrition": 8,
+      "effects": [
+        {
+          "effect": {
+            "show_particles": false,
+            "show_icon": false,
+            "duration": 1200,
+            "id": "farmersdelight:comfort"
+          }
+        }
+      ]
+	}
+  }
+}

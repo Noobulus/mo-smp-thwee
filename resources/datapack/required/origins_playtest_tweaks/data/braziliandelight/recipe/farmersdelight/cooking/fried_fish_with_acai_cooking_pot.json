@@ -1,27 +1,28 @@
 {
   "replace": true,
   "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:foods/dough"
+      "tag": "c:foods/raw_cod"
     },
     {
-      "item": "mynethersdelight:hoglin_loin"
+      "tag": "c:foods/dough"
     },
     {
       "tag": "c:foods/milk"
     },
     {
-      "tag": "c:eggs"
-    },
-    {
-      "item": "mynethersdelight:bullet_pepper"
+      "item": "braziliandelight:acai_berries"
     }
   ],
   "recipe_book_tab": "meals",
   "result": {
     "count": 1,
-    "id": "mynethersdelight:fried_hoglin_chop"
+    "id": "braziliandelight:fried_fish_with_acai"
   }
 }

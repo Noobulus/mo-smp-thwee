@@ -4,7 +4,7 @@
   "category": "misc",
   "key": {
     "w": {
-      "item": "farmersdelight:wheat_dough"
+      "tag": "c:foods/dough"
     }
   },
   "pattern": [

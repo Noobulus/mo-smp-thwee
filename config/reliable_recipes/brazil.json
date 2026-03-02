@@ -21,12 +21,23 @@
       }
     },
     {
+      "action": "replace_input",
+      "target": "braziliandelight:condensed_milk",
+      "replacement": [
+        "#c:foods/milk"
+      ],
+      "filter": {
+        "mod": "braziliandelight"
+      }
+    },
+    {
       "action": "remove",
       "filter": {
         "id": [
           "braziliandelight:peanut_seeds",
           "braziliandelight:peanut",
-          "braziliandelight:guarana_powder"
+          "braziliandelight:guarana_powder",
+          "braziliandelight:peanut_brittle"
         ]
       }
     }

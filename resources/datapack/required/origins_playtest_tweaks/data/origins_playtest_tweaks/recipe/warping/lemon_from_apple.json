@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "minecraft:apple"
+        }
+    ],
+    "result": {
+        "id": "braziliandelight:lemon"
+    },
+    "dimension": "minecraft:the_nether"
+}

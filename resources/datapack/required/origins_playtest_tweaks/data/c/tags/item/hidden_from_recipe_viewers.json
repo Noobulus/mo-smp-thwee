@@ -79,6 +79,10 @@
         {
             "id": "braziliandelight:guarana_powder",
             "required": false
+        },
+        {
+            "id": "braziliandelight:brazil_flag",
+            "required": false
         }
     ]
 }

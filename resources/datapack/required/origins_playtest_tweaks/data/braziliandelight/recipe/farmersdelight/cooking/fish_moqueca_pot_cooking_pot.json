@@ -1,0 +1,34 @@
+{
+  "replace": true,
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "farmersdelight:cooking_pot"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_cod"
+    },
+    {
+      "tag": "deltaboxlib:vegetables/onion"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "braziliandelight:lemon"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "braziliandelight:coconut_milk"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "braziliandelight:fish_moqueca_pot"
+  }
+}

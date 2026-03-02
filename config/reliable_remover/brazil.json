@@ -10,7 +10,11 @@
       "braziliandelight:brazilian_dinner",
       "braziliandelight:chimarrao",
       "braziliandelight:raw_coxinha",
-      "braziliandelight:raw_cassava_fritters"
+      "braziliandelight:raw_cassava_fritters",
+      "braziliandelight:heavy_cream",
+      "braziliandelight:powdered_peanut_candy",
+      "braziliandelight:milk_caramel",
+      "braziliandelight:cinnamon"
     ],
     "patterns": [
       "/.*collard.*/",
@@ -26,7 +30,8 @@
       "/.*kernel.*/",
       "/.*feijoada.*/",
       "/.*green_soup.*/",
-      "/.*minas.*/"
+      "/.*cheese.*/",
+      "/.*canjica.*/"
     ]
   }
 ]
