@@ -1,5 +1,5 @@
 {
-  "targets": "braziliandelight:caipirinha",
+  "targets": "braziliandelight:sweet_rice",
   "components": {
     "minecraft:food": {
       "saturation": 11.2,

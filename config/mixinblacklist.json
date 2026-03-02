@@ -1,0 +1,12 @@
+{
+  "client": {
+    "mixinClassNames": [],
+    "targetClassNames": []
+  },
+  "common": {
+    "mixinClassNames": [
+      "com.dannbrown.braziliandelight.mixin.CookingPotBlockMixin.class"
+    ],
+    "targetClassNames": []
+  }
+}

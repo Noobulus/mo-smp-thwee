@@ -249,6 +249,10 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "config/mixinblacklist.json"
+hash = "d3ebb3e8be1a7fd3450c8b223b581e0578634b2c8a81ebbf4884b3fef1e50a4d"
+
+[[files]]
 file = "config/necronomicon.json5"
 hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
 
@@ -309,10 +313,6 @@ file = "config/reliable_recipes/brazil.json"
 hash = "1ed3fe598e1c2438c64515e71a2d6c3fe21aa3afcbf5e6eaab6b42046f39c282"
 
 [[files]]
-file = "config/reliable_recipes/miku.json"
-hash = "d2b7b3f274ab0433255e4926e013ae71dcc06d46134dd604891952c82bbba244"
-
-[[files]]
 file = "config/reliable_recipes/oxide.json"
 hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
 
@@ -334,7 +334,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "fc97229a0d7abd238c2a196eabfa2ba5e16ce2d8de75816b300338927ea07afb"
+hash = "5035fb9301b271fc595c7f2c65952c09f642552916c61338e4814cce2c78b7ba"
 
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
@@ -1009,11 +1009,6 @@ hash = "9fbbb1644473c98f133cde218d0a802d8440f7c64256c88b8da22896a8dec3f5"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
-metafile = true
-
-[[files]]
 file = "mods/dont-break-your-tools-1.3.1-1.21.1.jar"
 hash = "571a3e60083a1f099993b108906556053c645abfefb54b0b85a45d6de0b01c3c"
 
@@ -1104,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a62a83e4da40c73a07223aadd61e38235769d9d2a06c95a3b8523fdd0837d706"
+hash = "3849429aef767a4d7b958e093620dcbda93ba3567f5b3c4735378e010d293ac3"
 metafile = true
 
 [[files]]
@@ -1976,12 +1971,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandeligh
 hash = "476d0ac2963555cdb97edc1ce6dae507da6379ff791ecedefbf61ec10a13beb7"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/beijinho.json"
+hash = "3c619869a4a115bbc20d4add2aaf3709bd4f26fcf386e73a7f03161167c19c7f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/brigadeiro_ball.json"
+hash = "ea3e5d411dd461cdf4a3f261ab4f7918ca20f7f8aa0baf65224a2e9cc265e507"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
 hash = "12a7dddf4026adb92062b3f02a2286f5d2c430fa48cde651a8d6916f4f556f78"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/cajuzinho.json"
 hash = "d22821290ee13835d2a22539fe2c1eaaa6aa9d45c808965c50c5d8728c2173f1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/carrot_cake_with_chocolate.json"
+hash = "6f1ad12634c0430655c796fa012e937cb3bd6d8e1f2933276abe989ea16f9845"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/chocolate_love_apple.json"
+hash = "4fa5c281f200514a176aaa9e74d0db9326998ee87fd63d0d6813a68cee038436"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/fish_moqueca_pot_cooking_pot.json"
@@ -2006,6 +2017,38 @@ hash = "a36a57adb83fed6c6408597086a32fba5306cca2255d9881588883fa81e5133e"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/sweet_rice_cooking_pot.json"
 hash = "9ed32727fe2f63325863f23c10e615c77b9b5fc3f3aa7b06fb344dffb9132ae6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/sweet_love_apple.json"
+hash = "fbf4ac8c0b301e73181313dad88858f285f79789ab2a5711c9d98383040d9083"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/acai_palm_tree.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_beans.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_coffee_berries.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_collard_greens.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_corn.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_garlic.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_yerba_mate.json"
+hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
@@ -2169,7 +2212,7 @@ hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "a347de169ed57d2f5b0941f5334d7da523df9826c650e9632e21334a7a02d297"
+hash = "c2bb05b08afbd896d08bf498ad21904c6eb6d1690c23e7308a69fc20f35e4806"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
@@ -2676,6 +2719,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "7ee87adca475a528be5f48200e916c89a8e9bfeeb86e40b46927fc534f7392d8"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/pumpkin_pie.json"
+hash = "9c8f70d1a9855289fe390d7df2fdf6df62d7c3df37032b8e41d9e81fb967d952"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/rail.json"
 hash = "a27fc3ed01b048a9fcb5bbafb73627b0dbd1aa9ba82e971ac71ebc070a20c172"
 
@@ -2992,8 +3039,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0b13a971dfa3ed85e5ff3cf4a4c7908dd535a39fae4c893d56fbcb9f7720c934"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/chicken_pot_pie.json"
+hash = "3094cd58096c5730ce5aeeb5f183080c53c2693a5435add808bec696021d795e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/feast_plates.json"
-hash = "7761a3f2b29416d560e7fdc0781fd500964728c9945d5cabd3ae58ad6bcebe09"
+hash = "5e908bf11759dd7799140963995928d76557c74541a41557176e92b5c78dba89"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/fried_fish_with_acai.json"
@@ -3005,7 +3056,7 @@ hash = "2b00cc85ce6af163f3db456bb49e68ca2df6c26a96b70197f20b9f4fa5dfc937"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/sweet_rice.json"
-hash = "8d20b21bae25a1cf51092938badf79566debaf5755e500219964e22a694bb610"
+hash = "c0471fdb3af9990d42e85b3e1b6e894a8bb938328bc84491a8dbe857888aa10e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/copper_lampear.json"
@@ -3077,7 +3128,7 @@ hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/onion_rings.json"
-hash = "03d80f35a34c1f285ec24f9bf44c5c745df0698e80ef9b2abc3af3f9790f8c0e"
+hash = "cc876bb95d65451f96a4faaeaae9a55f52065f077c972a405f866d4f884f07d6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
@@ -3146,6 +3197,10 @@ hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/camera_stand.json"
 hash = "3bf1c80acb4decec4ce095375b58b64bb6c2d5d3741ed15c39b98bd3f80a682d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/chicken_pot_pie.json"
+hash = "7be12341a8c69a0faa511977880691f934b68971ed39afca07dce1dd82a2a852"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cookie.json"
@@ -4377,7 +4432,7 @@ hash = "48efb47f5e976967567c34da590f6d4e0993ed38f0ecca75b269e6265ea3a146"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "b69a2b50df138b197b8a1202edd3cee50b74bfc4241c4a8f27340cb6cf89cd00"
+hash = "6e0aed303868558c019160018c36c25683aa660124e8f879987d3ff224859ec5"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -4512,5 +4567,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.19.txt"
+file = "v0.2.20.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

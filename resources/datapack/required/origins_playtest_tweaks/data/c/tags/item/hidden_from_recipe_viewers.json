@@ -83,6 +83,50 @@
         {
             "id": "braziliandelight:brazil_flag",
             "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_synthv",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_mesmerizer",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_dont_believe_in_t",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_birdbrain",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_some_more_of_that_song",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_liar_dancer",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_regret_rock",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_pppp",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_whatchacallitsname",
+            "required": false
+        },
+        {
+            "id": "miku-plushie:teto_pickaxe_spoken_for",
+            "required": false
         }
     ]
 }
