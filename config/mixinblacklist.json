@@ -5,7 +5,7 @@
   },
   "common": {
     "mixinClassNames": [
-      "com.dannbrown.braziliandelight.mixin.CookingPotBlockMixin.class"
+      "com.dannbrown.braziliandelight.mixin.CookingPotBlockMixin"
     ],
     "targetClassNames": []
   }

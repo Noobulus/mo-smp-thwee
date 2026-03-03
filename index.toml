@@ -250,7 +250,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/mixinblacklist.json"
-hash = "d3ebb3e8be1a7fd3450c8b223b581e0578634b2c8a81ebbf4884b3fef1e50a4d"
+hash = "a1363a51152a95120d44dc2b43e80daa47f761a6aa2a490d201553a9f1fd5074"
 
 [[files]]
 file = "config/necronomicon.json5"
@@ -310,7 +310,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/brazil.json"
-hash = "1ed3fe598e1c2438c64515e71a2d6c3fe21aa3afcbf5e6eaab6b42046f39c282"
+hash = "0d681072d59cc518f902bf6a7e9c0a8b5f56fab7741d39fd05692e02fb2c364c"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
@@ -1976,7 +1976,7 @@ hash = "3c619869a4a115bbc20d4add2aaf3709bd4f26fcf386e73a7f03161167c19c7f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/brigadeiro_ball.json"
-hash = "ea3e5d411dd461cdf4a3f261ab4f7918ca20f7f8aa0baf65224a2e9cc265e507"
+hash = "9f6ed1366dd24e26848dd57a17ae200ce90143655dc5363016b414d3152b3969"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
@@ -2008,7 +2008,7 @@ hash = "94e9a7cda28e3e3e155027285b93ce3ca1b63b59034292f1561ad9aab9679523"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/quindim_cooking_pot.json"
-hash = "83f8508a76a1888917cb5111ff7eb35a87222959c2d7c0256bc96abd678a9bdc"
+hash = "738b308085c44913163aeb8e7e41031891f1e0d1b8718172dbb95ad30be5ed01"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/stroganoff_pot_cooking_pot.json"
@@ -2016,7 +2016,7 @@ hash = "a36a57adb83fed6c6408597086a32fba5306cca2255d9881588883fa81e5133e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/sweet_rice_cooking_pot.json"
-hash = "9ed32727fe2f63325863f23c10e615c77b9b5fc3f3aa7b06fb344dffb9132ae6"
+hash = "b2dff6ac29696ffd960d93adb1d0b12ef7c79f530358836991c7780dca741add"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/sweet_love_apple.json"
@@ -2212,7 +2212,7 @@ hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "c2bb05b08afbd896d08bf498ad21904c6eb6d1690c23e7308a69fc20f35e4806"
+hash = "b282eb39e77b504a6f0bd049ede43ae53b1a94eb6ad9c74de071f9e805d9dd9d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
@@ -2773,6 +2773,10 @@ hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/beacon_base_blocks.json"
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/crops.json"
+hash = "09da1afc621a5544028d717066b0e12144985907bb4445f713b7f6e81d2c6f49"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/happy_ghast_avoids.json"
@@ -4567,5 +4571,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.20.txt"
+file = "v0.2.21.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

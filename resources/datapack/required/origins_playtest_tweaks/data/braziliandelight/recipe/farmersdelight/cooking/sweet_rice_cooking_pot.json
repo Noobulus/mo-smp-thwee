@@ -8,10 +8,10 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:crops/rice"
+      "tag": "c:foods/milk"
     },
     {
-      "tag": "c:foods/milk"
+      "tag": "c:crops/rice"
     },
     {
       "item": "minecraft:sugar"
