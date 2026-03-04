@@ -310,7 +310,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/brazil.json"
-hash = "0d681072d59cc518f902bf6a7e9c0a8b5f56fab7741d39fd05692e02fb2c364c"
+hash = "a6589a9c743b59868859b0a712d5e559eb55d15323a6b62ab70a0e87278ef6f4"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
@@ -334,7 +334,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "5035fb9301b271fc595c7f2c65952c09f642552916c61338e4814cce2c78b7ba"
+hash = "5cc64c91f77e074fa2aa5b7732525da48eda4b2f71ae6cb2f9ece239216681b4"
 
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
@@ -864,6 +864,11 @@ hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
@@ -1341,6 +1346,11 @@ file = "mods/maddysmanyminiaturemodifications-1.0.4.jar"
 hash = "80479e807d6f08423b5b6ce41a8bfb9f805aa100aa9c7d146871212136afd758"
 
 [[files]]
+file = "mods/magic-8-ball.pw.toml"
+hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
@@ -1348,6 +1358,11 @@ metafile = true
 [[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
 metafile = true
 
 [[files]]
@@ -1422,6 +1437,11 @@ metafile = true
 [[files]]
 file = "mods/nether-additions.pw.toml"
 hash = "41f6f5c3259bb84e02d558e4069bb1498ee9dc912b380865e521c869fd082497"
+metafile = true
+
+[[files]]
+file = "mods/nitrogen_rbn.pw.toml"
+hash = "bd23dabc4b4a36d1f819ea5e7d94cce177941c70409dfdb86e4e56421788ff13"
 metafile = true
 
 [[files]]
@@ -1746,6 +1766,10 @@ metafile = true
 file = "mods/vault-timing.pw.toml"
 hash = "9fd0441483c53a42f3bf2fd182bc026b87d16d30b3c178931933e58e192ca61f"
 metafile = true
+
+[[files]]
+file = "mods/wayfinder-2.3-fabric.1.21.1.jar"
+hash = "da58876921ec86a73241193bf325c2dbdfbd007885aaed7a3cfd2b2f96df8429"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
@@ -2212,7 +2236,7 @@ hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "b282eb39e77b504a6f0bd049ede43ae53b1a94eb6ad9c74de071f9e805d9dd9d"
+hash = "c2bb05b08afbd896d08bf498ad21904c6eb6d1690c23e7308a69fc20f35e4806"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
@@ -3055,12 +3079,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "c4da0312fedd17716527e3c4dbd43a68c4129a1220a45f05ab9185bbdf0661e5"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/pudding.json"
-hash = "2b00cc85ce6af163f3db456bb49e68ca2df6c26a96b70197f20b9f4fa5dfc937"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/sweet_rice.json"
 hash = "c0471fdb3af9990d42e85b3e1b6e894a8bb938328bc84491a8dbe857888aa10e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/unstackable_meals.json"
+hash = "2b00cc85ce6af163f3db456bb49e68ca2df6c26a96b70197f20b9f4fa5dfc937"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/copper_lampear.json"
@@ -4571,5 +4595,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.21.txt"
+file = "v0.2.22.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

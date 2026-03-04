@@ -1,0 +1,13 @@
+name = "Nitrogen"
+filename = "nitrogen-1.7.9-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MmlhYsbf/versions/ZR5amuNb/nitrogen-1.7.9-1.21.1.jar"
+hash-format = "sha512"
+hash = "8f02d47dd78f1b8523bbc373c0056889e2fc6cb8c84270e464132d6e8825f7b1d8aebe9ef60b2818df59860c4875fbec82f1b79c5b0190d5d023bcc7663931ba"
+
+[update]
+[update.modrinth]
+mod-id = "MmlhYsbf"
+version = "ZR5amuNb"

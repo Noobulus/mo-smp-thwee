@@ -85,10 +85,6 @@
             "required": false
         },
         {
-            "id": "braziliandelight:condensed_milk",
-            "required": false
-        },
-        {
             "id": "miku-plushie:teto_pickaxe",
             "required": false
         },
