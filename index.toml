@@ -310,7 +310,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/brazil.json"
-hash = "a6589a9c743b59868859b0a712d5e559eb55d15323a6b62ab70a0e87278ef6f4"
+hash = "d1ca0eadf94fafe700a1911cbc3782bb838a625e452c5aee3fb766965fa208af"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
@@ -334,7 +334,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "5cc64c91f77e074fa2aa5b7732525da48eda4b2f71ae6cb2f9ece239216681b4"
+hash = "3e6b3dc9030429ba8aa63ad12e486ee3cda19b0dca73fe8b94247400573f53e7"
 
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
@@ -1769,7 +1769,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfinder-2.3-fabric.1.21.1.jar"
-hash = "da58876921ec86a73241193bf325c2dbdfbd007885aaed7a3cfd2b2f96df8429"
+hash = "575e9ed629d791fbbb1c92999aaa8b85add1a60cb7508e9cbe4b104e013f70aa"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
@@ -1995,32 +1995,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandeligh
 hash = "476d0ac2963555cdb97edc1ce6dae507da6379ff791ecedefbf61ec10a13beb7"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/beijinho.json"
-hash = "3c619869a4a115bbc20d4add2aaf3709bd4f26fcf386e73a7f03161167c19c7f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/brigadeiro_ball.json"
-hash = "9f6ed1366dd24e26848dd57a17ae200ce90143655dc5363016b414d3152b3969"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
 hash = "12a7dddf4026adb92062b3f02a2286f5d2c430fa48cde651a8d6916f4f556f78"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/cajuzinho.json"
-hash = "d22821290ee13835d2a22539fe2c1eaaa6aa9d45c808965c50c5d8728c2173f1"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/carrot_cake_with_chocolate.json"
-hash = "6f1ad12634c0430655c796fa012e937cb3bd6d8e1f2933276abe989ea16f9845"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/chocolate_love_apple.json"
-hash = "4fa5c281f200514a176aaa9e74d0db9326998ee87fd63d0d6813a68cee038436"
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/condensed_milk.json"
+hash = "c1a354d0cc767dd4844603a8765406d9c096bb3a0b91ea709a780e4e8f066e99"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/fish_moqueca_pot_cooking_pot.json"
-hash = "c09f042ff75c614359253e096f7845b76a696243bf2456bb4dccf63287c8f2e3"
+hash = "516ab6e6765e14f98e9efa40f8533074a00d1d1b9e2e2ce733bc8ec80424d651"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/fried_fish_with_acai_cooking_pot.json"
@@ -2028,7 +2012,7 @@ hash = "7c62287fe023746c2c942864e7d503e54e4e3a978217d7cf3961dda0cd0c4e46"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/pudding_cooking_pot.json"
-hash = "94e9a7cda28e3e3e155027285b93ce3ca1b63b59034292f1561ad9aab9679523"
+hash = "8f73b49e689cd199878b4b9ee3ca01dab9521eaa1c5dd618cc1af025a6343fd3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/quindim_cooking_pot.json"
@@ -2041,10 +2025,6 @@ hash = "a36a57adb83fed6c6408597086a32fba5306cca2255d9881588883fa81e5133e"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/sweet_rice_cooking_pot.json"
 hash = "b2dff6ac29696ffd960d93adb1d0b12ef7c79f530358836991c7780dca741add"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/sweet_love_apple.json"
-hash = "fbf4ac8c0b301e73181313dad88858f285f79789ab2a5711c9d98383040d9083"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/acai_palm_tree.json"
@@ -3219,16 +3199,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/cassava_fritters.json"
+hash = "810847f0e4f501931197985eba992d9dbbc4821b19068adcc7b6c43d6adf4fa4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/chicken_pot_pie.json"
+hash = "a3a5798882545d543266024be8c702a1122ce1e7f191997913dd52102196409d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/coxinha.json"
+hash = "fd2244c9bb7e49c813c8c8fd85bf9d1c36e234bc73d20d3b5325125dfba24176"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
 hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/camera_stand.json"
 hash = "3bf1c80acb4decec4ce095375b58b64bb6c2d5d3741ed15c39b98bd3f80a682d"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/chicken_pot_pie.json"
-hash = "7be12341a8c69a0faa511977880691f934b68971ed39afca07dce1dd82a2a852"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cookie.json"
@@ -3239,20 +3227,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "c5fea9f8d994abf557817d26c1f600b4187776d5911118ca32dd27df353ce422"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cassava_fritters.json"
-hash = "1c3e505f80ca960147870307d624b088285b898e2644e13a0ed0f0cc311b734f"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cocoa_fudge.json"
-hash = "a81f76825580c0d274800ccc15ae08c24e0366e47eae42ddd42f053467986d74"
+hash = "8cb541b69099b30499f6c1b34636f968e40c051aa37f51663413fd2c2cf9635b"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/coxinha.json"
-hash = "8cda40e5e9eb74f71b2266412c16db2a2ff720905e2f32b48ab3b439e36a1625"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/fried_cassava_with_butter.json"
-hash = "afdc41e723e9dab92f1e1793592a0b6fadd346620095441c56028255113cdbf4"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/condensed_milk_alt.json"
+hash = "9ffe8c6166e018916b738f49f54edaae041439cffc9ac948e3fa4dcae2cfd931"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/ghasta_from_dried_ghast.json"
@@ -3260,7 +3240,7 @@ hash = "f498f661b6232697ea08200e8a4484f03562668aad637d8c02c8208005cac82b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/peanut_brittle.json"
-hash = "14c8fe873e360ea8a4305280dfef647dac37bc756c91f9fc8ddca8c31243775d"
+hash = "92feaf4935cceff51c97bf0ee0e479288c30e1d9f959c8d7300a35ad875a3121"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"

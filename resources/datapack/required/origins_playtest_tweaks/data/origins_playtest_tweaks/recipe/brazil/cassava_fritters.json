@@ -1,7 +1,6 @@
 {
-  "type": "farmersdelight:cooking",
-  "cookingtime": 200,
-  "experience": 1,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
       "item": "braziliandelight:cassava_flour"
@@ -16,7 +15,6 @@
       "tag": "c:crops/cabbage"
     }
   ],
-  "recipe_book_tab": "meals",
   "result": {
     "count": 2,
     "id": "braziliandelight:cassava_fritters"

@@ -3,18 +3,15 @@
   "type": "farmersdelight:cooking",
   "container": {
     "count": 1,
-    "id": "minecraft:bowl"
+    "id": "minecraft:glass_bottle"
   },
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:foods/milk"
+      "item": "farmersdelight:milk_bottle"
     },
     {
-      "item": "braziliandelight:condensed_milk"
-    },
-    {
-      "tag": "c:eggs"
+      "item": "farmersdelight:milk_bottle"
     },
     {
       "item": "minecraft:sugar"
@@ -23,6 +20,6 @@
   "recipe_book_tab": "meals",
   "result": {
     "count": 1,
-    "id": "braziliandelight:pudding"
+    "id": "braziliandelight:condensed_milk"
   }
 }

@@ -11,21 +11,17 @@
 		"a": {
 			"tag": "#c:foods/raw_chicken"
 		},
-		"x": {
-			"item": "minecraft:sugar"
-		},
 		"v": {
 			"tag": "#c:foods/vegetable"
 		}
 	},
 	"pattern": [
-		"v#v",
+		" # ",
 		"aaa",
-		"xOx"
+		"vOv"
 	],
 	"result": {
 		"count": 1,
 		"id": "minecraft:pumpkin_pie"
-	},
-	"show_notification": true
+	}
 }

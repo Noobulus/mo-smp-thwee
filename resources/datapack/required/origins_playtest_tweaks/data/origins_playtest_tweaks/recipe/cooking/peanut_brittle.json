@@ -10,21 +10,12 @@
       "item": "braziliandelight:peanut_seeds"
     },
     {
-      "tag": "c:foods/milk"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
+      "item": "braziliandelight:milk_caramel"
     }
   ],
   "recipe_book_tab": "meals",
   "result": {
-    "count": 4,
+    "count": 2,
     "id": "braziliandelight:peanut_brittle"
   }
 }
