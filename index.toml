@@ -310,7 +310,7 @@ hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/reliable_recipes/brazil.json"
-hash = "d1ca0eadf94fafe700a1911cbc3782bb838a625e452c5aee3fb766965fa208af"
+hash = "e2c313f87bcd579e88437ce0e8f884254b46a48a0c8329061f5b01fd82ef79ed"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
@@ -2256,7 +2256,7 @@ hash = "516983f1c6b3ff6ac3197069f7c3fc455a28a37196e27afd51d141715b04d3b7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/critter_barriers/tags/entity_type/rope_blocked_critters.json"
-hash = "31c8822d39b485965e6a8770db222357db88e8a76d32f4b53d4398c420a9e69c"
+hash = "dffdf6cc5e66e0c1aecfe80cbf6bb8c1ac2fe3e6816c32c80819b66996fa0390"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
@@ -3208,7 +3208,7 @@ hash = "a3a5798882545d543266024be8c702a1122ce1e7f191997913dd52102196409d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/coxinha.json"
-hash = "fd2244c9bb7e49c813c8c8fd85bf9d1c36e234bc73d20d3b5325125dfba24176"
+hash = "7c2fef71c19dedd08a0201d2199b7359cdcd8c95eb207db9ad00b92a83126559"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -4124,7 +4124,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "c0a249d06d5c919f579bd9dd90e44f368a60cc85c7b8db5fe1d86e11702307cd"
+hash = "cd34b4b9118ed6ffd53ffdfb63dca50ff4668d47e029d677922aee2bae49867a"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4575,5 +4575,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.22.txt"
+file = "v0.2.23.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

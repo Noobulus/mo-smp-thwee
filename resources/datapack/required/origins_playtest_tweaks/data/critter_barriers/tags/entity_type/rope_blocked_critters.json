@@ -9,7 +9,7 @@
 		"minecraft:allay",
 		"minecraft:endermite",
 		"minecraft:chicken",
-		"minecraft:rabbit"
+		"minecraft:rabbit",
 		{
             "id": "enderscape:rubblemite",
             "required": false

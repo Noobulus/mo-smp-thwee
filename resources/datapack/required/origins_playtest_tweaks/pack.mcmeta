@@ -222,6 +222,50 @@
     {
         "namespace": "farmersdelight",
         "path": "recipe/wheat_dough_from_water.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*wasabi.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*sky.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*blurple.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*sacramento.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*sangria.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*coral.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*rose.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "kaleidoscopic",
+        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "umber",
+        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "lavender",
+        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/compat/.*immersiveengineering.*.json"
     }]
   }
 }
