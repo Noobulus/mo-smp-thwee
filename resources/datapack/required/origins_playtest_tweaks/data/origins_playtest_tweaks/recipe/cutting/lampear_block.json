@@ -2,7 +2,7 @@
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
-      "item": "pearfection:lampear_block"
+      "item": "pearfection:lampear_base_block"
     }
   ],
   "result": [

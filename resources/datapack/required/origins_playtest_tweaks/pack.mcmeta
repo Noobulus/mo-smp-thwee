@@ -225,47 +225,55 @@
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*wasabi.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*wasabi_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*sky.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*sky_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*blurple.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*blurple_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*sacramento.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*sacramento_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*sangria.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*sangria_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*coral.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*coral_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*rose.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*rose_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "kaleidoscopic",
-        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "path": ".*canary_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
-        "namespace": "umber",
-        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "namespace": "kaleidoscopic",
+        "path": ".*umber_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
-        "namespace": "lavender",
-        "path": ".*canary.* (brick)|(rock)|(door)|(ladder)|(lamp).*.json"
+        "namespace": "kaleidoscopic",
+        "path": ".*lavender_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
     },
     {
         "namespace": "farmersdelight",
-        "path": "recipe/compat/.*immersiveengineering.*.json"
+        "path": "integration/.*immersiveengineering.*.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/mixing.*.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/milling.*.json"
     }]
   }
 }

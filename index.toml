@@ -313,6 +313,10 @@ file = "config/reliable_recipes/brazil.json"
 hash = "e2c313f87bcd579e88437ce0e8f884254b46a48a0c8329061f5b01fd82ef79ed"
 
 [[files]]
+file = "config/reliable_recipes/minecraft.json"
+hash = "7c92b6a94c4cbb107cb77c165ecbb2575687c2b3379e15b0d6b8054e2874ab68"
+
+[[files]]
 file = "config/reliable_recipes/oxide.json"
 hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
 
@@ -2727,6 +2731,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "9c8f70d1a9855289fe390d7df2fdf6df62d7c3df37032b8e41d9e81fb967d952"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/purpur_pillar.json"
+hash = "7c4f56358dc2526255f2902c4b4642d305b4e9be291b398b04a61de2d2d63347"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/rail.json"
 hash = "a27fc3ed01b048a9fcb5bbafb73627b0dbd1aa9ba82e971ac71ebc070a20c172"
 
@@ -3204,7 +3212,7 @@ hash = "810847f0e4f501931197985eba992d9dbbc4821b19068adcc7b6c43d6adf4fa4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/chicken_pot_pie.json"
-hash = "a3a5798882545d543266024be8c702a1122ce1e7f191997913dd52102196409d"
+hash = "09a9d0174137c88d5992bb0922dd2a2157d54cb6fe43eb0e54c2bd1f6b676489"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/coxinha.json"
@@ -3292,7 +3300,7 @@ hash = "4a788f123a6874100083959f39429358b6e208efceff948c156ef184bc434826"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/lampear_block.json"
-hash = "e780edf98ce525b3c49db9d2a07129c0b98b4b1080edc127d66b46a71a9b1cd0"
+hash = "b679f46674c668c733068f1f2e187f57630891705fd8f499812176704271afb2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/pressure_plates.json"
@@ -3552,7 +3560,7 @@ hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
-hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
+hash = "3b12b915243f3dc81ab0c946ad0f74d368823d9194cc433292985d694fcf3105"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
@@ -4124,7 +4132,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "cd34b4b9118ed6ffd53ffdfb63dca50ff4668d47e029d677922aee2bae49867a"
+hash = "8581375a4089c5240cce9d407dad8ddbf7658067552f5ceaca6d4ca47783f256"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4575,5 +4583,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.23.txt"
+file = "v0.2.24.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

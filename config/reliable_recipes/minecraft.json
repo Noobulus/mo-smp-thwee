@@ -1,0 +1,12 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "minecraft:end_stone_bricks"
+        ]
+      }
+    }
+  ]
+}
