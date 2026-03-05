@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "braziliandelight:cassava_root"
+    },
+    {
+      "item": "braziliandelight:butter"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "braziliandelight:fried_cassava_with_butter"
+  }
+}

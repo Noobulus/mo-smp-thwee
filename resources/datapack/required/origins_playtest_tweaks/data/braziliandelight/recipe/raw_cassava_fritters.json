@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -17,6 +18,6 @@
   ],
   "result": {
     "count": 2,
-    "id": "braziliandelight:cassava_fritters"
+    "id": "braziliandelight:raw_cassava_fritters"
   }
 }

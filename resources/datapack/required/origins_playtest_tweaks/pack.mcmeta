@@ -265,15 +265,7 @@
     },
     {
         "namespace": "farmersdelight",
-        "path": "integration/.*immersiveengineering.*.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/mixing.*.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/milling.*.json"
+        "path": "integration/.*((immersiveengineering)|(create)).*.json"
     }]
   }
 }

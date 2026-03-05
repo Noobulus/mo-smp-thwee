@@ -9,13 +9,13 @@
       "braziliandelight:lemon_slice",
       "braziliandelight:brazilian_dinner",
       "braziliandelight:chimarrao",
-      "braziliandelight:raw_coxinha",
-      "braziliandelight:raw_cassava_fritters",
       "braziliandelight:cinnamon",
       "braziliandelight:butter",
       "braziliandelight:heavy_cream",
       "braziliandelight:cinnamon",
-      "braziliandelight:coconut_bikini"
+      "braziliandelight:coconut_bikini",
+      "braziliandelight:grilled_cheese_on_a_stick",
+      "braziliandelight:angu"
     ],
     "patterns": [
       "/.*collard.*/",

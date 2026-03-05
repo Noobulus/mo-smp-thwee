@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "braziliandelight:peanut"
+    },
+    {
+      "item": "braziliandelight:peanut"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "braziliandelight:condensed_milk"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "braziliandelight:powdered_peanut_candy"
+  }
+}

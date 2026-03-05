@@ -8,13 +8,13 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:foods/milk"
-    },
-    {
       "tag": "c:crops/rice"
     },
     {
       "item": "minecraft:sugar"
+    },
+    {
+      "item": "braziliandelight:condensed_milk"
     }
   ],
   "recipe_book_tab": "meals",
