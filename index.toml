@@ -106,7 +106,7 @@ hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "978ee60e4a457839ec87543da1bd271da21f725cc361c2691bfd2b512b1fa820"
+hash = "9908d3859c13c36a2b3d7a050ebee973afed487e84ca44d377b12b9d36084389"
 
 [[files]]
 file = "config/debugify.json"
@@ -345,10 +345,6 @@ file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
-file = "config/reliable_remover/enchancement.json"
-hash = "afaeccb8ff48f51c37cbae8e9078468713caf5fe4c635a6e01f5c77ae68d2be8"
-
-[[files]]
 file = "config/reliable_remover/everycomp.json"
 hash = "fde5ee5e67f5b5480d616a309a657201e1c68f4158725cefa9b638a181375d98"
 
@@ -382,7 +378,7 @@ hash = "f3010491bb069b550c4f68d38c0e96099d64374741c3e2a6e832abb504c27ec9"
 
 [[files]]
 file = "config/reliable_remover/origins.json"
-hash = "87f091974d8c29c6698739196d4b09b99fd6189f449044589bc59a225b14d703"
+hash = "53dfec97b8593b132f50c7f90a8f0b83944ff094544d442fb6cfbdd866a95571"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
@@ -2329,7 +2325,7 @@ hash = "c78c9cf6b6bd09f67e456e76b8d9b6b46adfddc5ccff43033406a1c2fedebc4a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/enchantment/smokestack.json"
-hash = "4d3f7a91cd041a592682dfb04341341674ab153e7e30a34e0988ba37d59881ad"
+hash = "1abae13903a0ebf43fcd072edaf0c5baf069d08cd5d73e99c4b4843e3e14aeed"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/tags/enchantment/exclusive_set/cloudskipper.json"
@@ -4672,5 +4668,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.2.txt"
+file = "v0.3.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

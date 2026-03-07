@@ -37,7 +37,7 @@
 					"base": 1,
 					"per_level_above_first": 1
 				},
-				"attribute": "eleron:max_smoke_stack_charges",
+				"attribute": "eleron:max_smokestack_charges",
 				"id": "eleron:enchantment.smokestack",
 				"operation": "add_value"
 			}

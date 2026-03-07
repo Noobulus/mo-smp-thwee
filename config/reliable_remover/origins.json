@@ -1,7 +1,7 @@
 [
   {
     "action": "remove_enchantment",
-    "mod": ["enchancement"],
+    "mod": ["origins"],
     "items": [
       "origins:water_protection"
     ]
