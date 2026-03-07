@@ -118,7 +118,7 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "d07a1e22ea91b11f43c60613578a77d313f0050968a9e6b1ffb8274702498e2e"
+hash = "39406d938eb99cc0da46902d523a0c21c8ed2cb3ddad7f9254066c702e89bd4d"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
@@ -309,16 +309,72 @@ file = "config/preferred-gamerules.properties"
 hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
+file = "config/reliable_recipes/archpal.json"
+hash = "3f82fd86d14c2c447957b5ce4c935bd1244d5e4e2a7525c3006e8bc7c901459d"
+
+[[files]]
+file = "config/reliable_recipes/blahaj.json"
+hash = "1a530b653bcfe30601dc2f2ff14d52d57d919c38862a25481d2c3aa488a30795"
+
+[[files]]
 file = "config/reliable_recipes/brazil.json"
 hash = "e2c313f87bcd579e88437ce0e8f884254b46a48a0c8329061f5b01fd82ef79ed"
 
 [[files]]
+file = "config/reliable_recipes/brewinandchewin.json"
+hash = "2aace4ed1d23ab6364a7e4dd8d6cf4486087c0694d85c8fdd6f7f70ee62531a5"
+
+[[files]]
+file = "config/reliable_recipes/comforts.json"
+hash = "4a7b45ba204a506adca9576feed6f06b7d0f8051a022f1c3a9e3e55e89fd59a5"
+
+[[files]]
+file = "config/reliable_recipes/exposure.json"
+hash = "f0def485161b9c28505566377737c06a135820ff11a9d3db12aa3ce21cb3b37e"
+
+[[files]]
+file = "config/reliable_recipes/farmersdelight.json"
+hash = "eb613806755e6c5b2f1c68fe2cc1686595191b19dad2f7e3f7aa5d9a493e095c"
+
+[[files]]
+file = "config/reliable_recipes/hopper_gadgetry.json"
+hash = "3dadfab4909d38f21f95b4cd07b15073e0ca65985164826ea6d343c45e334c00"
+
+[[files]]
+file = "config/reliable_recipes/miku-plushie.json"
+hash = "0fec6b33adb5524eef5e69b374e2138f25b45dc2c44439f7dd8e97e8bc0c3721"
+
+[[files]]
 file = "config/reliable_recipes/minecraft.json"
-hash = "7c92b6a94c4cbb107cb77c165ecbb2575687c2b3379e15b0d6b8054e2874ab68"
+hash = "082c743e9b5b243af5bdbd328c6232fc88877b2f4e0cc607546ddea2e4898257"
+
+[[files]]
+file = "config/reliable_recipes/mynethersdelight.json"
+hash = "9666fb884de3a155864944e24acddccea7dcb8687df034d77538ecba827d96af"
+
+[[files]]
+file = "config/reliable_recipes/nears.json"
+hash = "cdaeb8492417ba635a38ed5cebeebe0fa7e6ccaf4c7deb3007b4fe877fcbfefc"
+
+[[files]]
+file = "config/reliable_recipes/onion_onion.json"
+hash = "64f4ffb095fa3d3371b17db422b22653dc51c9de7c123adf6b52743d09e921e8"
 
 [[files]]
 file = "config/reliable_recipes/oxide.json"
 hash = "e03572feb5a298e16106a3c0c71768db52dacbccdfb75a3c2943bbdf2d251a1a"
+
+[[files]]
+file = "config/reliable_recipes/pearfection.json"
+hash = "d65de7e70e211b6e3d7368ee5a4babce40c14687afab2af7820c4546489cde9d"
+
+[[files]]
+file = "config/reliable_recipes/supplementaries.json"
+hash = "0830e32184ee69aba85761341961890356462744369e1e9549a680f1e63188fa"
+
+[[files]]
+file = "config/reliable_recipes/vanillabackport.json"
+hash = "8ba29d62a1172d9268b27f14847f4f0f67c03c1d4d87fea047b5a15ffb63ffeb"
 
 [[files]]
 file = "config/reliable_remover/another_furniture.json"
@@ -341,12 +397,16 @@ file = "config/reliable_remover/brazil.json"
 hash = "796576f1530ecc8a9c748685427c004c722916b50850d3eb7ced2d16a80f1b7d"
 
 [[files]]
+file = "config/reliable_remover/build_tools.json"
+hash = "a023e02ba51b7df7e902d48bb15136b4b6a30de514dc81f8892a443852b2d16f"
+
+[[files]]
 file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
 file = "config/reliable_remover/enchancement.json"
-hash = "acf55191e32a9f1acb6f2a1abcf33663914d5d4dbe44b2adb9179b6252fd70ff"
+hash = "463311736e357c509a26b6db5e10dbfb09f36cd2e60dbfdc846983a3361552d8"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -366,7 +426,7 @@ hash = "74c39bd9a9c8ef81c223671fad436a877630d0dd080d80ea3602e60676eb55d5"
 
 [[files]]
 file = "config/reliable_remover/misc.json"
-hash = "fa54bba901861e6ee61a151b8b4be18e42b36d3b4f1b167f8212d1ef10438d3c"
+hash = "ab1a5d406290103116017a37635204a9c54087184d08199fb604886695725e33"
 
 [[files]]
 file = "config/reliable_remover/mob_repellent.json"
@@ -2345,7 +2405,7 @@ hash = "e1c96074b18e7afb8281f4b94cbf29067d1236ea62d51a5b8399827b7bca29b7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
-hash = "b0ba6cc6a11e2c0aff99d1b3f42abb05a72f964f35264e212215705c553a56d9"
+hash = "377f4df7803c514b50cae372fc15db708d060f762130437be3fba3904e43141b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
@@ -4032,6 +4092,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/worldgen/biome/has_structure/nowhere.json"
+hash = "bb66caafa85dd18589db9dab594b90b85128b207c9d7ed7042f5b9fe8f171bc6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/oxide/loot_table/blocks/cement.json"
 hash = "4df93c44bfcf58711e24999547081d5cbc286f35bc4cb8802ce6351d0e2ec6a7"
 
@@ -4212,6 +4276,18 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/tags/i
 hash = "907c93b1f3a7d99cebb26445801c9e315254c060cf1e24600493fab4683a0d2f"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/recipe/signal_array.json"
+hash = "249a8e6251b04ab978c0a91d79126be0a24b13a7462d97c801b859f191e5fe71"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/recipe/signalscope.json"
+hash = "4a74475f7bb008f01889107dc5e0a747fdfa030b3bebe051f31e55007f61ec7e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/worldgen/structure/signal_tower.json"
+hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/ir_lazor_emitter.json"
 hash = "8ec277300bf73f8af5aed62cc2576ab6b164ba982b9dfca00fde2a2d98b624c2"
 
@@ -4225,7 +4301,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "066bced48604f1ef71671606d8f16d137bdec914f8c0a84f3b973473cf00a8bf"
+hash = "b5eb0b74751f98ad99e77abd82e0e2ac739e9c4869391dfec5796a4e446ff4b6"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4676,5 +4752,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.4.txt"
+file = "v0.3.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

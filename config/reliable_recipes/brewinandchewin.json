@@ -1,0 +1,16 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "brewinandchewin:heating_cask",
+          "brewinandchewin:ice_crate",
+          "brewinandchewin:fermenting/cocoa_fudge_from_milk",
+          "brewinandchewin:quiche_from_bacon",
+          "brewinandchewin:quiche_from_mushroom"
+        ]
+      }
+    }
+  ]
+}

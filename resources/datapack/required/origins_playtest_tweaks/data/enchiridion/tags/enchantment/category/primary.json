@@ -35,6 +35,10 @@
     {
       "id": "enchancement:scatter",
       "required": false
+    },
+    {
+      "id": "enchancement:assimilation",
+      "required": false
     }
   ]
 }

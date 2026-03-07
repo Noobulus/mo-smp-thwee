@@ -1,0 +1,13 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "hopper_gadgetry:grated_hopper",
+          "hopper_gadgetry:grated_hopper_from_hopper"
+        ]
+      }
+    }
+  ]
+}

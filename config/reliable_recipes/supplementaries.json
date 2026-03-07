@@ -1,0 +1,13 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "supplementaries:cannon_2",
+          "supplementaries:lumisene_bucket"
+        ]
+      }
+    }
+  ]
+}

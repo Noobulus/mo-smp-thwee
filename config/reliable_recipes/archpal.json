@@ -1,0 +1,15 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "architects_palette:sunmetal_blend",
+          "architects_palette:nether_brass_blend",
+          "architects_palette:oracle_jelly",
+          "architects_palette:ancient_plating"
+        ]
+      }
+    }
+  ]
+}

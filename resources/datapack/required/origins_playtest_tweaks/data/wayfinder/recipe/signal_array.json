@@ -1,0 +1,30 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " gi",
+        "Rgg",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "N": {
+            "item": "minecraft:note_block"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "i": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "id": "wayfinder:signal_array",
+        "count": 1
+    }
+}

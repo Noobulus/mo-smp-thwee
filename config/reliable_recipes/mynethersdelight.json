@@ -1,0 +1,23 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "mynethersdelight",
+        "output": "/.*boiled_egg.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "mynethersdelight:cutting/cutting/bullet_pepper",
+          "mynethersdelight:crafting/tnt_alt",
+          "mynethersdelight:crafting/scaffolding_alt",
+          "brewinandchewin:quiche_from_bacon",
+          "brewinandchewin:quiche_from_mushroom"
+        ]
+      }
+    }
+  ]
+}

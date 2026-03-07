@@ -4,7 +4,17 @@
       "action": "remove",
       "filter": {
         "id": [
-          "minecraft:end_stone_bricks"
+          "minecraft:end_stone_bricks",
+          "minecraft:lead",
+          "minecraft:packed_mud",
+          "minecraft:painting",
+          "minecraft:bread",
+          "minecraft:scaffolding",
+          "minecraft:cookie",
+          "minecraft:beetroot_soup",
+          "minecraft:stick_from_bamboo_item",
+          "minecraft:cake",
+          "minecraft:bundle"
         ]
       }
     }

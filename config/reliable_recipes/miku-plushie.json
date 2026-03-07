@@ -1,0 +1,10 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "miku-plushie"
+      }
+    }
+  ]
+}

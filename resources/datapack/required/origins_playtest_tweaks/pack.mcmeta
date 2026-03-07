@@ -5,183 +5,11 @@
   },
   "filter": {
     "block": [{
-        "namespace": "build_tools",
-        "path": "recipe/cloud_bucket.json"
-    },
-    {
         "path": "advancement/recipe.*"
     },
     {
         "namespace": "minecraft",
         "path": "advancement/nether/use_lodestone"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/lead.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/packed_mud.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/painting.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/bread.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/cutting/.*_trapdoor.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/cutting/.*_sign.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/cutting/.*_door.json"
-    },
-    {
-        "namespace": "comforts",
-        "path": "recipe/rope_and_nail.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/scaffolding.json"
-    },
-    {
-        "namespace": "miku-plushie",
-        "path": "recipe/baguette.json"
-    },
-    {
-        "namespace": "miku-plushie",
-        "path": "recipe/canudinho.json"
-    },
-    {
-        "namespace": "miku-plushie",
-        "path": "recipe/.*plush.*"
-    },
-    {
-        "namespace": "miku-plushie",
-        "path": "recipe/teto_pickaxe.*"
-    },
-    {
-        "namespace": "hopper_gadgetry",
-        "path": "recipe/grated_hopper.json"
-    },
-    {
-        "namespace": "hopper_gadgetry",
-        "path": "recipe/grated_hopper_from_hopper.json"
-    },
-    {
-        "namespace": "blahaj",
-        "path": "recipe/crafting/blue_whale.json"
-    },
-    {
-        "namespace": "blahaj",
-        "path": "recipe/crafting/bread.json"
-    },
-    {
-        "namespace": "blahaj",
-        "path": "recipe/crafting/blue_shark.json"
-    },
-    {
-        "namespace": "blahaj",
-        "path": "recipe/stonecutter/blue_shark.json"
-    },
-    {
-        "namespace": "supplementaries",
-        "path": "recipe/cannon_2.json"
-    },
-    {
-        "namespace": "vanillabackport",
-        "path": "recipe/dried_ghast.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/boiled_egg_cooking.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/boiled_egg_from_smoking.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/boiled_egg_from_campfire_cooking.json"
-    },
-    {
-        "namespace": "dramaticdoors",
-        "path": "recipe/.*sawmill.json"
-    },
-    {
-        "namespace": "brewinandchewin",
-        "path": "recipe/heating_cask.json"
-    },
-    {
-        "namespace": "brewinandchewin",
-        "path": "recipe/ice_crate.json"
-    },
-    {
-        "namespace": "brewinandchewin",
-        "path": "recipe/fermenting/cocoa_fudge_from_milk.json"
-    },
-    {
-        "namespace": "brewinandchewin",
-        "path": "recipe/quiche_from_bacon.json"
-    },
-    {
-        "namespace": "brewinandchewin",
-        "path": "recipe/quiche_from_mushroom.json"
-    },
-    {
-        "namespace": "supplementaries",
-        "path": "recipe/lumisene_bucket.json"
-    },
-    {
-        "namespace": "nears",
-        "path": "recipe/cookie_from_cinder_grain.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/cookie.json"
-    },
-    {
-        "namespace": "exposure",
-        "path": "recipe/camera_stand.json"
-    },
-    {
-        "namespace": "pearfection",
-        "path": "recipe/callery_pickets.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/cutting/cutting/bullet_pepper.json"
-    },
-    {
-        "namespace": "nears",
-        "path": "recipe/packed_mud_from_cinder_grain.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/beetroot_soup.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/crafting/tnt_alt.json"
-    },
-    {
-        "namespace": "mynethersdelight",
-        "path": "recipe/crafting/scaffolding_alt.json"
-    },
-    {
-        "namespace": "minecraft",
-        "path": "recipe/stick_from_bamboo_item.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/basket.json"
     },
     {
         "namespace": "supplementaries",
@@ -198,30 +26,6 @@
     {
         "namespace": "supplementaries",
         "path": "flute_songs/alia.json"
-    },
-    {
-        "namespace": "architects_palette",
-        "path": "recipe/sunmetal_blend.json"
-    },
-    {
-        "namespace": "architects_palette",
-        "path": "recipe/nether_brass_blend.json"
-    },
-    {
-        "namespace": "architects_palette",
-        "path": "recipe/oracle_jelly.json"
-    },
-    {
-        "namespace": "architects_palette",
-        "path": "recipe/ancient_plating.json"
-    },
-    {
-        "namespace": "onion_onion",
-        "path": "recipe/cutting_onion.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "recipe/wheat_dough_from_water.json"
     },
     {
         "namespace": "kaleidoscopic",
@@ -262,10 +66,6 @@
     {
         "namespace": "kaleidoscopic",
         "path": ".*lavender_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
-    },
-    {
-        "namespace": "farmersdelight",
-        "path": "integration/.*((immersiveengineering)|(create)).*.json"
     }]
   }
 }

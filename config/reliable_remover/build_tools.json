@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "build_tools:cloud_bucket",
+      "build_tools:wrench"
+    ]
+  }
+]

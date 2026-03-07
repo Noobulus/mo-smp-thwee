@@ -1,0 +1,12 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "onion_onion:cutting_onion"
+        ]
+      }
+    }
+  ]
+}

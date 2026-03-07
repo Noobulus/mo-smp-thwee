@@ -1,0 +1,13 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "nears:cookie_from_cinder_grain",
+          "nears:packed_mud_from_cinder_grain"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "farmersdelight",
+        "type": "farmersdelight:cutting",
+        "output": "/.*door.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "farmersdelight",
+        "type": "farmersdelight:cutting",
+        "output": "/.*sign.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "farmersdelight",
+        "output": "/.*immersiveengineering.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "mod": "farmersdelight",
+        "output": "/.*create.*/"
+      }
+    },
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "farmersdelight:basket",
+          "farmersdelight:wheat_dough_from_water"
+        ]
+      }
+    }
+  ]
+}
