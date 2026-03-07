@@ -66,6 +66,14 @@
     {
         "namespace": "kaleidoscopic",
         "path": ".*lavender_.*((brick)|(rock)|(door)|(ladder)|(lamp)).*.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": ".*integration/immersiveengineering.*.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": ".*integration/create.*.json"
     }]
   }
 }

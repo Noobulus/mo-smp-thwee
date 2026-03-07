@@ -19,20 +19,6 @@
     {
       "action": "remove",
       "filter": {
-        "mod": "farmersdelight",
-        "output": "/.*immersiveengineering.*/"
-      }
-    },
-    {
-      "action": "remove",
-      "filter": {
-        "mod": "farmersdelight",
-        "output": "/.*create.*/"
-      }
-    },
-    {
-      "action": "remove",
-      "filter": {
         "id": [
           "farmersdelight:basket",
           "farmersdelight:wheat_dough_from_water"

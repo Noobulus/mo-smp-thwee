@@ -7,13 +7,15 @@
       "suppsquared:metal_frame",
       "suppsquared:metal_brace",
       "suppsquared:metal_cross_brace",
-      "supplementaries:safe"
+      "supplementaries:safe",
+      "supplementaries:soap"
     ],
     "patterns": [
       "/.*shelf.*/",
       "/.*gold_candle.*/",
       "/.*key.*/",
-      "/.*netherite.*/"
+      "/.*netherite.*/",
+      "/.*flax.*/"
     ]
   }
 ]

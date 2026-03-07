@@ -5,7 +5,13 @@
       "filter": {
         "id": [
           "supplementaries:cannon_2",
-          "supplementaries:lumisene_bucket"
+          "supplementaries:cannonball_2",
+          "supplementaries:lumisene_bucket",
+          "supplementaries:sack",
+          "supplementaries:sack_2",
+          "supplementaries:pancake",
+          "supplementaries:unenchanted_golden_apple",
+          "supplementaries:dispenser_minecart_quark"
         ]
       }
     }

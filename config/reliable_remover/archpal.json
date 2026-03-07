@@ -27,7 +27,8 @@
         "/.*hazard.*/",
         "/.*oracle.*/",
         "/.*crater.*/",
-        "/.*basalt.*/"
+        "/.*basalt.*/",
+        "/.*warpstone.*/"
       ]
     }
   },

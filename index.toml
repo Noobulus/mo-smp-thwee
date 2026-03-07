@@ -334,7 +334,7 @@ hash = "f0def485161b9c28505566377737c06a135820ff11a9d3db12aa3ce21cb3b37e"
 
 [[files]]
 file = "config/reliable_recipes/farmersdelight.json"
-hash = "eb613806755e6c5b2f1c68fe2cc1686595191b19dad2f7e3f7aa5d9a493e095c"
+hash = "c5682ff93a38f595e103ad03c37a3aa296ad919a84837ec3a7537e5717d3b6ca"
 
 [[files]]
 file = "config/reliable_recipes/hopper_gadgetry.json"
@@ -370,7 +370,7 @@ hash = "d65de7e70e211b6e3d7368ee5a4babce40c14687afab2af7820c4546489cde9d"
 
 [[files]]
 file = "config/reliable_recipes/supplementaries.json"
-hash = "0830e32184ee69aba85761341961890356462744369e1e9549a680f1e63188fa"
+hash = "09c8f3825c5d00ccc71b38be0eb461cacc55580b46ae0001cc6f4ba9c2751868"
 
 [[files]]
 file = "config/reliable_recipes/vanillabackport.json"
@@ -382,7 +382,7 @@ hash = "5abed2f476383a9eb547c76cc40d7694f40e57d4d81beb56515c034f363a3f26"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "c268e6cce65be7d7d66171a11718696004069bc6b33e994e1dfcf66d07fc6ee6"
+hash = "7c6b9ecaacee4ec2f14b31616a7007d6a966b8d9f0886655c6838895340add0e"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -454,7 +454,7 @@ hash = "57aeb857cb073877fa4da2ebb95532e02402e30755b0bc4085ef5444d759010a"
 
 [[files]]
 file = "config/reliable_remover/supplementaries.json"
-hash = "0e794c92818216249993509992ae79fbc51c6724db47e00adc8e1b09070bd9db"
+hash = "7f4fb4afd55d847316347d6620c142a6c2660c31c9d0b2acc942a82e1eedfbcb"
 
 [[files]]
 file = "config/reliable_replacer/no_urns_in_structures.json"
@@ -1981,7 +1981,7 @@ hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
-hash = "62c64fbadc542fbb334f060f1ec840be888820743779676da9e11e53f310a375"
+hash = "97e1a3abff3d6d28aa8331d1f1857a4d7dbf84b8148d6424d3757986b34b4e4b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/ancient_plating_fence.json"
@@ -3008,10 +3008,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/planks.json"
-hash = "bec8e9776c7d20277783e545c1e3ef7091baeb64673bb7ccb050b9fc8dd95739"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
 hash = "527ca76c5b281feef2368eb270dcf6c5d0a879104145f8559d0c1997eb13a95d"
 
@@ -3614,14 +3610,6 @@ hash = "06dce1e31f6a2ca16c9a53b2ebeeec6cbffcb6858f7a0770242ff0c5bdfcbbc6"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_table.json"
 hash = "01acd4097070ddb7fba384ad095f214735b2249cf592022d00ecdaa09b3c5647"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_callery_door.json"
-hash = "1143851eb303e698d41e65c3d42d6681f8b751ae1dde4d278042b83a516152c7"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_callery_door.json"
-hash = "9d6e71c22b63584c9c2aa6edd28c12354b9c946d962d3a4524337c5171550b4b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_bench.json"
@@ -4301,7 +4289,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "b5eb0b74751f98ad99e77abd82e0e2ac739e9c4869391dfec5796a4e446ff4b6"
+hash = "1fd85a51295c82715f8a6781843ecd5565566960980f5c42f49bcee31952887a"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4752,5 +4740,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.5.txt"
+file = "v0.3.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
