@@ -117,8 +117,8 @@ file = "config/dummmmmmy-common.json"
 hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
-file = "config/enchantmentdisabler-config.json5"
-hash = "d253a9f5e67cce41995c96ac15106f5ac393c4cc7b5d49d777d19e77e59f2783"
+file = "config/enchancement.json"
+hash = "d07a1e22ea91b11f43c60613578a77d313f0050968a9e6b1ffb8274702498e2e"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
@@ -345,6 +345,10 @@ file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
+file = "config/reliable_remover/enchancement.json"
+hash = "afaeccb8ff48f51c37cbae8e9078468713caf5fe4c635a6e01f5c77ae68d2be8"
+
+[[files]]
 file = "config/reliable_remover/everycomp.json"
 hash = "fde5ee5e67f5b5480d616a309a657201e1c68f4158725cefa9b638a181375d98"
 
@@ -375,6 +379,10 @@ hash = "d542353805d28b489b8c360729aae4943c786461b331896378ec688f726c3f3e"
 [[files]]
 file = "config/reliable_remover/onion_onion.json"
 hash = "f3010491bb069b550c4f68d38c0e96099d64374741c3e2a6e832abb504c27ec9"
+
+[[files]]
+file = "config/reliable_remover/origins.json"
+hash = "87f091974d8c29c6698739196d4b09b99fd6189f449044589bc59a225b14d703"
 
 [[files]]
 file = "config/reliable_remover/oxide.json"
@@ -1062,13 +1070,13 @@ hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
+file = "mods/enchancement.pw.toml"
+hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-disabler.pw.toml"
-hash = "4b90a181883115f95724390a8911ca953652238345d45417e0ebcf10416fb86b"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -2550,6 +2558,14 @@ hash = "060454d44a58fa99d443d23ec891ac5ed52a9177f3c48dbf7c3c7da8057d219d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/dimension_type/the_nether.json"
 hash = "d20b9c26f662d6f4d3c5aa67659a01b217446cee9523e980d37c189b188da8af"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/fortune.json"
+hash = "6d4938e4e7684da7cf022b809dcd2901f0680d3abfd7570e0eba701ecdc11d6c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/looting.json"
+hash = "6583c28f62461a11f245a8a6239aa0c59e6c5ce2d06103ebe20c809f18c693af"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/beetroots.json"
@@ -4624,5 +4640,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.0.txt"
+file = "v0.3.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

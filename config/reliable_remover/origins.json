@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove_enchantment",
+    "mod": ["enchancement"],
+    "items": [
+      "origins:water_protection"
+    ]
+  }
+]
