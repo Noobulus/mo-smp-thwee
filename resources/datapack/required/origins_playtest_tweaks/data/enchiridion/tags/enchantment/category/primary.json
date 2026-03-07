@@ -15,6 +15,26 @@
     {
       "id": "enchancement:grapple",
       "required": false
+    },
+    {
+      "id": "enchancement:veil",
+      "required": false
+    },
+    {
+      "id": "enchancement:adrenaline",
+      "required": false
+    },
+    {
+      "id": "enchancement:phasing",
+      "required": false
+    },
+    {
+      "id": "enchancement:warp",
+      "required": false
+    },
+    {
+      "id": "enchancement:scatter",
+      "required": false
     }
   ]
 }

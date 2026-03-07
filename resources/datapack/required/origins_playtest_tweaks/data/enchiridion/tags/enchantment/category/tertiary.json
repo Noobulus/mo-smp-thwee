@@ -3,6 +3,10 @@
     {
       "id": "enderscape:resonance",
       "required": false
+    },
+    {
+      "id": "enchancement:berserk",
+      "required": false
     }
   ]
 }

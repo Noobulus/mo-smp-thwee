@@ -1,0 +1,30 @@
+[
+  {
+    "action": "remove_enchantment",
+    "mod": ["enchancement"],
+    "items": [
+      "enchancement:perception",
+      "enchancement:amphibious",
+      "enchancement:perception",
+      "enchancement:wardenspine",
+      "enchancement:dash",
+      "enchancement:gale",
+      "enchancement:slide",
+      "enchancement:buoy",
+      "enchancement:bouncy",
+      "enchancement:sticky",
+      "enchancement:chaos",
+      "enchancement:delay",
+      "enchancement:brimstone",
+      "enchancement:torch",
+      "enchancement:beheading",
+      "enchancement:bury",
+      "enchancement:scooping",
+      "enchancement:apex",
+      "enchancement:disarm",
+      "enchancement:meteor",
+      "enchancement:thunderstruck",
+      "enchancement:frostbite"
+    ]
+  }
+]

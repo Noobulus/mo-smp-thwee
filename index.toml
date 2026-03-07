@@ -106,7 +106,7 @@ hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "9908d3859c13c36a2b3d7a050ebee973afed487e84ca44d377b12b9d36084389"
+hash = "8f768b0c169df477e1b597d0861069a2b852a6887be82c058f594eb15ebd40ac"
 
 [[files]]
 file = "config/debugify.json"
@@ -343,6 +343,10 @@ hash = "796576f1530ecc8a9c748685427c004c722916b50850d3eb7ced2d16a80f1b7d"
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
+
+[[files]]
+file = "config/reliable_remover/enchancement.json"
+hash = "acf55191e32a9f1acb6f2a1abcf33663914d5d4dbe44b2adb9179b6252fd70ff"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -2336,16 +2340,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/tags/enc
 hash = "827092776ff51ac4f58926dc077b55460b30a31d14e3ab7d6ebe09e4bb88a158"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/enchantment/strafe.json"
+hash = "e1c96074b18e7afb8281f4b94cbf29067d1236ea62d51a5b8399827b7bca29b7"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
-hash = "9b2435bb819556bca03a86cc1867d917eec09c9e158137cc1f564e42f7a1b427"
+hash = "b0ba6cc6a11e2c0aff99d1b3f42abb05a72f964f35264e212215705c553a56d9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
-hash = "80a8c5c805e3c9954b0221d111d6a26546fbcf73296fbfa3ce8e065bb6a68f2d"
+hash = "e0c25acdd2a9fadbc49831642a28404c60fc1168de46a6baa118bef12df4eecb"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
-hash = "72b3c89058c824ca34f356737bc132aed734b8770669f89edf21201f7a8795da"
+hash = "7cc0f85b5b1d835d1fa9f82e5bbca906588cee0cba3afaadc5a9061ace8a037d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
@@ -4668,5 +4676,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.3.txt"
+file = "v0.3.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

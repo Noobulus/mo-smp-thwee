@@ -3,6 +3,26 @@
     {
       "id": "eleron:cloudskipper",
       "required": false
+    },
+    {
+      "id": "enchancement:extracting",
+      "required": false
+    },
+    {
+      "id": "enchancement:molten",
+      "required": false
+    },
+    {
+      "id": "enchancement:leech",
+      "required": false
+    },
+    {
+      "id": "enchancement:strafe",
+      "required": false
+    },
+    {
+      "id": "enchancement:lumberjack",
+      "required": false
     }
   ]
 }
