@@ -1,0 +1,56 @@
+{
+	"replace": true,
+	"description": {
+		"translate": "enchantment.eleron.smokestack"
+	},
+
+	"slots": [ "armor" ],
+	"supported_items": "#minecraft:enchantable/elytra",
+	"exclusive_set": "#origins_playtest_tweaks:exclusive_set/elytra_primaries",
+	"max_level": 2,
+
+	"effects": {
+		"minecraft:damage_immunity": [
+			{
+				"effect": {},
+				"requirements": {
+					"condition": "minecraft:damage_source_properties",
+					"predicate": {
+						"tags": [
+							{
+								"expected": true,
+								"id": "minecraft:burn_from_stepping"
+							},
+							{
+								"expected": false,
+								"id": "minecraft:bypasses_invulnerability"
+							}
+						]
+					}
+				}
+			}
+		],
+		"minecraft:attributes": [
+			{
+				"amount": {
+					"type": "minecraft:linear",
+					"base": 1,
+					"per_level_above_first": 1
+				},
+				"attribute": "eleron:max_smoke_stack_charges",
+				"id": "eleron:enchantment.smokestack",
+				"operation": "add_value"
+			}
+		]
+	},
+	"weight": 3,
+	"anvil_cost": 3,
+	"max_cost": {
+		"base": 30,
+		"per_level_above_first": 10
+	},
+	"min_cost": {
+		"base": 20,
+		"per_level_above_first": 10
+	}
+}

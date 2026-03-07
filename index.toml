@@ -2324,6 +2324,34 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your
 hash = "017e21c701fca964fc55a3d2244f30a703a8e549e018cc174f93ff848c5532d4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/enchantment/cloudskipper.json"
+hash = "c78c9cf6b6bd09f67e456e76b8d9b6b46adfddc5ccff43033406a1c2fedebc4a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/enchantment/smokestack.json"
+hash = "4d3f7a91cd041a592682dfb04341341674ab153e7e30a34e0988ba37d59881ad"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/tags/enchantment/exclusive_set/cloudskipper.json"
+hash = "827092776ff51ac4f58926dc077b55460b30a31d14e3ab7d6ebe09e4bb88a158"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/tags/enchantment/exclusive_set/smokestack.json"
+hash = "827092776ff51ac4f58926dc077b55460b30a31d14e3ab7d6ebe09e4bb88a158"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
+hash = "9b2435bb819556bca03a86cc1867d917eec09c9e158137cc1f564e42f7a1b427"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
+hash = "80a8c5c805e3c9954b0221d111d6a26546fbcf73296fbfa3ce8e065bb6a68f2d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
+hash = "72b3c89058c824ca34f356737bc132aed734b8770669f89edf21201f7a8795da"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
 hash = "52d38a4a4e72fd8c908e23781351ea86b83a00923bb5076db004e22f6b520564"
 
@@ -3976,6 +4004,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/enchantment/exclusive_set/elytra_primaries.json"
+hash = "faa410ad9c09a1cae18a46a16df2ef0720ffa66f8b6c51b00c172493f805340a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
 hash = "873877ae29e7e400173c33e2272986034bdb8134cf30e59f6590d924929d1108"
 
@@ -4640,5 +4672,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.1.txt"
+file = "v0.3.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

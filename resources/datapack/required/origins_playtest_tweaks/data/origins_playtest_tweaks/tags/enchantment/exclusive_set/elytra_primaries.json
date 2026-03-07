@@ -1,0 +1,13 @@
+{
+	"replace": true,
+	"values": [
+	    {
+			"id": "eleron:smokestack",
+			"required": false
+		},
+		{
+			"id": "enderscape:rebound",
+			"required": false
+		}
+	]
+}
