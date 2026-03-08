@@ -4,6 +4,9 @@
     "minecraft:food": {
         "saturation": 14.4,
 		"nutrition": 8,
+		"using_converts_to": {
+          "id": "minecraft:bowl"
+		},
 		"effects": [
           {
             "effect": {

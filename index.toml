@@ -125,6 +125,14 @@ file = "config/enchantmentdisabler/config.toml"
 hash = "86856b5b74caa8c3215f10d869afd0190831ae30d662d27f421f4dc212c9f66b"
 
 [[files]]
+file = "config/enchiridion.jsonc"
+hash = "7bcc53e905afa27ed8c57db46c1ee6fd29da2cb5e1a1f78f6fb6cec0842aaed0"
+
+[[files]]
+file = "config/enderscape.json5"
+hash = "8b40a49c88d7db49b40dd15811e60f4930bb1c3d1c595a1bf89ebded0f90472c"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "25176e3adf4212a8957258b41481ee567c53d842d1b2064a3cbbadd73d9dba0b"
 
@@ -181,12 +189,12 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
-file = "config/farmersdelight-client.toml"
-hash = "b15e935386c6b1c8a9ec606bcb516df64f07a439e54254b916d8db31fb7ced77"
+file = "config/farmersdelight-client.json"
+hash = "b68ada748cdab82dcf67d923c4608a3181dad70d40758588995261590a2235e9"
 
 [[files]]
-file = "config/farmersdelight-common.toml"
-hash = "fabb25d19d77cc9c88ccaae62326ebdc1dfa7b33bad3d152f933e1ac66167ff8"
+file = "config/farmersdelight-common.json"
+hash = "46acd22f4da8fab60e96305b18b3230711213687189e1ccd38db12c240fa745d"
 
 [[files]]
 file = "config/fastpaintings-common.json"
@@ -3349,7 +3357,7 @@ hash = "2ab0f021d0108c582e286fe12ed6602861a06c3c62a569a8fba71ccc2546dc56"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/lithid_soup.json"
-hash = "1e0aaeb36cb0f38837a893be8040fd9b3004b9aaadd54cf05a9ed7e2b0bfb6ba"
+hash = "05e8ba5b3c73015c1159c480e91ddb7fc507f2a0a9aa6fa1299d3f5e253e3571"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/nether_salad.json"
@@ -4892,5 +4900,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.12.txt"
+file = "v0.3.13.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
