@@ -2,8 +2,8 @@
   "targets": "braziliandelight:fried_fish_with_acai",
   "components": {
     "minecraft:food": {
-      "saturation": 21,
-      "nutrition": 12,
+      "saturation": 12,
+      "nutrition": 21,
       "effects": [
         {
           "effect": {

@@ -2,8 +2,8 @@
   "targets": "braziliandelight:peanut_seeds",
   "components": {
     "minecraft:food": {
-      "saturation": 2,
-      "nutrition": 2.4,
+      "saturation": 2.4,
+      "nutrition": 2,
       "eat_seconds": 0.8
 	}
   }

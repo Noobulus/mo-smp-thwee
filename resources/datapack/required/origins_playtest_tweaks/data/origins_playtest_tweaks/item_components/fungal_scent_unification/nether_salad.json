@@ -2,8 +2,8 @@
   "targets": "farmersdelight:nether_salad",
   "components": {
     "minecraft:food": {
-        "saturation": 5,
-		"nutrition": 7,
+        "saturation": 7,
+		"nutrition": 5,
 		"effects": [
           {
             "effect": {

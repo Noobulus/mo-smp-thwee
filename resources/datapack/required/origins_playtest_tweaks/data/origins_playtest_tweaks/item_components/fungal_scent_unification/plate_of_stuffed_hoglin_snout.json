@@ -1,22 +1,22 @@
 {
-  "targets": "mynethersdelight:strider_with_grilled_fungus",
+  "targets": "mynethersdelight:plate_of_stuffed_hoglin_snout",
   "components": {
     "minecraft:food": {
-        "saturation": 10,
-		"nutrition": 19,
+        "saturation": 26.6,
+		"nutrition": 14,
 		"effects": [
           {
             "effect": {
               "show_particles": false,
               "show_icon": false,
-              "duration": 2400,
+              "duration": 6000,
               "id": "farmersdelight:nourishment"
             },
             "effect": {
               "show_icon": true,
-              "duration": 1200,
+              "duration": 2400,
               "id": "nether_additions:fungal_aroma"
-            },
+            }
           }
 		]
 	}

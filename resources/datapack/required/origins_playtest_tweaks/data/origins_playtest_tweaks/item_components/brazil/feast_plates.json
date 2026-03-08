@@ -5,8 +5,8 @@
   ],
   "components": {
     "minecraft:food": {
-      "saturation": 24.5,
-      "nutrition": 14,
+      "saturation": 14,
+      "nutrition": 24.5,
       "effects": [
         {
           "effect": {

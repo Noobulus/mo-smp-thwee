@@ -2,8 +2,8 @@
   "targets": "braziliandelight:chicken_pot_pie_slice",
   "components": {
     "minecraft:food": {
-      "saturation": 4,
-      "nutrition": 7.2,
+      "saturation": 7.2,
+      "nutrition": 4,
       "eat_seconds": 0.8
 	}
   }

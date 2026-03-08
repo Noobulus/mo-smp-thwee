@@ -2,8 +2,8 @@
   "targets": "braziliandelight:salpicao",
   "components": {
     "minecraft:food": {
-      "saturation": 8,
-      "nutrition": 14.4
+      "saturation": 14.4,
+      "nutrition": 8
 	}
   }
 }

@@ -2,8 +2,8 @@
   "targets": "braziliandelight:sweet_rice",
   "components": {
     "minecraft:food": {
-      "saturation": 11.2,
-      "nutrition": 8,
+      "saturation": 8,
+      "nutrition": 11.2,
       "effects": [
         {
           "effect": {

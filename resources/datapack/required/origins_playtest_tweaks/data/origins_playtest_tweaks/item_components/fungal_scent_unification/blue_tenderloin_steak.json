@@ -1,22 +1,27 @@
 {
-  "targets": "mynethersdelight:plate_of_stuffed_hoglin_snout",
+  "targets": "mynethersdelight:blue_tenderloin_steak",
   "components": {
     "minecraft:food": {
-        "saturation": 14,
-		"nutrition": 26.6,
+        "saturation": 16.2,
+		"nutrition": 9,
 		"effects": [
           {
             "effect": {
               "show_particles": false,
               "show_icon": false,
-              "duration": 6000,
+              "duration": 2400,
               "id": "farmersdelight:nourishment"
             },
             "effect": {
               "show_icon": true,
-              "duration": 2400,
+              "duration": 1800,
               "id": "nether_additions:fungal_aroma"
             },
+            "effect": {
+              "show_icon": true,
+              "duration": 200,
+              "id": "minecraft:nausea"
+            }
           }
 		]
 	}

@@ -3212,10 +3212,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/blue_tenderloin_steak.json"
-hash = "60bf8b0893735af04091ef62310f659ff9d3b37b83b05f30bc42b447afc44a8e"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/beer.json"
 hash = "9cda119cb38377cd50e7d793b00e40380c2408bd7141a8502d6e4689d0a2487a"
 
@@ -3281,23 +3277,23 @@ hash = "0b13a971dfa3ed85e5ff3cf4a4c7908dd535a39fae4c893d56fbcb9f7720c934"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/chicken_pot_pie.json"
-hash = "3094cd58096c5730ce5aeeb5f183080c53c2693a5435add808bec696021d795e"
+hash = "e69b6005bf4f678c3cba248ba0c487dadd58cf2e10eaad49947fce1959651491"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/feast_plates.json"
-hash = "5e908bf11759dd7799140963995928d76557c74541a41557176e92b5c78dba89"
+hash = "998274d298f64ca74a4cf24b97e5f42bd87fee238d926540274bd83ee6fff1c9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/fried_fish_with_acai.json"
-hash = "c4da0312fedd17716527e3c4dbd43a68c4129a1220a45f05ab9185bbdf0661e5"
+hash = "14b298ad0b50ad5bbe6d73f7a447d031eb37d085fb74017d0f8dfd03c7b944b5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/salpicao.json"
-hash = "735eee163f7f3d1c6049c27c587aaee525817d0d46219689c52b503c93ec45e6"
+hash = "550973553862e7ec585aceb16b650b4ccac4699959d2f729276d5482eb891d66"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/sweet_rice.json"
-hash = "c0471fdb3af9990d42e85b3e1b6e894a8bb938328bc84491a8dbe857888aa10e"
+hash = "80f13be7b554a61cabc762cd9243b5b2a139223a0a7a8eeb394587d99b8c2074"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/unstackable_meals.json"
@@ -3312,12 +3308,36 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "04662016e7b32f6d40a854cb89aa7fa13718af5439a0519aff8254ff36e65186"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fiery_fondue.json"
-hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fireproof_booty_jams.json"
 hash = "82305969d5b3b1af645e27e140870f0ab995390c5cfc07c6ed2c850a2950cca2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/blue_tenderloin_steak.json"
+hash = "21d674661b880bd35b97219ef13c92c399a1e8dc03dd048fafd6192211235966"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/lithid_soup.json"
+hash = "31a18b5825168b6f40be9d53c9b75e38fdcbc73cfaa602b534d9b257f881854d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/nether_salad.json"
+hash = "93a299cf467b634a835aa69394b9e15e6e4396ed45eadc800afcf1cce20be628"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/plate_of_stuffed_hoglin.json"
+hash = "35fe01da5b251aabbcf4dafa2699aa5a71fc1375ac48dc50eec80869a64aa0e2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/plate_of_stuffed_hoglin_ham.json"
+hash = "604e392292e85025b6e7a53cf876091bee7e484b1a3823012c73ae55761f3f49"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/plate_of_stuffed_hoglin_snout.json"
+hash = "061f99a77c9f6dc3d3c929c2ea713c1800ce9ab1bbe1febfaa6eae7d4cd544e5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fungal_scent_unification/strider_with_grilled_fungus.json"
+hash = "86dea77d86afb7f3b89df8b8841add7323c40f783db6d265b17356a07067d561"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/furniture_hammer.json"
@@ -3332,24 +3352,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4453d4ed11faadff0232454cdab66cfa85bea9e7e68d17f33d498c7be9c04b7b"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/horror_lasagna.json"
-hash = "053cc44c1ea74a88bd864ad946ca91a398462b1a5eaa483fc66ab2f0595c523d"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/jerky.json"
 hash = "a4af8ff2ea983aafe88bc51f68e0c67855443a1ef01aceb57d63e1eb0acfb9b0"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/kimchi.json"
-hash = "de0269d3b7340755b35fce3ef638ae6cf5bd6889f28d97a7499e148424b5c7bb"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/kippers.json"
 hash = "04fe7f16cf0f7342863a9a12e94b60fc51dfd8e93f6fd3f32779d162226422a4"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/lithid_soup.json"
-hash = "46bd3f6a86b326345350b772e260dd8cad27d37bf7f474d840a67f16da52ef8b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/lumisene.json"
@@ -3372,16 +3380,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "110557e03d8e11d25d7c6577d2e8229bbe8a3b94962b7738d256959e702cdfe4"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_salad.json"
-hash = "29ff3eb537b40e0e9ee80979fdae517412f42330f39455f7bc8bd3321888b104"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/onion_rings.json"
-hash = "cc876bb95d65451f96a4faaeaae9a55f52065f077c972a405f866d4f884f07d6"
+hash = "d92c08936db0aed847ff21411ada884002457eb4ccf534dc0fb0ceec2021d06f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
@@ -3389,30 +3393,30 @@ hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/peanuts.json"
-hash = "1187d6ab5ede4e7781ab40d8f535b245c600805cc2f284584234af21cb83c646"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin.json"
-hash = "9742de837249f58862668c7a0047ab7061c574ca358b9b39e9879c08b8213744"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin_ham.json"
-hash = "e47d12be20e5d72520685c70bc730c16d2efdd5dbea9e8684cf9cf93b01cdc3f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin_snout.json"
-hash = "2fa1a046acfb51d2bc4107c55b11ef0d34f222af3d474c33c92980ea62b9ceab"
+hash = "423f63eef37e518244fc3c5f7f1473d5add61b6771d801c0ac4204f36f0a288a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "6741d906a61c6dc993d368e441ed5160d6368ab3df10767de65ae42d0b4fb8fe"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/scarlet_cheese.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/pungent_unification/fiery_fondue.json"
+hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/pungent_unification/horror_lasagna.json"
+hash = "053cc44c1ea74a88bd864ad946ca91a398462b1a5eaa483fc66ab2f0595c523d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/pungent_unification/kimchi.json"
+hash = "de0269d3b7340755b35fce3ef638ae6cf5bd6889f28d97a7499e148424b5c7bb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/pungent_unification/scarlet_cheese.json"
 hash = "43e9f6fb9eb5f425652a0f400378923a3e9e167de14443f4970aa9c19b5d19fe"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/scarlet_pierogi.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/pungent_unification/scarlet_pierogi.json"
 hash = "6e9efe3252cb9644e614c7703eb2a71d911b8dc2cc8c4e08e763f9bd5d03b016"
 
 [[files]]
@@ -3426,10 +3430,6 @@ hash = "29e5c4d644e0aa4ddce7fdc8fdb8fe1a75515b62931316cb340ef3f938329524"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/stews.json"
 hash = "d0c16489f863c2d4812f28f1b1163c27d5e37d6e2b2bc3da74ea114e8c60a909"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/strider_with_grilled_fungus.json"
-hash = "dcf4abeb7c0e8ab596b0c5c6ce3bc3844423efcc787bb0d6ccf3d65b8cba09ba"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/supplementaries_tools.json"
@@ -4860,5 +4860,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.9.txt"
+file = "v0.3.10.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

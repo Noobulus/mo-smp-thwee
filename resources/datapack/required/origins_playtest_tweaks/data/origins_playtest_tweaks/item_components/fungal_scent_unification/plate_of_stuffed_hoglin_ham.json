@@ -1,22 +1,22 @@
 {
-  "targets": "mynethersdelight:plate_of_stuffed_hoglin",
+  "targets": "mynethersdelight:plate_of_stuffed_hoglin_ham",
   "components": {
     "minecraft:food": {
-        "saturation": 8,
-		"nutrition": 12.8,
+        "saturation": 24.5,
+		"nutrition": 12,
 		"effects": [
           {
             "effect": {
               "show_particles": false,
               "show_icon": false,
-              "duration": 2400,
+              "duration": 3600,
               "id": "farmersdelight:nourishment"
             },
             "effect": {
               "show_icon": true,
-              "duration": 1200,
+              "duration": 3000,
               "id": "nether_additions:fungal_aroma"
-            },
+            }
           }
 		]
 	}

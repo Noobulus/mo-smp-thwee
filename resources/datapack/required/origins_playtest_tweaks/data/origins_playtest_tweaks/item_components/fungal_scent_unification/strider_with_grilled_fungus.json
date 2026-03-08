@@ -1,9 +1,9 @@
 {
-  "targets": "mynethersdelight:blue_tenderloin_steak",
+  "targets": "mynethersdelight:strider_with_grilled_fungus",
   "components": {
     "minecraft:food": {
-        "saturation": 9,
-		"nutrition": 16.2,
+        "saturation": 19,
+		"nutrition": 10,
 		"effects": [
           {
             "effect": {
@@ -14,13 +14,8 @@
             },
             "effect": {
               "show_icon": true,
-              "duration": 1800,
+              "duration": 1200,
               "id": "nether_additions:fungal_aroma"
-            },
-            "effect": {
-              "show_icon": true,
-              "duration": 200,
-              "id": "minecraft:nausea"
             }
           }
 		]
