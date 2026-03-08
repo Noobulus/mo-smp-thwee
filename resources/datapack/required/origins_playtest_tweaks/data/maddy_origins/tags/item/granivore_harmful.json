@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "braziliandelight:carrot_cake_with_chocolate_slice",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:chocolate_love_apple",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:brigadiero_ball",
+            "required": false
+        }
+    ]
+}

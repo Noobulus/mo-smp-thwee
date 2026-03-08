@@ -2333,11 +2333,11 @@ hash = "87e74a2beb1798d1de09cfb12aea43aca33e87668652c9889d235a0e99f54428"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/fruit.json"
-hash = "79092f41d9405776d618549ac155e0492939ff44d10426854f0d38c1b9c75d9f"
+hash = "8d732b6a946e24290ace6057b01bfc8a4ecad63b0515e75542e4cdacab17a507"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/soup.json"
-hash = "058e15682984caf36a5f8a182634b621dcc1eac5a4c62e31be6508074b9d3d34"
+hash = "0f4a0d384d3f431c4efdf628b7022b1c417d13e30f1c50e0d07d0bda9bdda394"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/vegetable.json"
@@ -2684,16 +2684,40 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/t
 hash = "96139a3929900f0279d30d9a18ee734124b17d56288daea2887a94e3bb11287d"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/aquatic_taste_preferred.json"
+hash = "309bdfaf53141cc02a9dfff34ccdd958487d0ea2cbc95bf3091d0e3587150db5"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/berries.json"
 hash = "5c545006a5f51a56ef15f9dd7ae5eaa371af0bf64d70610e630956d5be957b10"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/fruit_products.json"
-hash = "75902e3d1edc69664503ff2e894643fcea6a01a2922d33e0a11c9bdd9a4d0b5c"
+hash = "abe0e6c2da23bc644c22a50072ac94d78b92c3b686ab2eb6150bd4474c3ece34"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/grain_products.json"
-hash = "2c1df3d21cc270374b24dea0dcb3056290006a1521e4c89e8f115ba1ed727761"
+hash = "056c367e5ee8944b3d2207a9a1da8bd8bf87dbb5844b113942948899f4a272bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/granivore_harmful.json"
+hash = "dac1fda84674bf1161d669d659984252cb54fa4a92f3b97ffafc5ef0827de062"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/hydrophilic_drinks.json"
+hash = "80315076c6d0c5a8fb1134946670721c94f9c763159dc25954538e3656a9786f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/non_food_drinks.json"
+hash = "da56564f584055e5f3b7eec1cdaf2af3f7d27f70daf1ab7d26ee772e28dc8e01"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/savory_non_soups.json"
+hash = "4f9ac2ea0d2c307ab452b9c346b5802c2d4c9cd2f44fd48e2ee9836dd2e538b2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/taste_of_home_preferred.json"
+hash = "bd13c62199db839cd310d37757f035ca098e38bbe9acb8222ab35068f4a0bc8e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddysmanyminiaturemodifications/tags/item/horse_bulk_food.json"
@@ -3465,7 +3489,7 @@ hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/salpicao.json"
-hash = "4aa2378abca4fd581498778d14e3d197b2d54c0612ca12c9b6f08893cdc10da9"
+hash = "784223f304cf033e3c09cfd9a3487508fecc63d9b9c527c47a25e8133d37a699"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -4860,5 +4884,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.10.txt"
+file = "v0.3.11.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

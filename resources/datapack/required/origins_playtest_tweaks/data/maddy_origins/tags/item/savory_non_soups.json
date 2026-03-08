@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "braziliandelight:raw_coxinha",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:coxinha",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:raw_cassava_fritters",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:cassava_fritters",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:fried_cassava_with_butter",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:plate_of_stroganoff",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:plate_of_fish_moqueca",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:salpicao",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:cheese_bread",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:cheese_bread_dough",
+      "required": false
+    }
+  ]
+}

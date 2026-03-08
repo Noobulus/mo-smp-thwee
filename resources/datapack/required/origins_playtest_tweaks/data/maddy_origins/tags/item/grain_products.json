@@ -3,6 +3,10 @@
         {
             "id": "supplementaries:pancake",
             "required": false
+        },
+        {
+            "id": "braziliandelight:sweet_rice",
+            "required": false
         }
     ]
 }

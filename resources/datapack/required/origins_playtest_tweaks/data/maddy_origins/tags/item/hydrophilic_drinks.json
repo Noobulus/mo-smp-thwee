@@ -1,0 +1,29 @@
+{
+  "values": [
+    "minecraft:honey_bottle",
+    {
+      "id": "braziliandelight:lemonade",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:condensed_milk",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:guarana_soda",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:garapa",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:guarana_juice",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:coconut_drink",
+      "required": false
+    }
+  ]
+}

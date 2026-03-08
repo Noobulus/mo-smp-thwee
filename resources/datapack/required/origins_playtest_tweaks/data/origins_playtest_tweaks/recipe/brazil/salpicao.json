@@ -13,6 +13,9 @@
       "tag": "c:foods/milk"
     },
     {
+      "item": "minecraft:baked_potato"
+    },
+    {
       "item": "minecraft:bowl"
     }
   ],

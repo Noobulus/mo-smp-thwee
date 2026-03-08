@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "braziliandelight:caipirinha",
+      "required": false
+    },
+    {
+      "id": "braziliandelight:coconut_milk",
+      "required": false
+    }
+  ]
+}

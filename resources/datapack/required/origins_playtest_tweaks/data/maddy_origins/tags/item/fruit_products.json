@@ -3,6 +3,42 @@
         {
             "id": "enderscape:chorus_cake_roll",
             "required": false
+        },
+        {
+            "id": "braziliandelight:coconut_drink",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:lemonade",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:guarana_soda",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:garapa",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:guarana_juice",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:sweet_love_apple",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:chocolate_love_apple",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:coconut_sweet",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:coconut_slice",
+            "required": false
         }
     ]
 }
