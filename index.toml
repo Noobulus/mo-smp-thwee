@@ -346,7 +346,7 @@ hash = "0fec6b33adb5524eef5e69b374e2138f25b45dc2c44439f7dd8e97e8bc0c3721"
 
 [[files]]
 file = "config/reliable_recipes/minecraft.json"
-hash = "082c743e9b5b243af5bdbd328c6232fc88877b2f4e0cc607546ddea2e4898257"
+hash = "11b975284fd33096e5666592f39f1d7d631666b1773950d23eda4279a7e03820"
 
 [[files]]
 file = "config/reliable_recipes/mynethersdelight.json"
@@ -354,7 +354,11 @@ hash = "9666fb884de3a155864944e24acddccea7dcb8687df034d77538ecba827d96af"
 
 [[files]]
 file = "config/reliable_recipes/nears.json"
-hash = "cdaeb8492417ba635a38ed5cebeebe0fa7e6ccaf4c7deb3007b4fe877fcbfefc"
+hash = "e11ab79f28f5741c81685b06da780202a0466342aace202f14635ba5fd44195c"
+
+[[files]]
+file = "config/reliable_recipes/nether_additions.json"
+hash = "398a7ef1e4a37eec2e4ae9b1df627eda480f3bf3728e4f1a41d512c2f1c8f43b"
 
 [[files]]
 file = "config/reliable_recipes/onion_onion.json"
@@ -405,10 +409,6 @@ file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
-file = "config/reliable_remover/enchancement.json"
-hash = "afaeccb8ff48f51c37cbae8e9078468713caf5fe4c635a6e01f5c77ae68d2be8"
-
-[[files]]
 file = "config/reliable_remover/everycomp.json"
 hash = "fde5ee5e67f5b5480d616a309a657201e1c68f4158725cefa9b638a181375d98"
 
@@ -426,7 +426,7 @@ hash = "74c39bd9a9c8ef81c223671fad436a877630d0dd080d80ea3602e60676eb55d5"
 
 [[files]]
 file = "config/reliable_remover/misc.json"
-hash = "ab1a5d406290103116017a37635204a9c54087184d08199fb604886695725e33"
+hash = "74a13dd93673ea9b150282f3f3654abd3cb71331b169fe35476a56dff5be1ead"
 
 [[files]]
 file = "config/reliable_remover/mob_repellent.json"
@@ -2420,6 +2420,34 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/en
 hash = "e1c96074b18e7afb8281f4b94cbf29067d1236ea62d51a5b8399827b7bca29b7"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/Y21/brookite_ore.json"
+hash = "b0cf73fd142c6bfd5f76cde84ce80a1144738e9513e05c04c80b736f7de38606"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/Y21/deepslate_brookite_ore.json"
+hash = "8bc0040857a1d03a5066fcc6ebf0a64b60ff8225fcaaf007095afd12be214823"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/enderscape/mirestone_nebulite_ore.json"
+hash = "7210fbb5f81668b66d373245577e800cc6214d6b206eebe40f1c0bed148834e7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/enderscape/mirestone_shadoline_ore.json"
+hash = "7210fbb5f81668b66d373245577e800cc6214d6b206eebe40f1c0bed148834e7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/enderscape/nebulite_ore.json"
+hash = "ae2d65ee14cca2a62d390bff711d48be0a9856274a6e319ae2f29ae79120a4d5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/enderscape/shadoline_ore.json"
+hash = "ae2d65ee14cca2a62d390bff711d48be0a9856274a6e319ae2f29ae79120a4d5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/enchantment/murky_waters_curse.json"
+hash = "17f45be9af310b5e5b2bbd6065fe975799161b40582835e1bfa91d7959a04c00"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
 hash = "93c9779bbd94ff9e7dabf68782eaa23605d36829a1448effbde618f5f1b02994"
 
@@ -2430,6 +2458,22 @@ hash = "33f3729141d888767e00bf01d3d501746a952daea3f7da865b8bbf7fe0e5d496"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
 hash = "7cc0f85b5b1d835d1fa9f82e5bbca906588cee0cba3afaadc5a9061ace8a037d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/base.json"
+hash = "9ed912020d0738562d883c7dacb4156fdbcc74f3cd430bbc806a3bff80841741"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/inner.json"
+hash = "c85de4853eafd31080aad773403ba1b1656e0e36412cb5ae3d45103d2ebdd37f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/junk.json"
+hash = "1ef2e7d9e5aee2ddbd9bac976044bdd4e613eb58fa20245d8879298b4fdfef9c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/treasure.json"
+hash = "dfc798abe60d5689fb5e78f5eb8acce9def496311d43a71ae6a19d9f3a5ab716"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
@@ -3000,6 +3044,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/enchantable/fishing.json"
+hash = "ac066b03a6c0edace861bfab6f22fdc48bd2fc764608bbd8363992122226d3c0"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/frog_food.json"
 hash = "c04e5cb8125d78e5acc0f8d29a53a69a81a23b388fc1ea599752e5767641cc8c"
 
@@ -3164,6 +3212,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/blue_tenderloin_steak.json"
+hash = "60bf8b0893735af04091ef62310f659ff9d3b37b83b05f30bc42b447afc44a8e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/beer.json"
 hash = "9cda119cb38377cd50e7d793b00e40380c2408bd7141a8502d6e4689d0a2487a"
 
@@ -3296,6 +3348,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "04fe7f16cf0f7342863a9a12e94b60fc51dfd8e93f6fd3f32779d162226422a4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/lithid_soup.json"
+hash = "46bd3f6a86b326345350b772e260dd8cad27d37bf7f474d840a67f16da52ef8b"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/lumisene.json"
 hash = "103e3909999ec975d20c0378c8fa56d91ca3ec0eb9bcecf210feb92ffe56cd4f"
 
@@ -3316,6 +3372,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "110557e03d8e11d25d7c6577d2e8229bbe8a3b94962b7738d256959e702cdfe4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_salad.json"
+hash = "29ff3eb537b40e0e9ee80979fdae517412f42330f39455f7bc8bd3321888b104"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
@@ -3330,6 +3390,18 @@ hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/peanuts.json"
 hash = "1187d6ab5ede4e7781ab40d8f535b245c600805cc2f284584234af21cb83c646"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin.json"
+hash = "9742de837249f58862668c7a0047ab7061c574ca358b9b39e9879c08b8213744"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin_ham.json"
+hash = "e47d12be20e5d72520685c70bc730c16d2efdd5dbea9e8684cf9cf93b01cdc3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plate_of_stuffed_hoglin_snout.json"
+hash = "2fa1a046acfb51d2bc4107c55b11ef0d34f222af3d474c33c92980ea62b9ceab"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
@@ -3356,6 +3428,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "d0c16489f863c2d4812f28f1b1163c27d5e37d6e2b2bc3da74ea114e8c60a909"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/strider_with_grilled_fungus.json"
+hash = "dcf4abeb7c0e8ab596b0c5c6ce3bc3844423efcc787bb0d6ccf3d65b8cba09ba"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/supplementaries_tools.json"
 hash = "6964bac4e1baeeac1fbc07df717d49f107026c77baa8417d5f7e75edb599ba9b"
 
@@ -3366,6 +3442,10 @@ hash = "6a4fc720b422e193b1fb9fe504e52d2f31a9b444de3807e3df18171e9e20b1ab"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/vanilla_tools.json"
 hash = "bfd882d2fd5b189289a2c35919348831b244d98af057766e3b5f0c26b11b5e8b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/loot_table/lava_fishing_murky_waters.json"
+hash = "bea47438dad2bf7d4382e84df83c1202ad960906f72e884ef8baceaf279a4721"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/akita_plushie.json"
@@ -3385,7 +3465,7 @@ hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/salpicao.json"
-hash = "39d960fe127270a3044f12aef7793242fbeb4925ec2a6ae4279dfeef3c40096b"
+hash = "4aa2378abca4fd581498778d14e3d197b2d54c0612ca12c9b6f08893cdc10da9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -3405,7 +3485,7 @@ hash = "c5fea9f8d994abf557817d26c1f600b4187776d5911118ca32dd27df353ce422"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cocoa_fudge.json"
-hash = "8cb541b69099b30499f6c1b34636f968e40c051aa37f51663413fd2c2cf9635b"
+hash = "1cd4378c07b5a944465b218f3e699a4147fa10c7a17590fcb79ef6f934f63177"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/condensed_milk_alt.json"
@@ -3414,6 +3494,14 @@ hash = "9ffe8c6166e018916b738f49f54edaae041439cffc9ac948e3fa4dcae2cfd931"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/ghasta_from_dried_ghast.json"
 hash = "f498f661b6232697ea08200e8a4484f03562668aad637d8c02c8208005cac82b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/lithid_soup.json"
+hash = "6e8c731b14f39f801dbb41d0c59af409ea4c92465978df0a116142fd9acf6026"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/nether_stew.json"
+hash = "d94f86de6f6a70f54df34164fc504676ad87666bce3cd5d014f31337505c6648"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/peanut_brittle.json"
@@ -3870,10 +3958,6 @@ hash = "10c76aa54562db6877f9a1411f5fb744fa235290f50f033c9f7ab326e6505c92"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/birdbrain_teto_from_teto.json"
 hash = "c0b7c6107856792f29f24076b81e5254b4e1254056ee8234fe299259dfbe2c48"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_bread.json"
-hash = "7e8922e9364047ebcd2030862bfd54d207ea30a6eaeb0c9e3515b5fcc8360df8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_brown_bear.json"
@@ -4632,6 +4716,10 @@ file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/model
 hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
 
 [[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/index/stacks/effect_crobs.json"
+hash = "3ae43a24a7e832f7ffce54d537a9936b997a3a0e679db5b160d952a59989e854"
+
+[[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/index/stacks/no_teal.json"
 hash = "48efb47f5e976967567c34da590f6d4e0993ed38f0ecca75b269e6265ea3a146"
 
@@ -4772,5 +4860,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.8.txt"
+file = "v0.3.9.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

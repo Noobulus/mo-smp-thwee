@@ -1,0 +1,24 @@
+{
+  "targets": "mynethersdelight:plate_of_stuffed_hoglin_snout",
+  "components": {
+    "minecraft:food": {
+        "saturation": 14,
+		"nutrition": 26.6,
+		"effects": [
+          {
+            "effect": {
+              "show_particles": false,
+              "show_icon": false,
+              "duration": 6000,
+              "id": "farmersdelight:nourishment"
+            },
+            "effect": {
+              "show_icon": true,
+              "duration": 2400,
+              "id": "nether_additions:fungal_aroma"
+            },
+          }
+		]
+	}
+  }
+}

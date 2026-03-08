@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "nether_additions:pyrolithid"
+    },
+    {
+      "item": "nears:faar"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    }
+  ],
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "nether_additions:lithid_soup"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "added": [
+  ],
+  "removed": [
+    "mob_effect:braziliandelight:repugnant",
+    "mob_effect:supplementaries:overencumbered",
+    "mob_effect:brewinandchewin:intoxication"
+  ],
+  "filters": [
+  ]
+}

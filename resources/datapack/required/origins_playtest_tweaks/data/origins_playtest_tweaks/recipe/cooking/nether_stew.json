@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "nears:soul_berries"
+    },
+    {
+      "item": "nears:faar"
+    },
+    {
+      "item": "nears:near"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "nears:nether_stew"
+  }
+}

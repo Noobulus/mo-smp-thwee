@@ -1,0 +1,24 @@
+{
+  "targets": "nether_additions:lithid_soup",
+  "components": {
+    "minecraft:food": {
+        "saturation": 8,
+		"nutrition": 14.4,
+		"effects": [
+          {
+            "effect": {
+              "show_particles": false,
+              "show_icon": false,
+              "duration": 6000,
+              "id": "farmersdelight:comfort"
+            },
+            "effect": {
+              "show_icon": true,
+              "duration": 3000,
+              "id": "nether_additions:fungal_aroma"
+            }
+          }
+		]
+	}
+  }
+}
