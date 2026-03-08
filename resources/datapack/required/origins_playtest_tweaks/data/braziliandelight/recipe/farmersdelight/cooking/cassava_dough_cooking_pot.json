@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "braziliandelight:cassava_root"
+    },
+    {
+      "item": "braziliandelight:cassava_root"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "braziliandelight:cassava_flour"
+  }
+}

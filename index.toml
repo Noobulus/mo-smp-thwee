@@ -394,7 +394,7 @@ hash = "3b609e38cb8625cb921db9e946315dc97dc249015785d0ea2e17ce15d345944e"
 
 [[files]]
 file = "config/reliable_remover/brazil.json"
-hash = "796576f1530ecc8a9c748685427c004c722916b50850d3eb7ced2d16a80f1b7d"
+hash = "ff04c6af8a9aa25b67e0c2d0e0bf8578a72e4fa6e0187cdc61cf49e811cd32df"
 
 [[files]]
 file = "config/reliable_remover/build_tools.json"
@@ -455,6 +455,10 @@ hash = "57aeb857cb073877fa4da2ebb95532e02402e30755b0bc4085ef5444d759010a"
 [[files]]
 file = "config/reliable_remover/supplementaries.json"
 hash = "7f4fb4afd55d847316347d6620c142a6c2660c31c9d0b2acc942a82e1eedfbcb"
+
+[[files]]
+file = "config/reliable_remover/wayfinder.json"
+hash = "a8b9d1a4244a2f4859ee669b64b72cbe5bbb0c678745d5ad4ca40e0b23bc0347"
 
 [[files]]
 file = "config/reliable_replacer/no_urns_in_structures.json"
@@ -2100,6 +2104,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandeligh
 hash = "58a23ed5d60509dc6f43893abf11fcafa043a71f1af32c26e90eacd2c2461617"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/cassava_dough_cooking_pot.json"
+hash = "5355f32dd7eede4209074b7f9cbd169e9f3ae52f38e2074659d9e2089bbd13bb"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/farmersdelight/cooking/condensed_milk.json"
 hash = "c1a354d0cc767dd4844603a8765406d9c096bb3a0b91ea709a780e4e8f066e99"
 
@@ -2400,16 +2408,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/eleron/tags/enc
 hash = "827092776ff51ac4f58926dc077b55460b30a31d14e3ab7d6ebe09e4bb88a158"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/enchantment/extracting.json"
+hash = "41f52a4b01b16fbe2861faa1461e07e38ee3a5d1dca1f73d10c321cafb0628ff"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/enchantment/lumberjack.json"
+hash = "1e0b723a020eaf4261f6b707c2d19c8695c4d9b9ec940c904dbb39d639d7f878"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/enchantment/strafe.json"
 hash = "e1c96074b18e7afb8281f4b94cbf29067d1236ea62d51a5b8399827b7bca29b7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
-hash = "377f4df7803c514b50cae372fc15db708d060f762130437be3fba3904e43141b"
+hash = "5558d5ab7fe0355f8c1f63afd1efd8fc8ea84cebb8e61989af1f8e1af4825740"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
-hash = "e0c25acdd2a9fadbc49831642a28404c60fc1168de46a6baa118bef12df4eecb"
+hash = "130e1faea6b935d60b4f6a10e082ebb8306d22c1aab9199a1ed1904d679b8a36"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
@@ -2653,11 +2669,15 @@ hash = "d20b9c26f662d6f4d3c5aa67659a01b217446cee9523e980d37c189b188da8af"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/fortune.json"
-hash = "6d4938e4e7684da7cf022b809dcd2901f0680d3abfd7570e0eba701ecdc11d6c"
+hash = "bb64c6cb78c03f6dc79a13cf361d346e3e31d926b2c3e44633e0f60f524967b1"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/looting.json"
-hash = "6583c28f62461a11f245a8a6239aa0c59e6c5ce2d06103ebe20c809f18c693af"
+hash = "e9b17bd719c291d11e0c921a1876644e0c3bf5527d9673825b2c9070f50b8cc2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/silk_touch.json"
+hash = "732ffae3e67528fc0f4b2eafc250cd266480fca18654d177f87d6425ba4f1193"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/beetroots.json"
@@ -3220,6 +3240,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "c4da0312fedd17716527e3c4dbd43a68c4129a1220a45f05ab9185bbdf0661e5"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/salpicao.json"
+hash = "735eee163f7f3d1c6049c27c587aaee525817d0d46219689c52b503c93ec45e6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/sweet_rice.json"
 hash = "c0471fdb3af9990d42e85b3e1b6e894a8bb938328bc84491a8dbe857888aa10e"
 
@@ -3358,6 +3382,10 @@ hash = "bbdac1a87e4bc0be53ffb835f280148368073a4f8b7a8f199c819f8dd9e5f61c"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brain_coral_block.json"
 hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/salpicao.json"
+hash = "39d960fe127270a3044f12aef7793242fbeb4925ec2a6ae4279dfeef3c40096b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -4060,6 +4088,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "faa410ad9c09a1cae18a46a16df2ef0720ffa66f8b6c51b00c172493f805340a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/enchantment/exclusive_set/silk_touch_mutex.json"
+hash = "11b82f630da68100812efcf693b8666394b986d92a883fbd3a6dd557952fd23b"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
 hash = "873877ae29e7e400173c33e2272986034bdb8134cf30e59f6590d924929d1108"
 
@@ -4262,6 +4294,10 @@ hash = "2ec62290a45af5408b1d0f72329d148c81f68fa294bfd0f78975c693e96769c4"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/transmog/tags/item/transmog_fuels.json"
 hash = "907c93b1f3a7d99cebb26445801c9e315254c060cf1e24600493fab4683a0d2f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/recipe/concave_lens.json"
+hash = "45459d4dac90da3ae64719a6119b78d7db138ad4470b17d74fb6be36d02dd495"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/recipe/signal_array.json"
@@ -4740,5 +4776,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.6.txt"
+file = "v0.3.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

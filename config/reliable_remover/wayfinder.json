@@ -1,0 +1,11 @@
+[
+  {
+    "action": "remove",
+    "mod": ["wayfinder"],
+    "items": [
+      "wayfinder:signal_beacon",
+      "wayfinder:wayfinders_compass",
+      "wayfinder:twisted_lens"
+    ]
+  }
+]

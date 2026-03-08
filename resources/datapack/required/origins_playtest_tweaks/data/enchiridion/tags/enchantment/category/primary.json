@@ -29,15 +29,15 @@
       "required": false
     },
     {
-      "id": "enchancement:warp",
-      "required": false
-    },
-    {
       "id": "enchancement:scatter",
       "required": false
     },
     {
       "id": "enchancement:assimilation",
+      "required": false
+    },
+    {
+      "id": "enchiridion:sticky",
       "required": false
     }
   ]

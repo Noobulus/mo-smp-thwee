@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "#Q#",
+        "## "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "id": "wayfinder:concave_lens",
+        "count": 1
+    }
+}

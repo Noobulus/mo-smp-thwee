@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_chicken_cuts"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:mixed_salad"
+  }
+}

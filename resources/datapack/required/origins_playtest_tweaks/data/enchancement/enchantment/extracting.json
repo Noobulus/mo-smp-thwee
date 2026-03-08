@@ -1,0 +1,32 @@
+{
+  "replace": true,
+  "anvil_cost": 8,
+  "description": {
+	"translate": "enchantment.enchancement.extracting"
+  },
+  "effects": {
+	"enchancement:mine_ore_veins": {
+	  "type": "minecraft:add",
+	  "value": {
+		"type": "minecraft:linear",
+		"base": 1,
+		"per_level_above_first": 1
+	  }
+	}
+  },
+  "exclusive_set": "#enchancement:exclusive_set/silk_touch",
+  "max_cost": {
+	"base": 20,
+	"per_level_above_first": 5
+  },
+  "max_level": 1,
+  "min_cost": {
+	"base": 15,
+	"per_level_above_first": 5
+  },
+  "slots": [
+	"mainhand"
+  ],
+  "supported_items": "#minecraft:pickaxes",
+  "weight": 5
+}

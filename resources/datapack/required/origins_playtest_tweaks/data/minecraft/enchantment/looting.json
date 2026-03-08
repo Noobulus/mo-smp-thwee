@@ -1,6 +1,6 @@
 {
   "replace": true,
-  "anvil_cost": 4,
+  "anvil_cost": 8,
   "description": {
     "translate": "enchantment.minecraft.looting"
   },

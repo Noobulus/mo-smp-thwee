@@ -23,6 +23,14 @@
     {
       "id": "enchancement:lumberjack",
       "required": false
+    },
+    {
+      "id": "enchancement:warp",
+      "required": false
+    },
+    {
+      "id": "enchiridion:beheading",
+      "required": false
     }
   ]
 }

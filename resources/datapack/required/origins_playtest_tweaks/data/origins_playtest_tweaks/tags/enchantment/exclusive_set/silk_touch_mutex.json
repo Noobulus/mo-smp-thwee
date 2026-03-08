@@ -1,0 +1,10 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:exclusive_set/mining",
+	    {
+			"id": "enchancement:extracting",
+			"required": false
+		}
+	]
+}
