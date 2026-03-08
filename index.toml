@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ac1bc64f460718e8038033feedcfd8679c82b055bf45b9d83a6e5e9172d92d5a"
+hash = "a814a779c7a58eb45e573de8417254bb5595c8103235e9c1df8cc6932e1bc273"
 metafile = true
 
 [[files]]
@@ -1310,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "a25c6e7b8ed1f1479f68827df5e38628ccbdb63c44d85ff43b5c2e6af9ab5ac3"
+hash = "987a51af632f00fd2d700b49bec36e44b0b2302b9301b135b0be110491bd484e"
 metafile = true
 
 [[files]]
@@ -1650,7 +1650,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "ebd83a123983e8906b494dd502810ff5bd205bb30061af97f514f2c57ac61602"
+hash = "c7ec20647ac61ac21004f87721fc962193bbdcacb1d65dcbf2b98e9d0f2866e2"
 metafile = true
 
 [[files]]
@@ -2333,7 +2333,7 @@ hash = "87e74a2beb1798d1de09cfb12aea43aca33e87668652c9889d235a0e99f54428"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/fruit.json"
-hash = "8d732b6a946e24290ace6057b01bfc8a4ecad63b0515e75542e4cdacab17a507"
+hash = "919c4bf34f57ae0519494148dddb98689164d1140088a6fad9b84905081fb63d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/soup.json"
@@ -2350,6 +2350,10 @@ hash = "c2bb05b08afbd896d08bf498ad21904c6eb6d1690c23e7308a69fc20f35e4806"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
 hash = "913f0401620ced405f2551537c4c5092c6454d390cbfde462eb940ce5906761d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/seeds.json"
+hash = "59c935c56b8a7354ec4e1980384901f9ddb8fe390069cc3a36a0604b3526a9b2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/storage_blocks.json"
@@ -2701,7 +2705,11 @@ hash = "056c367e5ee8944b3d2207a9a1da8bd8bf87dbb5844b113942948899f4a272bc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/granivore_harmful.json"
-hash = "dac1fda84674bf1161d669d659984252cb54fa4a92f3b97ffafc5ef0827de062"
+hash = "c6d9e0f4add1e2088fb09634ee0cef0566c6cfe735db80e46eaaafcaaa0b9f33"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/granivore_preferred.json"
+hash = "82f49ea341a42f63aebf3fe768928af5662114bb292127e28682a638ade0aa98"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/hydrophilic_drinks.json"
@@ -4884,5 +4892,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.11.txt"
+file = "v0.3.12.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

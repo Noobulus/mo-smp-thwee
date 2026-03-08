@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "braziliandelight:powdered_peanut_candy",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:peanut_brittle",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:cajuzinho",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "braziliandelight:guarana_seeds",
+            "required": false
+        },
+        {
+            "id": "braziliandelight:peanut_seeds",
+            "required": false
+        }
+    ]
+}
