@@ -118,7 +118,7 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "39406d938eb99cc0da46902d523a0c21c8ed2cb3ddad7f9254066c702e89bd4d"
+hash = "f8f83dc6a236af7cad574c1c05f14bba5f6a33c2e08071769a69e4562189beff"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
@@ -406,7 +406,7 @@ hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
 
 [[files]]
 file = "config/reliable_remover/enchancement.json"
-hash = "463311736e357c509a26b6db5e10dbfb09f36cd2e60dbfdc846983a3361552d8"
+hash = "afaeccb8ff48f51c37cbae8e9078468713caf5fe4c635a6e01f5c77ae68d2be8"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -2421,11 +2421,11 @@ hash = "e1c96074b18e7afb8281f4b94cbf29067d1236ea62d51a5b8399827b7bca29b7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
-hash = "5558d5ab7fe0355f8c1f63afd1efd8fc8ea84cebb8e61989af1f8e1af4825740"
+hash = "93c9779bbd94ff9e7dabf68782eaa23605d36829a1448effbde618f5f1b02994"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
-hash = "130e1faea6b935d60b4f6a10e082ebb8306d22c1aab9199a1ed1904d679b8a36"
+hash = "33f3729141d888767e00bf01d3d501746a952daea3f7da865b8bbf7fe0e5d496"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
@@ -2677,7 +2677,7 @@ hash = "e9b17bd719c291d11e0c921a1876644e0c3bf5527d9673825b2c9070f50b8cc2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/enchantment/silk_touch.json"
-hash = "732ffae3e67528fc0f4b2eafc250cd266480fca18654d177f87d6425ba4f1193"
+hash = "8bcf9eab417157bb5fd9aec7acd3d7adb3ab463c9a97871152d0612a79e41003"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/beetroots.json"
@@ -4088,10 +4088,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "faa410ad9c09a1cae18a46a16df2ef0720ffa66f8b6c51b00c172493f805340a"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/enchantment/exclusive_set/silk_touch_mutex.json"
-hash = "11b82f630da68100812efcf693b8666394b986d92a883fbd3a6dd557952fd23b"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
 hash = "873877ae29e7e400173c33e2272986034bdb8134cf30e59f6590d924929d1108"
 
@@ -4776,5 +4772,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.7.txt"
+file = "v0.3.8.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
