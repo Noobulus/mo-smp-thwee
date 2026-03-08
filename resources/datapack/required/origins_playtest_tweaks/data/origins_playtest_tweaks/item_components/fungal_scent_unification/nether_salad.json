@@ -10,7 +10,9 @@
               "show_icon": true,
               "duration": 1800,
               "id": "nether_additions:fungal_aroma"
-            },
+            }
+          },
+          {
             "effect": {
               "show_icon": true,
               "duration": 140,

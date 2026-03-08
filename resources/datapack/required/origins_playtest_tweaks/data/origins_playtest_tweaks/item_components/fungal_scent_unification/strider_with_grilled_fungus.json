@@ -11,7 +11,9 @@
               "show_icon": false,
               "duration": 2400,
               "id": "farmersdelight:nourishment"
-            },
+            }
+          },
+          {
             "effect": {
               "show_icon": true,
               "duration": 1200,
