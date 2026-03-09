@@ -1,0 +1,13 @@
+name = "Carbonised"
+filename = "Carbonised-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uxm6iBHp/versions/uSUwUMz9/Carbonised-1.0.jar"
+hash-format = "sha512"
+hash = "d624d84a5e811367d871fbe535c3f49e353ae42e14bbf2d22df606e0ea4ec56fa361458c33064324bac9f9f8789ec06fc628d638de59608ac1d1705ee4520d40"
+
+[update]
+[update.modrinth]
+mod-id = "Uxm6iBHp"
+version = "uSUwUMz9"
