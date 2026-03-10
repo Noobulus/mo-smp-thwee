@@ -9,7 +9,10 @@
         "architects_palette:heavy_stone_bricks",
         "architects_palette:heavy_mossy_stone_bricks",
         "architects_palette:heavy_cracked_stone_bricks",
-        "architects_palette:tuff_lamp"
+        "architects_palette:tuff_lamp",
+        "architects_palette:heliodor_rod",
+        "architects_palette:ekanite_rod",
+        "architects_palette:monazite_rod"
       ],
       "patterns": [
         "/.*myonite.*/",

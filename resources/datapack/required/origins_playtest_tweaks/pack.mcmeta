@@ -5,9 +5,6 @@
   },
   "filter": {
     "block": [{
-        "path": "advancement/recipe.*"
-    },
-    {
         "namespace": "minecraft",
         "path": "advancement/nether/use_lodestone"
     },

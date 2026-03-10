@@ -1,0 +1,13 @@
+name = "Ipla"
+filename = "ipla-mc1.21.1-fabric-5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7dLiTaTa/versions/OkA4JxzY/ipla-mc1.21.1-fabric-5.2.jar"
+hash-format = "sha512"
+hash = "b813236db6533213dfc4e74cad8ac3297b0453cac8c8900f0eb23d0c6c5d27db49609f04fcae0fc9abbf3ec57bae7a76b2fadaca10ddf506bb6bf44e9e8c86e0"
+
+[update]
+[update.modrinth]
+mod-id = "7dLiTaTa"
+version = "OkA4JxzY"

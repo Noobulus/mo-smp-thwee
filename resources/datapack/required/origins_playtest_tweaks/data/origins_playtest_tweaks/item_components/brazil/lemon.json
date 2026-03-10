@@ -1,0 +1,20 @@
+{
+  "targets": "braziliandelight:lemon",
+  "components": {
+    "minecraft:food": {
+      "saturation": 1.2,
+      "nutrition": 1,
+      "effects": [
+        {
+          "effect": {
+            "show_particles": false,
+            "show_icon": false,
+            "duration": 20,
+            "id": "minecraft:slowness",
+            "amplifier": 5
+          }
+        }
+      ]
+	}
+  }
+}

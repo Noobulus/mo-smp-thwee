@@ -1,0 +1,52 @@
+{
+  "values": [
+    {
+      "id": "architects_palette:oak_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:birch_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:spruce_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:jungle_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:dark_oak_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:acacia_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:mangrove_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:cherry_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:bamboo_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:crimson_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:warped_board_slab",
+      "tagex:exclude": true
+    },
+    {
+      "id": "architects_palette:twisted_board_slab",
+      "tagex:exclude": true
+    }
+  ]
+}

@@ -105,6 +105,10 @@ file = "config/cpm.json"
 hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
+file = "config/crunchy_crunchy_advancements.toml"
+hash = "7e1db4300ee8777c489b9313d4bff4a9ccc7e090c26bfae0447d59cfe1258332"
+
+[[files]]
 file = "config/data-loader.json"
 hash = "4776e8672312338343be9b7dcf8cbf0f5b813d0e748a22b6c45d19de154fb5eb"
 
@@ -341,6 +345,10 @@ file = "config/reliable_recipes/comforts.json"
 hash = "4a7b45ba204a506adca9576feed6f06b7d0f8051a022f1c3a9e3e55e89fd59a5"
 
 [[files]]
+file = "config/reliable_recipes/enchiridion.json"
+hash = "7584ce77f2f0f7ca8108f8e030cafb3c123e18a6391c6f64d087cdccd7346298"
+
+[[files]]
 file = "config/reliable_recipes/exposure.json"
 hash = "f0def485161b9c28505566377737c06a135820ff11a9d3db12aa3ce21cb3b37e"
 
@@ -398,7 +406,7 @@ hash = "5abed2f476383a9eb547c76cc40d7694f40e57d4d81beb56515c034f363a3f26"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "7c6b9ecaacee4ec2f14b31616a7007d6a966b8d9f0886655c6838895340add0e"
+hash = "a4cfab71226f11df2636a42c24809c41dd45b86140bb556304b032a018bd3895"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -419,6 +427,10 @@ hash = "a023e02ba51b7df7e902d48bb15136b4b6a30de514dc81f8892a443852b2d16f"
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
+
+[[files]]
+file = "config/reliable_remover/enchiridion.json"
+hash = "959de71a7e3da4fa163cc1963184831755082aaec161daa7d377bca53b8c5b3f"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -1057,11 +1069,6 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
-file = "mods/copper-grates-bubble.pw.toml"
-hash = "52c01162d7b86155e65e98382af1bf1c51259fc710a0afebc78204e8cc565a47"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
@@ -1079,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/critter-barriers.pw.toml"
 hash = "5e03e029683d21af840f16e1743c05b1ee225eb0a18ad6b44358c575cabc776e"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "1ef2cdcf6ace13665b2f03141bcb41a1350629776a7bc14ec9cc19b52c0feff4"
 metafile = true
 
 [[files]]
@@ -1353,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/indypets.pw.toml"
 hash = "339d130bf14b49f47dfceec51c11370d1a0de9ef2e185cffd669cc9890c655f0"
+metafile = true
+
+[[files]]
+file = "mods/ipla.pw.toml"
+hash = "79f268c6f558a0561946a5fa84892f2e9e5828a1679afe936c7ade7a20a64358"
 metafile = true
 
 [[files]]
@@ -1631,6 +1648,11 @@ hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
 metafile = true
 
 [[files]]
+file = "mods/player-locator-plus.pw.toml"
+hash = "95f470ffc8438ce15d252e73a959744af3eb699cc3e8458d975b1d20759606ce"
+metafile = true
+
+[[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
@@ -1856,6 +1878,11 @@ hash = "10f4f0982e8d09c581450e4a423b5c30b05bd0b7da1991a1e5d57be65a0fdb3f"
 metafile = true
 
 [[files]]
+file = "mods/tag-exclusion.pw.toml"
+hash = "8151d76d1b06bb844b7816e534fa1a291816735e624f8f3031f248a5c1c48bce"
+metafile = true
+
+[[files]]
 file = "mods/toastbegone.pw.toml"
 hash = "13bf50723c91f5a9103560ed84ab2309a6bfa6b77362101e4f2dd01102eed508"
 metafile = true
@@ -1883,6 +1910,11 @@ metafile = true
 [[files]]
 file = "mods/vault-timing.pw.toml"
 hash = "9fd0441483c53a42f3bf2fd182bc026b87d16d30b3c178931933e58e192ca61f"
+metafile = true
+
+[[files]]
+file = "mods/walksylib.pw.toml"
+hash = "ab0afda1705e920322ecd6f58d8b9cc65025f60a738d939b31a87a8055d8793c"
 metafile = true
 
 [[files]]
@@ -2117,7 +2149,7 @@ hash = "d232bd8b350fd21b952d14308d7522db74fbd0343c30aacc9a4deff85ed8ca67"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/caipirinha.json"
-hash = "12a7dddf4026adb92062b3f02a2286f5d2c430fa48cde651a8d6916f4f556f78"
+hash = "aec67dbb22178f104c6a0dd1a211ebfd7701cea1ba41e4903f4a239312cfa435"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/carrot_cake_with_chocolate.json"
@@ -2212,7 +2244,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandeligh
 hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_wild_yerba_mate.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/worldgen/configured_feature/patch_yerba_mate.json"
 hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
 
 [[files]]
@@ -2821,11 +2853,11 @@ hash = "58c2dd9c492bda82c5e92cc449eed75c219c7fa1f98dea21e899e25e128c2866"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/short_dry_grass.json"
-hash = "f9351839f5582e815c8438617a4d38fb63d3578225b741cc5fbbacbed6e6e428"
+hash = "6755d790cbf0bbdd503c59d29fab1807356ae8f51adf42d11e0252c793ab85f2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/tall_dry_grass.json"
-hash = "a6fcbdf18198972511dc381947d5954506e8ef46d07e8c1bf8bdaa475c96e0b3"
+hash = "cd22887b720787f394e297e018c9f17364db37600181ed30290a09db3d57e74c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/activator_rail.json"
@@ -3168,6 +3200,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "a0b5050ada5b8839fdc237c1b1e6da89e79fe9fc27b208d3a9fe3b1f4b7133a5"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/wooden_slabs.json"
+hash = "90179ce684b2adff48f23c4cade08ee2dca91ff1960f7436538ac6a8b9b7dc64"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/snow_golem_melts.json"
 hash = "7713a2a3a0f8b5fef5100dd69b7c044169c7d083d46b228d28b921b546d5bc88"
 
@@ -3364,6 +3400,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "14b298ad0b50ad5bbe6d73f7a447d031eb37d085fb74017d0f8dfd03c7b944b5"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/lemon.json"
+hash = "a325baa2f1be94b7c6bb57e77673c36855c72e4a6e9fae9913e4fee12be3e0d0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/peanuts.json"
+hash = "423f63eef37e518244fc3c5f7f1473d5add61b6771d801c0ac4204f36f0a288a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/salpicao.json"
 hash = "550973553862e7ec585aceb16b650b4ccac4699959d2f729276d5482eb891d66"
 
@@ -3466,10 +3510,6 @@ hash = "d92c08936db0aed847ff21411ada884002457eb4ccf534dc0fb0ceec2021d06f"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/paintbrushes.json"
 hash = "283c82d422e4ee8ca311b112ce044600eafdcbb21e1d2b1303f6ddff8c5173dc"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/peanuts.json"
-hash = "423f63eef37e518244fc3c5f7f1473d5add61b6771d801c0ac4204f36f0a288a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
@@ -4481,7 +4521,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "1fd85a51295c82715f8a6781843ecd5565566960980f5c42f49bcee31952887a"
+hash = "19331f9558f4b7db804e04faac6ef8efa8b3af30b1c32652629fd72289f64ce4"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -4936,5 +4976,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.14.txt"
+file = "v0.3.15.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

@@ -1,0 +1,13 @@
+name = "Tag Exclusion"
+filename = "tagex-1.1.0+mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uf8bbGA3/versions/AI131Umw/tagex-1.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ad4326400855c7081c713f8967e9420e23ec78cf171bb9fd936336256a5aaaeaa556e58bcf41c5485aef18a792848fc481a1d714d41dfa64a2275fb69dec7086"
+
+[update]
+[update.modrinth]
+mod-id = "uf8bbGA3"
+version = "AI131Umw"
