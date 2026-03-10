@@ -1452,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a984811f7f950a116c183ab215dea9435d1b098c340c25f9dcbee70e980604fc"
+hash = "33a609714e86f6a49d87a9705f1fc8b2c130d623cb28f140ee5947e4db1646c1"
 metafile = true
 
 [[files]]
@@ -4975,5 +4975,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.16.txt"
+file = "v0.3.17.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
