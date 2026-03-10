@@ -773,6 +773,10 @@ file = "mods/Apoli-2.12.0-alpha.15+mc.1.21.1+winfylobo~2.jar"
 hash = "c6a69974262b8ff18ae1e77f9778c01c7d158a115ed22a0765aa9113673c8852"
 
 [[files]]
+file = "mods/Carbonised-1.0-metadatatweaked.jar"
+hash = "2e42f4199379f50de90c55924c68d1d0f4a89e1cced735d97bd784b91653bf89"
+
+[[files]]
 file = "mods/NoCoords-1.2.jar"
 hash = "28837b834d7b86862720d63a20d968b5d9255f221df829087399010c07fcff38"
 
@@ -964,11 +968,6 @@ hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
 metafile = true
 
 [[files]]
-file = "mods/carbonised-mod.pw.toml"
-hash = "085f7fe7b0f1a41dd7d780a048a899be32ed8a518bb9c60f6285b62f4ea1a011"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
 metafile = true
@@ -1125,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/dispenserfarm.pw.toml"
-hash = "9fbbb1644473c98f133cde218d0a802d8440f7c64256c88b8da22896a8dec3f5"
+hash = "9f911518ac24f6e9fdc8dc0cba039dcf619a1de281821c5675db78acbf1e5cc0"
 metafile = true
 
 [[files]]
@@ -1269,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "78fc1ff6806c35cef2af54b1bc18ad64c51f8a75b7cb4d6b76a999c8f403aedf"
+hash = "18c20d9ae8cf1bfb6839f975d9ef07c3c8f040479efefef90df428c8a51cc820"
 metafile = true
 
 [[files]]
@@ -1453,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "788b10db97a8c2e1fdca7a4450fd0aac96c9e6b7fe29fccc13bcf4487964e16d"
+hash = "a984811f7f950a116c183ab215dea9435d1b098c340c25f9dcbee70e980604fc"
 metafile = true
 
 [[files]]
@@ -1635,7 +1634,7 @@ metafile = true
 
 [[files]]
 file = "mods/pigs-have-litters-1.1.1+1.21.1-metadatatweaked.jar"
-hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
+hash = "773bdcb7c5e633c862d2b5d183e7be0f7765945a8056bb3e4a17a7111c2f8ff6"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -4976,5 +4975,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.15.txt"
+file = "v0.3.16.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

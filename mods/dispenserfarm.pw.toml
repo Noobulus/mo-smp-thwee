@@ -1,6 +1,6 @@
 name = "Dispenser Farm"
 filename = "DispenserFarms-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gkXv592M/versions/ScTeigR3/DispenserFarms-1.1.0.jar"
