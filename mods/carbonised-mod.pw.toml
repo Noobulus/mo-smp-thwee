@@ -1,6 +1,6 @@
 name = "Carbonised"
 filename = "Carbonised-1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Uxm6iBHp/versions/uSUwUMz9/Carbonised-1.0.jar"

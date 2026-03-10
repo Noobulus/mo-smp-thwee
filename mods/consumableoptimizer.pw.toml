@@ -1,6 +1,6 @@
 name = "Consumable Optimizer"
 filename = "ConsumableOptimizer-2.2.0-1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4alTd2ag/versions/7Mwff6PN/ConsumableOptimizer-2.2.0-1.21.jar"

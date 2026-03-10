@@ -1,6 +1,6 @@
 name = "Tag Exclusion"
 filename = "tagex-1.1.0+mc1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uf8bbGA3/versions/AI131Umw/tagex-1.1.0%2Bmc1.21.1.jar"

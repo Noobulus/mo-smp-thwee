@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/carbonised-mod.pw.toml"
-hash = "7d110790459ca4fec41ef2d9ecbb7e4b56eebf68b01bbfe959162a980aef8cc2"
+hash = "085f7fe7b0f1a41dd7d780a048a899be32ed8a518bb9c60f6285b62f4ea1a011"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/consumableoptimizer.pw.toml"
-hash = "42bfe1928cd4bc2fd0904307a25fc4d42520fe2295624479f72310321bf94841"
+hash = "85f9e5ce3577c6e8f6761ef854f15ce809eeabf684c1f37764d87598c589e7fb"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
-hash = "1ef2cdcf6ace13665b2f03141bcb41a1350629776a7bc14ec9cc19b52c0feff4"
+hash = "ebf709541420ca9124c818578621ece55fa904cf7437a01f2b7007266c52e711"
 metafile = true
 
 [[files]]
@@ -1269,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "3e56ced72d425e2bef50fb6467b91fcca85098145efd871864a728e817d85bea"
+hash = "78fc1ff6806c35cef2af54b1bc18ad64c51f8a75b7cb4d6b76a999c8f403aedf"
 metafile = true
 
 [[files]]
@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/tag-exclusion.pw.toml"
-hash = "8151d76d1b06bb844b7816e534fa1a291816735e624f8f3031f248a5c1c48bce"
+hash = "054596a809914610c19fcf1ca7bebebd646a73a7b59646428f738cd67091debe"
 metafile = true
 
 [[files]]
@@ -1914,7 +1914,7 @@ metafile = true
 
 [[files]]
 file = "mods/walksylib.pw.toml"
-hash = "ab0afda1705e920322ecd6f58d8b9cc65025f60a738d939b31a87a8055d8793c"
+hash = "ef31902bdf7316c79aaf73704a5415a02ad1a7796ab597061527bfa6793d4312"
 metafile = true
 
 [[files]]
