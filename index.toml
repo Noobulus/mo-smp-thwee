@@ -106,7 +106,7 @@ hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
-hash = "7e1db4300ee8777c489b9313d4bff4a9ccc7e090c26bfae0447d59cfe1258332"
+hash = "c2dfce803d3e3f5372ec99c71b1265482fd6eefaabd9b4b7f5ad5b7f9a06c2f1"
 
 [[files]]
 file = "config/data-loader.json"
@@ -406,7 +406,7 @@ hash = "5abed2f476383a9eb547c76cc40d7694f40e57d4d81beb56515c034f363a3f26"
 
 [[files]]
 file = "config/reliable_remover/archpal.json"
-hash = "a4cfab71226f11df2636a42c24809c41dd45b86140bb556304b032a018bd3895"
+hash = "df90bfcde6ba1f63f6438bf0238c7b51e14bc177a6d0125ef6db2951d615f98c"
 
 [[files]]
 file = "config/reliable_remover/arts_and_crafts.json"
@@ -1490,6 +1490,11 @@ hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
 
 [[files]]
+file = "mods/mc-258859.pw.toml"
+hash = "4aa6faf86d8046cb94bcbcec4f5a89f8a3c1a61c9b90ec6b5145fc4133aae806"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
 metafile = true
@@ -2093,6 +2098,10 @@ hash = "3752f2c39b0000cde186a026186067dd11a8ea1442488f94257f66abf58178d0"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/tread_plate.json"
 hash = "7fe99aeafc3e226809c0a59f8ca72292dc61bbb9eee455dddc9f1bf045e396e0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/warping/esoterrack_from_andesite_warping.json"
+hash = "e86914cc5c7a051120cc394342197dd96a3f163e5def67ceed7fa4042265ede9"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/tags/item/boards.json"
@@ -4975,5 +4984,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.17.txt"
+file = "v0.3.18.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

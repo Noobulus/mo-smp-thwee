@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "type": "architects_palette:warping",
+  "dimension": "minecraft:the_nether",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "result": {
+    "count": 1,
+    "id": "architects_palette:esoterrack"
+  }
+}

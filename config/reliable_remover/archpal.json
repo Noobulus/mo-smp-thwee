@@ -31,7 +31,11 @@
         "/.*oracle.*/",
         "/.*crater.*/",
         "/.*basalt.*/",
-        "/.*warpstone.*/"
+        "/.*warpstone.*/",
+        "/.*polished_glowstone.*/",
+        "/.*runic_glowstone.*/",
+        "/.*moonshale.*/",
+        "/.*esoterrack.*/"
       ]
     }
   },
