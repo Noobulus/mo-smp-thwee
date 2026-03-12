@@ -1575,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/nitrogen_rbn.pw.toml"
-hash = "bd23dabc4b4a36d1f819ea5e7d94cce177941c70409dfdb86e4e56421788ff13"
+hash = "a7c9262b0f8b1d524ac5b59613955c49943972026cec02487914a047254ac5c4"
 metafile = true
 
 [[files]]
@@ -4984,5 +4984,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.18.txt"
+file = "v0.3.19.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

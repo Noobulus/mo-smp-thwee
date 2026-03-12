@@ -1,6 +1,6 @@
 name = "Nitrogen"
 filename = "nitrogen-1.7.9-1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MmlhYsbf/versions/ZR5amuNb/nitrogen-1.7.9-1.21.1.jar"
