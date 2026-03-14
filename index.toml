@@ -3632,7 +3632,7 @@ hash = "dbd3205bc84579aa1c3b9b95a85e0ad544898e508f376bdaf829532c402dfd8e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/celestial_stem.json"
-hash = "87ffb82d37295c8e83a6d9864c74cb5f4601d5edfc438f65cda5322f5f7c0118"
+hash = "8591030e1103bbf74483905f6e60398d0b3e41d68bf7369a5953c3150b9e6a30"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/cork_log.json"
@@ -3648,7 +3648,7 @@ hash = "4891d75dd215af181aed17681a4c1f682ca22a8e748a1b167a05551f96d13d12"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/murublight_stem.json"
-hash = "ac289c8edd334f885497e7ba9e6f1a5c8a37336408b0ccde1a1f81eb559859d0"
+hash = "abe0d4d435829dcc7f30e0af557b184eaa24f463e542e122ec57f235c02825b1"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/pale_oak_log.json"
@@ -5291,5 +5291,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.25.txt"
+file = "v1.0.0.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

@@ -1,12 +1,12 @@
 name = "Maddy Origins SMP Redux"
 author = "Maddy"
-version = "0.3.25"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22f7afcdfbdee4fbfa79bc0525bfd9ac66852c53758fc0e0cee682ae6fe86bef"
+hash = "cf1fd7a780d73b7e8e0940157b1d155c1b1e3ef3acaaf3f05ffb3cde1e63cc0c"
 
 [versions]
 fabric = "0.18.4"
