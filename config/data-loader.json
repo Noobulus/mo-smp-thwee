@@ -2,8 +2,8 @@
     "onlyLoadSpecified":false,
     "loadOrder": [
         "bundle",
-        "trade_rebalance",
         "file/BD Behavioral Tweaks.zip",
+        "file/trade_rebalance_tweaked",
         "enderscape:new_strongholds",
         "enderscape:new_terrain",
         "enderscape:new_end_cities",
