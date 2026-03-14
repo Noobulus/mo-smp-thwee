@@ -574,7 +574,7 @@ hash = "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b"
 
 [[files]]
 file = "config/watut-server.toml"
-hash = "696e991bbf1b0a760ff427ce6ac8575e38937d8c95a12c9b8b22dfcdc589b71b"
+hash = "53210d1b1400dad397523a33419b40d255bf3ee1fa3e0bd3071b69463334212f"
 
 [[files]]
 file = "config/yacl.json5"
@@ -754,11 +754,11 @@ hash = "f4c9cf297940147112dbbc65c6ae351f92829f8889fa0c91d14019431eeb6206"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
+hash = "5ab91f367cc7e76b0b003d912f14eb4abe3c9c4092b99c417624e4453b470b5c"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
+hash = "991d7d566981ad6c2e21d196d25c807a98a2d537dc5a49d5849ea63b44ea6572"
 
 [[files]]
 file = "config/zipline.json"
@@ -4519,15 +4519,15 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/world
 hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/bamboo_chime.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/bamboo_chime.json"
 hash = "48afe26616212bd08a2c9df83ae8f113ccc42129ea24d0a20161a29a30eebeac"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/copper_chime.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/copper_chime.json"
 hash = "f4cd0a6391161186c1e526a68d8b7d94315774d8f5e49f08e424b38a0f510cfa"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/iron_chime.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/iron_chime.json"
 hash = "fd7d8475506c8d78d9dd3758bcee89aa0d0f16b1e304bf21facf56accb5810b3"
 
 [[files]]
@@ -5259,5 +5259,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.24.txt"
+file = "v0.3.25.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
