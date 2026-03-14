@@ -4463,6 +4463,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "b904637783d6d2906fbb7e326d17b8a21add7e0aaca67a45dde481ae2a9a997e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/worldgen/structure/galleon.json"
+hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/copper_lantern.json"
 hash = "59be78bd89a360e7617d24de104bd5214b012401df0924dd61f6dc7a38c57076"
 
@@ -4979,5 +4983,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.21.txt"
+file = "v0.3.22.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
