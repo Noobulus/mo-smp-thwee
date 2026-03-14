@@ -477,10 +477,6 @@ file = "config/reliable_remover/wayfinder.json"
 hash = "a8b9d1a4244a2f4859ee669b64b72cbe5bbb0c678745d5ad4ca40e0b23bc0347"
 
 [[files]]
-file = "config/reliable_remover/windchimes.json"
-hash = "02ad6e43991708b7bd214d8b686915e6546a46e5e4ed4f3d1d2fdbfd0066bc7e"
-
-[[files]]
 file = "config/reliable_replacer/no_urns_in_structures.json"
 hash = "5e2379800f4137cff2b2c8858c455259151f2c403dc7dbdb92b28f5d9ae6193b"
 
@@ -998,6 +994,11 @@ hash = "f63753e5134374b88816973141800dcec76b7c5774c128f66e1489960fa6f58d"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "d4ae097969fada0d14b65362b07260771f7749629628b0d240186f8c0dc040f0"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
@@ -1049,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "6d54a46692045cfc01f46f0112c658e8ca431bce160493f9669afbe9c1cbf007"
+hash = "180dec9fe7342d7a48b3dbe726b5611e823d364f26ea1b193b2343e792be3638"
 metafile = true
 
 [[files]]
@@ -1443,7 +1444,7 @@ metafile = true
 
 [[files]]
 file = "mods/leads.pw.toml"
-hash = "9d1a039eeab7d47a73dce75289eba450d2b3695587409df44febed79a7cf2f98"
+hash = "adb0d83f5f502f655589e3d5e6e4c5e8e58570e9adb469899eaad76c0cc73a3d"
 metafile = true
 
 [[files]]
@@ -1943,11 +1944,6 @@ metafile = true
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
 hash = "8ba03805dbbe98c692cdb1fca930a1279a5f809e6c242e88a68dcee657f774ff"
-metafile = true
-
-[[files]]
-file = "mods/windchime-unofficial-continued.pw.toml"
-hash = "29ea6f0446cc4cb26ec396ac761d95dca3378e3ffff1a4c23b64640c5f4c0357"
 metafile = true
 
 [[files]]
@@ -2609,6 +2605,14 @@ hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cooking/apple_cider.json"
 hash = "2b9f3bfb507c8517bd8c7989f39cb160bbf1a5ad1c2765db2c431a736460c42c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/jungle_log.json"
+hash = "4f679e7af02bf54c522c46ca432d9608ade74144cba9e7971858200c4ce7e3e3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/jungle_wood.json"
+hash = "37f8bdd840693b097a282e18dbda2953c5fc6100c7daba582fe683c9cdcb81c8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
@@ -3623,6 +3627,54 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "92feaf4935cceff51c97bf0ee0e479288c30e1d9f959c8d7300a35ad875a3121"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/celestial_hyphae.json"
+hash = "dbd3205bc84579aa1c3b9b95a85e0ad544898e508f376bdaf829532c402dfd8e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/celestial_stem.json"
+hash = "87ffb82d37295c8e83a6d9864c74cb5f4601d5edfc438f65cda5322f5f7c0118"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/cork_log.json"
+hash = "d4cbc252d0e921c44db1acaa0cdb8da9f6756aee9867fec944a4b5f9080bc0e6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/cork_wood.json"
+hash = "7ff37bef0e9037135cb948910f13baaf2a1b95e084a779324b5e9aabd47abd88"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/murublight_hyphae.json"
+hash = "4891d75dd215af181aed17681a4c1f682ca22a8e748a1b167a05551f96d13d12"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/murublight_stem.json"
+hash = "ac289c8edd334f885497e7ba9e6f1a5c8a37336408b0ccde1a1f81eb559859d0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/pale_oak_log.json"
+hash = "c9f64a44ca7c50fe9c251eb7d8727dfec85cc028761a9d156308a79e861da82e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/pale_oak_wood.json"
+hash = "39f6b589ca529b25e71524e181d8802ea20b9069c11cdcac7bf12759e824cfde"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/twisted_log.json"
+hash = "6998b401f73660083d3d0966723880dd53efc3c5f59b8e15666745c11f24b835"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/twisted_wood.json"
+hash = "e7cf4b38def88e18590b7bfc4411f37d7af713597e294b4c89f2d9f17c08ca43"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/veiled_log.json"
+hash = "1a1f913e98169621788e3488c1c9534f3501fb07d88023bf7892ab17d2052507"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/bark/veiled_wood.json"
+hash = "b5dce2d8ba96f022d25f36a11a44d5b5aeb876f9ce51b78408cf93a04e95bd6b"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
 hash = "4345b19f1603df0bf8a860115f35a62baa2f29b7af99387ab6a6dfad4a820728"
 
@@ -3637,14 +3689,6 @@ hash = "bd38c1477a82c0125026792ff7a26212bc6d14bced5fbd346bb65be51dcee195"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/chairs.json"
 hash = "1f433eb702c8d5e317e3761b3fcdd01dc335f7c2f6a98a5a0ace8da18c9252c3"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/cork_log.json"
-hash = "d4cbc252d0e921c44db1acaa0cdb8da9f6756aee9867fec944a4b5f9080bc0e6"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/cork_wood.json"
-hash = "7ff37bef0e9037135cb948910f13baaf2a1b95e084a779324b5e9aabd47abd88"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/doors.json"
@@ -4517,18 +4561,6 @@ hash = "4a74475f7bb008f01889107dc5e0a747fdfa030b3bebe051f31e55007f61ec7e"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/worldgen/structure/signal_tower.json"
 hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/bamboo_chime.json"
-hash = "48afe26616212bd08a2c9df83ae8f113ccc42129ea24d0a20161a29a30eebeac"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/copper_chime.json"
-hash = "f4cd0a6391161186c1e526a68d8b7d94315774d8f5e49f08e424b38a0f510cfa"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipe/iron_chime.json"
-hash = "fd7d8475506c8d78d9dd3758bcee89aa0d0f16b1e304bf21facf56accb5810b3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/ir_lazor_emitter.json"
