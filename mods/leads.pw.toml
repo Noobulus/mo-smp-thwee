@@ -1,6 +1,6 @@
 name = "Leads"
 filename = "leads-1.0.1+1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TZl32T2e/versions/mxfYosGU/leads-1.0.1%2B1.21.jar"
