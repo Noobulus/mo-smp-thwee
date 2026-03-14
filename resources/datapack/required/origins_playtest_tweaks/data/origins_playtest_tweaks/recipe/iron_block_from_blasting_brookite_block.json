@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 800,
+  "experience": 5.6,
+  "ingredient": [
+    {
+      "item": "y21:brookite_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_block"
+  }
+}

@@ -2,6 +2,7 @@
   "disallowedEnchantments": [
       "enchancement:perception",
       "enchancement:amphibious",
+      "enchancement:veil",
       "enchancement:perception",
       "enchancement:wardenspine",
       "enchancement:dash",
@@ -14,7 +15,6 @@
       "enchancement:delay",
       "enchancement:brimstone",
       "enchancement:torch",
-      "enchancement:beheading",
       "enchancement:bury",
       "enchancement:scooping",
       "enchancement:apex",

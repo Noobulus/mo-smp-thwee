@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.6,
+  "ingredient": [
+    {
+      "item": "y21:brookite"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

@@ -110,7 +110,7 @@ hash = "c2dfce803d3e3f5372ec99c71b1265482fd6eefaabd9b4b7f5ad5b7f9a06c2f1"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "4776e8672312338343be9b7dcf8cbf0f5b813d0e748a22b6c45d19de154fb5eb"
+hash = "fb35c10af41980ec62013fd3d622440398cf6b20508e5c712af43044068d1c6a"
 
 [[files]]
 file = "config/debugify.json"
@@ -122,15 +122,11 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "f8f83dc6a236af7cad574c1c05f14bba5f6a33c2e08071769a69e4562189beff"
+hash = "c4cf2991a6f0ae0e663aa244443b54c358b27844ee5420fcde032dfd33a648e2"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
 hash = "86856b5b74caa8c3215f10d869afd0190831ae30d662d27f421f4dc212c9f66b"
-
-[[files]]
-file = "config/enchiridion.jsonc"
-hash = "7bcc53e905afa27ed8c57db46c1ee6fd29da2cb5e1a1f78f6fb6cec0842aaed0"
 
 [[files]]
 file = "config/enderscape.json5"
@@ -345,10 +341,6 @@ file = "config/reliable_recipes/comforts.json"
 hash = "4a7b45ba204a506adca9576feed6f06b7d0f8051a022f1c3a9e3e55e89fd59a5"
 
 [[files]]
-file = "config/reliable_recipes/enchiridion.json"
-hash = "7584ce77f2f0f7ca8108f8e030cafb3c123e18a6391c6f64d087cdccd7346298"
-
-[[files]]
 file = "config/reliable_recipes/exposure.json"
 hash = "f0def485161b9c28505566377737c06a135820ff11a9d3db12aa3ce21cb3b37e"
 
@@ -427,10 +419,6 @@ hash = "a023e02ba51b7df7e902d48bb15136b4b6a30de514dc81f8892a443852b2d16f"
 [[files]]
 file = "config/reliable_remover/critter_barriers.json"
 hash = "a13bfaa90c0d784f1993f2d3b7c25945331627ca02ec6ad5be4fbe70682342d9"
-
-[[files]]
-file = "config/reliable_remover/enchiridion.json"
-hash = "959de71a7e3da4fa163cc1963184831755082aaec161daa7d377bca53b8c5b3f"
 
 [[files]]
 file = "config/reliable_remover/everycomp.json"
@@ -1048,6 +1036,11 @@ hash = "0d10973de4466406d116a7c0d976c7c7830e65510ad06b6c83e72b0310e09ad4"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+hash = "6d54a46692045cfc01f46f0112c658e8ca431bce160493f9669afbe9c1cbf007"
+metafile = true
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
@@ -1179,11 +1172,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
-metafile = true
-
-[[files]]
-file = "mods/enchiridion.pw.toml"
-hash = "b86202a93e9c642a21055c2dbb5ac8c6addbbe5d60468c144a0da19a3d16c7bc"
 metafile = true
 
 [[files]]
@@ -1439,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/le-fishe-exotique-au-chocolat.pw.toml"
 hash = "c650aaec32e4b70f276df4cc7e5e594aeac678f72270894c8bd1f829518d9590"
+metafile = true
+
+[[files]]
+file = "mods/leads.pw.toml"
+hash = "9d1a039eeab7d47a73dce75289eba450d2b3695587409df44febed79a7cf2f98"
 metafile = true
 
 [[files]]
@@ -1737,6 +1730,11 @@ hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
 metafile = true
 
 [[files]]
+file = "mods/ride-together.pw.toml"
+hash = "e784f81cca5b1969d7ecb8e282a7d9f68cf840aa600846287ba1595e6ea1c7bb"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "dbcedaac8ac506b31f71efe752c66df513ad65c44a102f1f0f6a682796946862"
 metafile = true
@@ -1933,6 +1931,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
 hash = "8ba03805dbbe98c692cdb1fca930a1279a5f809e6c242e88a68dcee657f774ff"
+metafile = true
+
+[[files]]
+file = "mods/windchime-unofficial-continued.pw.toml"
+hash = "29ea6f0446cc4cb26ec396ac761d95dca3378e3ffff1a4c23b64640c5f4c0357"
 metafile = true
 
 [[files]]
@@ -2518,42 +2521,6 @@ hash = "ae2d65ee14cca2a62d390bff711d48be0a9856274a6e319ae2f29ae79120a4d5"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/mine_ore_veins_base_block/enderscape/shadoline_ore.json"
 hash = "ae2d65ee14cca2a62d390bff711d48be0a9856274a6e319ae2f29ae79120a4d5"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/enchantment/murky_waters_curse.json"
-hash = "17f45be9af310b5e5b2bbd6065fe975799161b40582835e1bfa91d7959a04c00"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/splitting.json"
-hash = "0a985e3560d36ed4422f2f8ab4678ac4c1c653f554753a07f03d8a70c202d5d4"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/primary.json"
-hash = "93c9779bbd94ff9e7dabf68782eaa23605d36829a1448effbde618f5f1b02994"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/secondary.json"
-hash = "33f3729141d888767e00bf01d3d501746a952daea3f7da865b8bbf7fe0e5d496"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/enchantment/category/tertiary.json"
-hash = "7cc0f85b5b1d835d1fa9f82e5bbca906588cee0cba3afaadc5a9061ace8a037d"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/base.json"
-hash = "9ed912020d0738562d883c7dacb4156fdbcc74f3cd430bbc806a3bff80841741"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/inner.json"
-hash = "c85de4853eafd31080aad773403ba1b1656e0e36412cb5ae3d45103d2ebdd37f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/junk.json"
-hash = "1ef2e7d9e5aee2ddbd9bac976044bdd4e613eb58fa20245d8879298b4fdfef9c"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/enchiridion/tags/loot_table/is_fishing/treasure.json"
-hash = "dfc798abe60d5689fb5e78f5eb8acce9def496311d43a71ae6a19d9f3a5ab716"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
@@ -3924,12 +3891,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "15e4e51189c5f51ba72e7387faa9677645ab10d884b28e648f33cd644e85fb54"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_blasting_brookite_block.json"
+hash = "6ac2c74addbe796d241e5ae947a5d2a09107a2d58ea6b1124bcafa5205e2adea"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_blasting_raw_iron.json"
 hash = "729d5dad7075801ab4b3046f9ad0210fb8be0f1286971b9e01f0aa55612a956f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_smelting_raw_iron.json"
 hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_ingot_from_blasting_brookite.json"
+hash = "e3204615280053536d0a0099ba84c3beab14d2ae9ad5beb6b13b31b22f8e2f16"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
@@ -4984,5 +4959,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.19.txt"
+file = "v0.3.20.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

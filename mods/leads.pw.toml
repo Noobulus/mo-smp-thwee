@@ -1,0 +1,13 @@
+name = "Leads"
+filename = "leads-1.0.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TZl32T2e/versions/mxfYosGU/leads-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "e7b5e5aef273aa033bd903cfadcea6f0089b6d6c58677c73fdba33de66849800bec43bb0bb8b5205cd4769d5ba702508e2d9bf438b79d5395bb31c10d6309bf2"
+
+[update]
+[update.modrinth]
+mod-id = "TZl32T2e"
+version = "mxfYosGU"
