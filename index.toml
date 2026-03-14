@@ -41,6 +41,10 @@ file = "config/better-snow-coverage.json5"
 hash = "d7cf0f0fcad1cbe0ed2d0401ec8ddbab23171e45243804738f88b9e90ff7a255"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "b111296bdc4b8f6e0530134aa746e13864663db9c4fb6937398c92324437c3cb"
+
+[[files]]
 file = "config/betterfurniture.json5"
 hash = "406be99f256c94d31ed0c9507c14da7e36eeff3703327b68d250137aadbfa74d"
 
@@ -110,7 +114,7 @@ hash = "c2dfce803d3e3f5372ec99c71b1265482fd6eefaabd9b4b7f5ad5b7f9a06c2f1"
 
 [[files]]
 file = "config/data-loader.json"
-hash = "fb35c10af41980ec62013fd3d622440398cf6b20508e5c712af43044068d1c6a"
+hash = "b7ec9b036a55f6bd67e3cb57928d81bf115d4219ddebc8ddaab7c9a617d88c4d"
 
 [[files]]
 file = "config/debugify.json"
@@ -122,7 +126,7 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "7863dbcba9867076f867b86d6e97977f12a8f79cbb99d7a1a7a83213f2cd8854"
+hash = "025effc9a3b21e055bad8af244333356a996e6f460d33bf2b5752e317b65ff71"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
@@ -4463,6 +4467,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "b904637783d6d2906fbb7e326d17b8a21add7e0aaca67a45dde481ae2a9a997e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/worldgen/structure/galleon.json"
+hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/copper_lantern.json"
 hash = "59be78bd89a360e7617d24de104bd5214b012401df0924dd61f6dc7a38c57076"
 
@@ -4529,6 +4537,258 @@ hash = "19331f9558f4b7db804e04faac6ef8efa8b3af30b1c32652629fd72289f64ce4"
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
 hash = "183a79bb036ad3e54af717dedb0d12b9dadf076b5988d55360036ff2ccdf6061"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_boots_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_helmet_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_5.json"
+hash = "2279ebeab5adc299c381697b745f4e580aa5b8ccc4aa8b3f9e338c8874f966cd"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_chestplate_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_5.json"
+hash = "e25615f1881e4d12bb57469e73ef6cdef94952c2ce99e57a29f0b57fde81c0ea"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/jungle_armorer_leggings_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_boots_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_boots_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_chestplate_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_helmet_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_boots_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/savanna_armorer_leggings_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/snow_armorer_boots_4.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/snow_armorer_boots_5.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_4.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_5.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_5.json"
+hash = "9dc2d75c6d8b0f885033e07f1643fa2c65b0d2d8abcd9b7209938d588da9129f"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_chestplate_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_5.json"
+hash = "cbf9014c82f374bf851a41f24066450738b931f014d59f840c04c52a177a4307"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/swamp_armorer_leggings_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/taiga_armorer_chestplate_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/enchantment_provider/trades/taiga_armorer_leggings_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
+hash = "6de7c578669735749132df2259903f2ccf5299d444a22332a48fec20002416a0"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "df2b17935f798d30f7dfcd7c21256a52df400e4dd7fa7cad9ca629e9c4a72f7b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "33bf7b972945704b8a207100dcf063a4a9f68124048ae7b917c0cbfe47afad24"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "76a5db10d45320184615d33e3dfa472e95674807ee1c047d59df12fcbfa149bc"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/loot_table/chests/pillager_outpost.json"
+hash = "107a67ee4c6621e4c7109cce77b2f7d88d92563abc741f5161df783da3ba7377"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/desert_common.json"
+hash = "e8e41376410162d41affafe5b5228e30a19f5e909df1100cd5c5ec69fd2f5195"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/desert_special.json"
+hash = "8008585c222ddc12dfbf21a137cf6e76c811254e7cbc87eb5d99b5d38e21d52c"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/jungle_common.json"
+hash = "fdfa0f64b66a48c04485cf3246433ba0bcbff73e058b51c4584a81233c2c7c42"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/jungle_special.json"
+hash = "537cb0988150538e41202aefe276a613e329ceeec6dcf8c361ad5019d516a402"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/plains_common.json"
+hash = "6826458366dd0f769148d36ed6b1c3670fd71f64369cccee2ae735a8db175a87"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/plains_special.json"
+hash = "c45eddb86e66907c3fe2d53a2912d8d8ca49a196b5a51b8d1cc62e0dc620fad6"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/savanna_common.json"
+hash = "52c50c703619bf6e36ff8ae9f97b42a9e2e4c9f65d4cc03ef1336d49a50ea6b6"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/savanna_special.json"
+hash = "1bf7831de3833efad9c80c9d839fca35305c9dbb3dd2bc4fd3f6d6bfdc4a560a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/snow_common.json"
+hash = "b94e69d790d4d2e7a15d527816e49bcf59aebf1206edfadcf08098d4ec1ce0ae"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/snow_special.json"
+hash = "deaf788cfa7724914b2a4083973a2c94044990f3e315a95bc0d609fe3a9c2dfe"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/swamp_common.json"
+hash = "be5330eb410a5223b2fed6e9eaea1f7a23b122e49b56a68fc15e5c4188e681fc"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/swamp_special.json"
+hash = "687c5f9419bf24a22bc214382b84ab1f92b55acf807603dac63fc95cced4fa2b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/taiga_common.json"
+hash = "c0448c6cc326992d4a7f28cec1388f0cd447da7328563fb846865c583597492c"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/enchantment/trades/taiga_special.json"
+hash = "1d5ad7380eb5d64d293d9493cf598884303d2f7edda4093a57f88bc63c6fe747"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_desert_village_maps.json"
+hash = "726940a8799937fcaac5e47e8800fe06294157f80800839129d95fae5ac67a9e"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_jungle_explorer_maps.json"
+hash = "2c000ac6df0cffc4889fee7e4aca709c11d41ffc61e19520dd8b0af906863807"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_plains_village_maps.json"
+hash = "d36d753262c2fea538faa92ca0f0d0f2333d96f8eb3484e31f133188261ff94f"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json"
+hash = "6a453ec2450aac75cdfa9b463200de6e91fb7213cfb965f56d4e20f5b6f6cc3e"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_snowy_village_maps.json"
+hash = "711cb924bb1c31d3b964504e96137120702d8c5eb7fac548c32d216f65ee2bf7"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_swamp_explorer_maps.json"
+hash = "eb4048614beb4aa19adfe4a4c0dc0e2727a34707dc0140ad715765914c235b64"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json"
+hash = "525bc64f5406a747fe0d80b3cd87e83e09b4f325b8873f39ee7b488014585fd3"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance_tweaked/pack.mcmeta"
+hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "resources/resourcepack/required/BD Visual Tweaks/assets/braziliandelight/lang/en_us.json"
@@ -4979,5 +5239,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.21.txt"
+file = "v0.3.23.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

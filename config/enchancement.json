@@ -21,7 +21,8 @@
       "enchancement:disarm",
       "enchancement:meteor",
       "enchancement:thunderstruck",
-      "enchancement:frostbite"
+      "enchancement:frostbite",
+      "enchancement:lumberjack"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": "DISABLED",
