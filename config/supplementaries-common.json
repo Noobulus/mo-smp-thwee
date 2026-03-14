@@ -47,7 +47,7 @@
     },
     "pulley_block": {
       // Adds dragon banner pattern made from dragon head
-      "enabled": true,
+      "enabled": false,
       // Accepted range: 0.0 to 1.0
       "mineshaft_elevator": 0.035
     },
@@ -194,7 +194,7 @@
       "plunderer": {
         // Adds dragon banner pattern made from dragon head
         "enabled": true,
-        "galleon": true
+        "galleon": false
       },
       "music_disc_heave_ho": true
     },

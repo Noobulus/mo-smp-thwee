@@ -122,7 +122,7 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "c4cf2991a6f0ae0e663aa244443b54c358b27844ee5420fcde032dfd33a648e2"
+hash = "7863dbcba9867076f867b86d6e97977f12a8f79cbb99d7a1a7a83213f2cd8854"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
@@ -502,7 +502,7 @@ hash = "ab15867041d1ab28b73bcb4a660f44349daf89bb25a3423edfb411e153701ddd"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "f2560ea9eb7d7a3f089bb92bd41ed1468d6c2ba6c7d1549eb7f897e2524ceaf1"
+hash = "38408c0a6ea1a547f9aaf82d708dbed53e9c336e3d87b57505a31a1ae8b63da8"
 
 [[files]]
 file = "config/suppsquared-common.json"
@@ -1356,7 +1356,7 @@ metafile = true
 
 [[files]]
 file = "mods/ipla.pw.toml"
-hash = "79f268c6f558a0561946a5fa84892f2e9e5828a1679afe936c7ade7a20a64358"
+hash = "92e3e2d580c71ebec2ffa4f91c783e42f195ae84844465ed02364ba6e31f83bb"
 metafile = true
 
 [[files]]
@@ -3199,6 +3199,18 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/world
 hash = "ffd791afc5ca24f9dd01cdcd2a66f7695f47bcb42fd7e6e4bd947d453a89cdec"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "943276ffdd22be5e5915f8b18c9a9abfadfa67633a77a8322962f7a11f8660d3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "575633d8ddbb236c9e502e25e8181e2910ec50e73e44749ca365708d8f930a9f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "ddc78f775211c024f54020e1e9aa3d57a8f63d5b74db48ed1029627d1946db32"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recipe/jar.json"
 hash = "7072374558c1988501fa0a119cfd594e454037436918f61c5774fbdef9c6ad23"
 
@@ -4503,6 +4515,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/craf
 hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/y21/worldgen/placed_feature/ore_brookite.json"
+hash = "546beeb74a5e443c47b40c131bcf5fe2674b11a7d5415f61414cb87b25001620"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/y21/worldgen/placed_feature/ore_brookite_deep.json"
+hash = "352438cd46ca8959f4707d518c3f66bb28dfb950eab59d2b3c3ac5c6fee8e3a3"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
 hash = "19331f9558f4b7db804e04faac6ef8efa8b3af30b1c32652629fd72289f64ce4"
 
@@ -4959,5 +4979,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.20.txt"
+file = "v0.3.21.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
