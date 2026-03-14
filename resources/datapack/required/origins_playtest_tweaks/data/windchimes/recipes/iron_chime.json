@@ -1,0 +1,24 @@
+{
+	"replace": true,
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#",
+		"i",
+		"i"
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:planks"
+		},
+		"S": {
+			"item": "minecraft:string"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "windchimes:iron_chime",
+		"count": 1
+	}
+}

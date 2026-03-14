@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove",
+    "mod": ["windchimes"],
+    "items": [
+      "windchimes:dreamcatcher"
+    ]
+  }
+]

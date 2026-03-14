@@ -477,6 +477,10 @@ file = "config/reliable_remover/wayfinder.json"
 hash = "a8b9d1a4244a2f4859ee669b64b72cbe5bbb0c678745d5ad4ca40e0b23bc0347"
 
 [[files]]
+file = "config/reliable_remover/windchimes.json"
+hash = "02ad6e43991708b7bd214d8b686915e6546a46e5e4ed4f3d1d2fdbfd0066bc7e"
+
+[[files]]
 file = "config/reliable_replacer/no_urns_in_structures.json"
 hash = "5e2379800f4137cff2b2c8858c455259151f2c403dc7dbdb92b28f5d9ae6193b"
 
@@ -735,6 +739,10 @@ hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
 [[files]]
 file = "config/yosbr/config/supplementaries-client.json"
 hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
+
+[[files]]
+file = "config/yosbr/config/transmog.json"
+hash = "67d1027e2398f84b22794425893a57512d6497b9268c591cbc80dca1f5a24e16"
 
 [[files]]
 file = "config/yosbr/config/vanillabackport-client.toml"
@@ -4511,6 +4519,18 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/wayfinder/world
 hash = "0085e6f0807a79b9930b83b8c04a21d756201092c59ce0517a41ab52534ddb5a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/bamboo_chime.json"
+hash = "48afe26616212bd08a2c9df83ae8f113ccc42129ea24d0a20161a29a30eebeac"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/copper_chime.json"
+hash = "f4cd0a6391161186c1e526a68d8b7d94315774d8f5e49f08e424b38a0f510cfa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/windchimes/recipes/iron_chime.json"
+hash = "fd7d8475506c8d78d9dd3758bcee89aa0d0f16b1e304bf21facf56accb5810b3"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/ir_lazor_emitter.json"
 hash = "8ec277300bf73f8af5aed62cc2576ab6b164ba982b9dfca00fde2a2d98b624c2"
 
@@ -5239,5 +5259,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.3.23.txt"
+file = "v0.3.24.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
