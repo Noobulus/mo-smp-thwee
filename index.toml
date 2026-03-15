@@ -1059,11 +1059,6 @@ hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
 
 [[files]]
-file = "mods/consumableoptimizer.pw.toml"
-hash = "85f9e5ce3577c6e8f6761ef854f15ce809eeabf684c1f37764d87598c589e7fb"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -2819,8 +2814,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_
 hash = "2ee21fb3849cc7103de2cc94289c5fc17282d5eb30ac86aaa71ba52c1632b4c4"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/blue_ice.json"
+hash = "5b86fd369c281b2fc4270e1339312a3af8481d67f972e9daeded9de42f0bab5d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/dark_oak_leaves.json"
 hash = "5e2af952ffad8273b1806ab187dcaae7d7a722c3caea64852d1244e39e94bbfd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/deepslate_diamond_ore.json"
+hash = "9c72c033fd2bfba189cc7f26bc02ce44edf90ef09d92f4682bcd3d2dc9291a26"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/diamond_ore.json"
+hash = "31b630c53d45175d8fff4cabefdb95db13f9ce0e80fac65bdb4fb50bb5265603"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/jungle_leaves.json"
@@ -2837,6 +2844,14 @@ hash = "bcd44f6876e63d906436ecf46d4969a3ba106132a672051d1da4457c7093cc9b"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/oak_leaves.json"
 hash = "50596765fcb6d59f8ce1f561915423f1f33d552fcd8649e4dc6745a889f2a474"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/packed_ice.json"
+hash = "360a86aebc7558f9f6cff38518916075c316b6a36028d98f6fe4cf18e8df6fd8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/sculk_catalyst.json"
+hash = "969fd848cbc2ec93778023be562f73d72e694fbce953779b7dfcafd9e7c68141"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/sea_lantern.json"
@@ -5291,5 +5306,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.0.txt"
+file = "v1.0.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
