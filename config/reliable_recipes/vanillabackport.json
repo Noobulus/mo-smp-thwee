@@ -4,8 +4,8 @@
       "action": "remove",
       "filter": {
         "id": [
-          "vanillabackport:dried_ghast",
-          "vanillabackport:cake"
+          "vanillabackport:cake",
+          "vanillabackport:lodestone"
         ]
       }
     }
