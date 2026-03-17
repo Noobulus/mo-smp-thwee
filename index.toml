@@ -362,7 +362,7 @@ hash = "0fec6b33adb5524eef5e69b374e2138f25b45dc2c44439f7dd8e97e8bc0c3721"
 
 [[files]]
 file = "config/reliable_recipes/minecraft.json"
-hash = "11b975284fd33096e5666592f39f1d7d631666b1773950d23eda4279a7e03820"
+hash = "a7924559a74f58f381cc1003ee685a664cf9b9c4ebaef1489c68d304d720a909"
 
 [[files]]
 file = "config/reliable_recipes/mynethersdelight.json"
@@ -394,7 +394,7 @@ hash = "09c8f3825c5d00ccc71b38be0eb461cacc55580b46ae0001cc6f4ba9c2751868"
 
 [[files]]
 file = "config/reliable_recipes/vanillabackport.json"
-hash = "8ba29d62a1172d9268b27f14847f4f0f67c03c1d4d87fea047b5a15ffb63ffeb"
+hash = "eef27dcb2ab5732018816bc3c28d0e2ada8d18feb9719a6117d1b83b40171357"
 
 [[files]]
 file = "config/reliable_remover/another_furniture.json"
@@ -775,6 +775,10 @@ hash = "2e42f4199379f50de90c55924c68d1d0f4a89e1cced735d97bd784b91653bf89"
 [[files]]
 file = "mods/NoCoords-1.2.jar"
 hash = "28837b834d7b86862720d63a20d968b5d9255f221df829087399010c07fcff38"
+
+[[files]]
+file = "mods/Pehkui-3.8.3-lobo+1.14.4-1.21.jar"
+hash = "6a57ec76093f4da550f936e6d3b0bf33f8ca805a9d515ebdc0c35a9f53ab3bd5"
 
 [[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
@@ -1634,11 +1638,6 @@ hash = "0f6d2249e7dac477e4dfffbcdbc669d09a1827943c87c253ad3cb716d87425ea"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
-metafile = true
-
-[[files]]
 file = "mods/pigs-have-litters-1.1.1+1.21.1-metadatatweaked.jar"
 hash = "773bdcb7c5e633c862d2b5d183e7be0f7765945a8056bb3e4a17a7111c2f8ff6"
 
@@ -1714,12 +1713,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "70ca5acc66b4b95111f2cc2eebca393f02c6f81d62c03f9af7e654fb6438a3d7"
+hash = "e2f68246fd3bba3a4d715c5082e3ea6819736786e4d2670edf60025cc874f73a"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "22de696a9df1ae0e9ce6ae2cf87f4e37737b217c8152a0a3610ed0060108a768"
+hash = "8c8eee0cd3ca2b1113aed5286b139acd1b6008ea34f0fcaa2166d9bd150657eb"
 metafile = true
 
 [[files]]
@@ -1769,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutter-up.pw.toml"
-hash = "d3c436bc4083952d77b2d21138ce013ad80bff40556f4f5a3cf6954d9d2d2835"
+hash = "dea6c1b157064f422bf8143ef99ed7b580a844a4dd6022b0634271e46f641328"
 metafile = true
 
 [[files]]
@@ -2175,7 +2174,7 @@ hash = "fc0b0cdee81758b7deba9aa05033f7d3ad07aa974e3245d84180d90b750b9b44"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/chicken_pot_pie.json"
-hash = "e82f0ff37545ec334693c9270177970b7491ae95f30dfff7ce00018d866baefb"
+hash = "bdb606e466ad2fe1800211f8b5f6799b0e65e9db744a48631b6f21079982ee2b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/chocolate_love_apple.json"
@@ -5306,5 +5305,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.1.txt"
+file = "v1.0.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

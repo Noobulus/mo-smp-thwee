@@ -4,6 +4,7 @@
       "action": "remove",
       "filter": {
         "id": [
+          "minecraft:dried_ghast",
           "minecraft:end_stone_bricks",
           "minecraft:lead",
           "minecraft:packed_mud",

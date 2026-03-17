@@ -1,13 +1,13 @@
 name = "Shutter Up!"
-filename = "shutterup-fabric-1.21.1-1.0.5.jar"
+filename = "shutterup-fabric-1.21.1-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xaH4PQRj/versions/A64KhKl4/shutterup-fabric-1.21.1-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/xaH4PQRj/versions/NOcRf7KU/shutterup-fabric-1.21.1-1.0.6.jar"
 hash-format = "sha512"
-hash = "719101ba69c2f665f1d991874c02815958d883b1d9c8fb6b2525a4811cc11f043be06bdbc04d5b82cefe9bb11daddf8bdbb6161aeb2a072ae81b30273507bd22"
+hash = "5e67640b34773dfc3c1eff7c5f7bd69c8d0df7aa8a8eecf9babdcb9c0180c0da8bdfe393d6e2f00780287b2d0e8e0c52c6554d06b5c8ecd9ffc5bd4a059f07de"
 
 [update]
 [update.modrinth]
 mod-id = "xaH4PQRj"
-version = "A64KhKl4"
+version = "NOcRf7KU"
