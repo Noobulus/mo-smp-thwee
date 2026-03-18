@@ -17,6 +17,10 @@
 	  "required": false
 	},
 	{
+	  "id": "braziliandelight:cheese_bread_dough",
+	  "required": false
+	},
+	{
 	  "id": "braziliandelight:cassava_root",
 	  "required": false
 	},

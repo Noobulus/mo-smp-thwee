@@ -394,7 +394,7 @@ hash = "09c8f3825c5d00ccc71b38be0eb461cacc55580b46ae0001cc6f4ba9c2751868"
 
 [[files]]
 file = "config/reliable_recipes/vanillabackport.json"
-hash = "1fc4fb8b3201ae77f5f302ba91ac3f678f0a79e017b50035591156c04b162fec"
+hash = "8d1f256915e990352becb8ac401f1aed1139329301e0e6a31c942c27866808fb"
 
 [[files]]
 file = "config/reliable_remover/another_furniture.json"
@@ -2530,7 +2530,7 @@ hash = "ae2d65ee14cca2a62d390bff711d48be0a9856274a6e319ae2f29ae79120a4d5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enchancement/tags/item/cannot_automatically_consume.json"
-hash = "cbde60af91e5abe0de91ebd75a8a1c48e3e085c98338587241bdffc0c970fc91"
+hash = "2c0825b102cb0fd8abaffd4051f1940236b89c47b117a845173897734ab40c22"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/enderscape/recipe/bulb_lantern.json"
@@ -3082,7 +3082,7 @@ hash = "7ee87adca475a528be5f48200e916c89a8e9bfeeb86e40b46927fc534f7392d8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/pumpkin_pie.json"
-hash = "710f6e7a3bc4200507bc923db00eb7ed155ba6f0fc82c863589c5883842a6c83"
+hash = "24b1c185d2f3380685c5b47cc74939100151e78f18a13a10ed9fcb14d1666c1a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/purpur_pillar.json"
@@ -3301,11 +3301,11 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdeligh
 hash = "e5804c5ed8b240ed55131ca4366dea7b180f0e2984d296dc19835fa1c99974ca"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/nears/loot_table/cinder_grain.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/nears/loot_table/blocks/cinder_grain.json"
 hash = "e05aec82387b7aeae1c24cbbec6d7b60c2a5bdab3552ed059d24df8dcf0e7dc8"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/nears/loot_table/cinder_grass.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/nears/loot_table/blocks/cinder_grass.json"
 hash = "d5b32ee3bd9f4672ee48e4a45534d3156c6afb2110626bac165a0c00cc77df48"
 
 [[files]]
@@ -5357,5 +5357,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.0.txt"
+file = "v1.1.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
