@@ -5,7 +5,8 @@
       "filter": {
         "id": [
           "vanillabackport:cake",
-          "vanillabackport:lodestone"
+          "vanillabackport:lodestone",
+          "vanillabackport:lead"
         ]
       }
     }
