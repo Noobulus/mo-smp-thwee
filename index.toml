@@ -1573,9 +1573,8 @@ hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
-file = "mods/nether-additions.pw.toml"
-hash = "41f6f5c3259bb84e02d558e4069bb1498ee9dc912b380865e521c869fd082497"
-metafile = true
+file = "mods/nether_additions-1.1.4-maddyfix.jar"
+hash = "915783ba20e2a7c414e9a15f0e5f40858b13eafe3451cd0b78477eaec183e52b"
 
 [[files]]
 file = "mods/nitrogen_rbn.pw.toml"
@@ -5357,5 +5356,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.1.txt"
+file = "v1.1.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
