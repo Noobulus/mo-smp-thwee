@@ -1,0 +1,49 @@
+{
+  "replace": true,
+  "anvil_cost": 8,
+  "description": {
+	"translate": "enchantment.enchancement.assimilation"
+  },
+  "exclusive_set": "#origins_playtest_tweaks:exclusive_set/helmet_mouth",
+  "effects": {
+	"enchancement:modify_consumption_time": {
+	  "type": "minecraft:multiply",
+	  "factor": {
+		"type": "minecraft:linear",
+		"base": 0.875,
+		"per_level_above_first": -0.125
+	  }
+	},
+	"minecraft:tick": [
+	  {
+		"effect": {
+		  "type": "enchancement:automate_eating",
+		  "hunger_range": {
+			"max": 14
+		  }
+		},
+		"requirements": {
+		  "condition": "minecraft:entity_properties",
+		  "entity": "this",
+		  "predicate": {
+			"periodic_tick": 20
+		  }
+		}
+	  }
+	]
+  },
+  "max_cost": {
+	"base": 25,
+	"per_level_above_first": 5
+  },
+  "max_level": 1,
+  "min_cost": {
+	"base": 20,
+	"per_level_above_first": 5
+  },
+  "slots": [
+	"head"
+  ],
+  "supported_items": "#minecraft:enchantable/head_armor",
+  "weight": 5
+}

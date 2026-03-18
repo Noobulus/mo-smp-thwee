@@ -1,9 +1,10 @@
 {
+	"replace": true,
 	"type": "minecraft:crafting_shaped",
 	"category": "misc",
 	"key": {
 		"#": {
-			"tag": "#c:eggs"
+			"tag": "c:eggs"
 		},
 		"O": {
 			"item": "farmersdelight:pie_crust"
@@ -23,6 +24,5 @@
 	"result": {
 		"count": 1,
 		"id": "minecraft:pumpkin_pie"
-	},
-	"show_notification": true
+	}
 }

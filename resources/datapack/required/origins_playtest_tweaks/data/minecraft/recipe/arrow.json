@@ -10,7 +10,15 @@
       "item": "minecraft:stick"
     },
     "Y": {
-      "item": "minecraft:feather"
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:feather"
+        },
+        {
+          "item": "minecraft:string"
+        }
+      ]
     }
   },
   "pattern": [

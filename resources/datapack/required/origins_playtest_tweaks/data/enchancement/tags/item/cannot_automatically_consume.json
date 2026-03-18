@@ -1,0 +1,128 @@
+{
+  "values": [
+	{
+	  "id": "pearfection:copper_lampear",
+	  "required": false
+	},
+	{
+	  "id": "enderscape:drift_jelly_bottle",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:raw_coxinha",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:raw_cassava_fritters",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:cheese_bread_dough",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:cassava_root",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:lemon",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:caiprinha",
+	  "required": false
+	},
+	{
+	  "id": "braziliandelight:coconut_milk",
+	  "required": false
+	},
+	{
+	  "id": "nether_additions:pyrolithid",
+	  "required": false
+	},
+	{
+	  "id": "nether_additions:ectocarp",
+	  "required": false
+	},
+	{
+	  "id": "nmynethersdelight:ghast_dough",
+	  "required": false
+	},
+	{
+	  "id": "farmersdelight:milk_bottle",
+	  "required": false
+	},
+	{
+	  "id": "farmersdelight:hot_cocoa",
+	  "required": false
+	},
+	{
+	  "id": "farmersdelight:apple_cider",
+	  "required": false
+	},
+	{
+	  "id": "farmersdelight:melon_juice",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:beer",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:vodka",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:mead",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:rice_wine",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:pale_jane",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:egg_grog",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:glittering_grenadine",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:saccharine_rum",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:salty_folly",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:bloody_mary",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:red_rum",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:strongroot_ale",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:steel_toe_stout",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:dread_nog",
+	  "required": false
+	},
+	{
+	  "id": "brewinandchewin:withering_dross",
+	  "required": false
+	}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "replace": true,
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.minecraft.aqua_affinity"
+  },
+  "exclusive_set": "#origins_playtest_tweaks:exclusive_set/helmet_mouth",
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 4.0,
+          "per_level_above_first": 4.0
+        },
+        "attribute": "minecraft:player.submerged_mining_speed",
+        "id": "minecraft:enchantment.aqua_affinity",
+        "operation": "add_multiplied_total"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 20,
+    "per_level_above_first": 5
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 5
+  },
+  "slots": [
+    "head"
+  ],
+  "supported_items": "#minecraft:enchantable/head_armor",
+  "weight": 2
+}
