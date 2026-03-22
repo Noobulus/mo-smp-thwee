@@ -2714,11 +2714,11 @@ hash = "513066c36ff86db003a455b654f5fa1e73ea846140fba13bff70ef42073cf221"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/farmersdelight/wheat_dough.json"
-hash = "d05fb32d1268d02e81e843f030c315c2aace9f6f2b5493f8c37002987ae2ad2c"
+hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/minecraft/rotten_flesh.json"
-hash = "d05fb32d1268d02e81e843f030c315c2aace9f6f2b5493f8c37002987ae2ad2c"
+hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/heartstone/recipe/heartstone.json"
