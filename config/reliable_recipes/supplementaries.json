@@ -11,7 +11,8 @@
           "supplementaries:sack_2",
           "supplementaries:pancake",
           "supplementaries:unenchanted_golden_apple",
-          "supplementaries:dispenser_minecart_quark"
+          "supplementaries:dispenser_minecart_quark",
+          "supplementaries:speaker_block"
         ]
       }
     }

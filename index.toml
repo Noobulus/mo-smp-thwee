@@ -190,7 +190,7 @@ hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+hash = "6bedac8e481d8164d5039cdb0cd35ac7dcbc3d243f727218dc64506926833d58"
 
 [[files]]
 file = "config/farmersdelight-client.json"
@@ -207,6 +207,10 @@ hash = "c7afd3747ad6aa19ea226bbfa51471a9315572b3cd323cb4a25ad7bcb8c6774b"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/fishermens_trap-common.json5"
+hash = "712b1d7b8be8ad5a0155355e54556c7b652de98165bf4ae85e867d1065732cca"
 
 [[files]]
 file = "config/fixed-levels.json5"
@@ -357,6 +361,10 @@ file = "config/reliable_recipes/farmersdelight.json"
 hash = "c5682ff93a38f595e103ad03c37a3aa296ad919a84837ec3a7537e5717d3b6ca"
 
 [[files]]
+file = "config/reliable_recipes/fishermens_trap.json"
+hash = "f42408455e58d200b4ae18e5308baa36efedaab257ab091111e0c2788df7ec89"
+
+[[files]]
 file = "config/reliable_recipes/hopper_gadgetry.json"
 hash = "3dadfab4909d38f21f95b4cd07b15073e0ca65985164826ea6d343c45e334c00"
 
@@ -394,7 +402,7 @@ hash = "d65de7e70e211b6e3d7368ee5a4babce40c14687afab2af7820c4546489cde9d"
 
 [[files]]
 file = "config/reliable_recipes/supplementaries.json"
-hash = "09c8f3825c5d00ccc71b38be0eb461cacc55580b46ae0001cc6f4ba9c2751868"
+hash = "b6beb0275fa676ae549dbda6d9dbf67c3a3cfce246ebb97dba69614d62155d5a"
 
 [[files]]
 file = "config/reliable_recipes/vanillabackport.json"
@@ -514,7 +522,7 @@ hash = "ab15867041d1ab28b73bcb4a660f44349daf89bb25a3423edfb411e153701ddd"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "38408c0a6ea1a547f9aaf82d708dbed53e9c336e3d87b57505a31a1ae8b63da8"
+hash = "f25dbac2156fc231fc37d8645d97d9e3a4ef9a982f631db9269e679201d07766"
 
 [[files]]
 file = "config/suppsquared-common.json"
@@ -1544,11 +1552,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
-metafile = true
-
-[[files]]
-file = "mods/modulation.pw.toml"
-hash = "40db345cef35c1bef4bbf56b1630dbcc9f9924b1a018dd875956a35f7500ea53"
 metafile = true
 
 [[files]]
@@ -2692,6 +2695,30 @@ hash = "3b4a7c3d2188e9d2999da5d8829416a7b1ad473a62f9386cf5e435f7b3634bd3"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough_from_egg.json"
 hash = "0d9a814b685b7dd5b4ba84a9cb453a66fd7ced1548afd831b779283a55fc6a2f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_tables/gameplay/fishtrap_fishing/farmersdelight/wheat_dough.json"
+hash = "f2d7c73d1ca5105bb69659a0c54b0b4c52d379962d791c077f2fa81aad0bdd13"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_tables/gameplay/fishtrap_fishing/minecraft/rotten_flesh.json"
+hash = "6e8620b9de741f051956439f7ff7f6bf4c2ca6b76bb68d5c1cb3a23e433030a8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/recipe/fishtrap_farmersdelight.json"
+hash = "e90da3e1aa075462f32af74a31bffaf5d1c536ac4e8658d0b0ccacf9b05f59f4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/fish_baits.json"
+hash = "513066c36ff86db003a455b654f5fa1e73ea846140fba13bff70ef42073cf221"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/farmersdelight/wheat_dough.json"
+hash = "d05fb32d1268d02e81e843f030c315c2aace9f6f2b5493f8c37002987ae2ad2c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/minecraft/rotten_flesh.json"
+hash = "d05fb32d1268d02e81e843f030c315c2aace9f6f2b5493f8c37002987ae2ad2c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/heartstone/recipe/heartstone.json"
@@ -4063,11 +4090,11 @@ hash = "f848a4d9b7ea5dfcccd193a093b317c13d5fdad19c1d738ab15dd95e02f4fce1"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/netherite_ingot_from_blasting.json"
-hash = "0edded1b3ac83348bf835fb7b3c17f7bc1b89f81e7212e9f77b4cdd33e1924a3"
+hash = "10d9188de9d851f95f865af8764ec4cd5423f399dc025cc4dc5cfdb3257fbac2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/netherite_ingot_from_smelting.json"
-hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
+hash = "6ccafb2cd51d92a4605a26d39528b7744480607036e2cb51aeaf16313a2d8a6e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/oxide/cement_block_slab.json"
@@ -4156,6 +4183,10 @@ hash = "c01c4a011a195013a524dcb65d2c38435d55b8e58fdec16579a3cfa4cb493b45"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/soul_soil.json"
 hash = "b3c717e633af72232eb62905cdfb158c7d28751de933a6bd8c80005ab2326182"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/speaker_block.json"
+hash = "4530d4c0e0bc888287d8fdb1282d72d8d7bd7c5f7c875b63e932f329bcbdbceb"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/spool_to_string.json"
@@ -5370,5 +5401,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.3.txt"
+file = "v1.1.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

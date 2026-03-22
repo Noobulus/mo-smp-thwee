@@ -1,0 +1,28 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "farmersdelight:canvas"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "N": {
+      "item": "farmersdelight:safety_net"
+    }
+  },
+  "pattern": [
+    "XIX",
+    "#N#",
+    "X#X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fishermens_trap:fishtrap"
+  }
+}

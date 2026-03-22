@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:rotten_flesh",
+    {"id":"farmersdelight:wheat_dough","required":false}
+  ]
+}
