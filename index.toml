@@ -102,7 +102,7 @@ hash = "df8c22d711027f00999dbdbdf82524705679b643a4acd5f6919e036145f3243f"
 
 [[files]]
 file = "config/connectiblechains.toml"
-hash = "60c4badd17f0c134d037a18f14ac152bb4530a76bf0baa8e85b6d7476ccff063"
+hash = "11a9b8dd86678034e02bb2d45b7990c5177cab1bcf5eee5ed0e823f7cffab84d"
 
 [[files]]
 file = "config/cpm.json"
@@ -311,6 +311,10 @@ hash = "4a569d11fb17c117b637cc729add99e2a74f0210be0cecfb802c190a213ee251"
 [[files]]
 file = "config/pigs_have_litters.json5"
 hash = "e5b7adb2bbaab8fc7ef0b9534d43c85cd99042d173a935cead487998bba327bb"
+
+[[files]]
+file = "config/player-locator-plus.toml"
+hash = "cc5163018e96c4b98b2dd1562fc40e6f9dff35d65895579de98df56f54b4b9dc"
 
 [[files]]
 file = "config/porting_lib_config.toml"
@@ -541,6 +545,10 @@ file = "config/toastbegone.toml"
 hash = "9bba528ef54ce3f8eaa9aefb6c7a010bf7762d594440a08bf36f4877060721a8"
 
 [[files]]
+file = "config/transmog.json"
+hash = "32dc3ac1fa365cdb995745924a850b8f36c11621e092d305ded2cb780dad7f0f"
+
+[[files]]
 file = "config/unloaded-activity.json"
 hash = "855e335b591262fb4e5f1d2b4579c621b36d24fa842f00e7ba400026cb37ca08"
 
@@ -741,10 +749,6 @@ file = "config/yosbr/config/supplementaries-client.json"
 hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
 
 [[files]]
-file = "config/yosbr/config/transmog.json"
-hash = "67d1027e2398f84b22794425893a57512d6497b9268c591cbc80dca1f5a24e16"
-
-[[files]]
 file = "config/yosbr/config/vanillabackport-client.toml"
 hash = "c0380ff782f6bf1ada8629d54b009b6e7a0a6c8a6086778793d276106c930fa8"
 
@@ -762,7 +766,7 @@ hash = "991d7d566981ad6c2e21d196d25c807a98a2d537dc5a49d5849ea63b44ea6572"
 
 [[files]]
 file = "config/zipline.json"
-hash = "82858499b370a7a382d33761bc176adb45b36a2ee0221a05645f6ae0497e5a42"
+hash = "7052e92a13d1e10c5689b0106dc7fcfb4f87860a14a41d992ded1c4824a1e668"
 
 [[files]]
 file = "icon.png"
@@ -1276,6 +1280,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/fishermens-trap.pw.toml"
+hash = "fdf21cbe7e3b49f65ab476b355773f3d629860cee070e86544dd34e978ec3047"
+metafile = true
+
+[[files]]
 file = "mods/fixed-levels.pw.toml"
 hash = "019c40f64fdd60893a3bb19f0b6443fbd5b56cb2fa9213b0c9159c071cfa6fc7"
 metafile = true
@@ -1535,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/modulation.pw.toml"
+hash = "40db345cef35c1bef4bbf56b1630dbcc9f9924b1a018dd875956a35f7500ea53"
 metafile = true
 
 [[files]]
@@ -5356,5 +5370,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.2.txt"
+file = "v1.1.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
