@@ -1,0 +1,26 @@
+{
+  "targets": "braziliandelight:guarana_juice",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 300,
+            "id": "minecraft:speed"
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 300,
+            "id": "minecraft:haste"
+          }
+        }
+      ]
+	}
+  }
+}

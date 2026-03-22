@@ -71,6 +71,11 @@
     {
         "namespace": "farmersdelight",
         "path": ".*integration/create.*.json"
-    }]
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/wheat_dough_from_water.json"
+    }
+    ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "braziliandelight:cassava_root"
+  },
+  "result": {
+    "id": "braziliandelight:fried_cassava_with_butter"
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

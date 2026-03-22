@@ -261,8 +261,8 @@
     },
     "iron_gate": {
       // Adds dragon banner pattern made from dragon head
-      "enabled": false,
-      "double_opening": false,
+      "enabled": true,
+      "double_opening": true,
       "door-like_gates": false
     },
     "gold_bars": {

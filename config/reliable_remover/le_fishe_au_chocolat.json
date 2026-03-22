@@ -1,0 +1,12 @@
+[
+  {
+    "action": "remove",
+    "mod": ["le_fishe_au_chocolat"],
+    "items": [
+      "le_fishe_au_chocolat:le_fishe_au_chocolat",
+      "le_fishe_au_chocolat:le_fishe_au_chocolat_grille",
+      "le_fishe_au_chocolat:le_saumon_au_chocolat",
+      "le_fishe_au_chocolat:le_saumon_au_chocolat_grille"
+    ]
+  }
+]

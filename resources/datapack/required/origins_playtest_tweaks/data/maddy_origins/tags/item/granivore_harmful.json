@@ -11,6 +11,26 @@
         {
             "id": "braziliandelight:brigadeiro_ball",
             "required": false
+        },
+        {
+            "id": "le_fishe_au_chocolat:le_fishe_au_chocolat",
+            "required": false
+        },
+        {
+            "id": "le_fishe_au_chocolat:le_fishe_au_chocolat_grille",
+            "required": false
+        },
+        {
+            "id": "le_fishe_au_chocolat:le_saumon_au_chocolat",
+            "required": false
+        },
+        {
+            "id": "le_fishe_au_chocolat:le_saumon_au_chocolat_grille",
+            "required": false
+        },
+        {
+            "id": "le_fishe_au_chocolat:le_fishe_exotique_au_chocolat",
+            "required": false
         }
     ]
 }
