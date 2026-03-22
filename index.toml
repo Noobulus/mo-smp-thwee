@@ -3697,6 +3697,18 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/fried_cassava.json"
+hash = "9089b97336fbacb8fc3bbb95dfc0583d7707059112aa39554131f2b463c7edb4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/fried_cassava_from_campfire_cooking.json"
+hash = "1e9c63d0a82d60866fe086a44c3bca1ad7dff776fdb20e1db5c1c88b6fef18aa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/fried_cassava_from_smoking.json"
+hash = "73c1b77057dc5af878917659be263bd6f8b43434d601c5f65b6256559f4c69f6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brazil/salpicao.json"
 hash = "784223f304cf033e3c09cfd9a3487508fecc63d9b9c527c47a25e8133d37a699"
 
@@ -4730,7 +4742,7 @@ hash = "352438cd46ca8959f4707d518c3f66bb28dfb950eab59d2b3c3ac5c6fee8e3a3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "23318f353ff8470bdc4320ab46a99c5ecb02fc1d4de00e529ba69cb07b9f4995"
+hash = "d959ff90deeb5da562a4fd08b54131eef00e29e88482982909b5009bba528486"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -5437,5 +5449,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.6.txt"
+file = "v1.1.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

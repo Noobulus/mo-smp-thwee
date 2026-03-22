@@ -74,7 +74,7 @@
     },
     {
         "namespace": "farmersdelight",
-        "path": "recipe/wheat_dough_from_water"
+        "path": "recipe/wheat_dough_from_water.json"
     }
     ]
   }
