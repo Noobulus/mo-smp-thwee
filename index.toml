@@ -445,6 +445,10 @@ file = "config/reliable_remover/kaleidoscopic.json"
 hash = "4211c2b4ae086a0d5e6d756c04decb58dfac95e476150eb6e762a1a3dddb169f"
 
 [[files]]
+file = "config/reliable_remover/le_fishe_au_chocolat.json"
+hash = "f737d3c4bdf7b0dda98f5b56dd86231df78f8d8d7118d7ecc5faa644a4d6e54a"
+
+[[files]]
 file = "config/reliable_remover/miku_plushies.json"
 hash = "4ec2e8c27f8b3278b07b8436a2480bf6fbcd7ac2efed316727bea60c086563f9"
 
@@ -2169,8 +2173,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/be_a_doll/tags/
 hash = "2668c6717bacc15b37144733d7da2badc758811a58ebdf4f59abb595aa8b4b17"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/loot_table/blocks/budding_coconut_palm_leaves.json"
+hash = "2386800d5544bc242b49e0ecf3b6f11f2d7ad5794e48a7067ac93b55818b907d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/loot_table/blocks/budding_lemon_leaves.json"
 hash = "476d0ac2963555cdb97edc1ce6dae507da6379ff791ecedefbf61ec10a13beb7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/loot_table/blocks/coconut_palm_leaves.json"
+hash = "b72e4ec9ecf848017ec63e01df6b27fa64e744f598a1732a311ff74b8730d6ee"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/loot_table/blocks/wild_peanuts.json"
+hash = "6bbc189307aff5b7e54269b98068b6e574d54a77d516e1c7eb83a289a50bc3b8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/braziliandelight/recipe/beijinho.json"
@@ -2709,15 +2725,15 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap
 hash = "e90da3e1aa075462f32af74a31bffaf5d1c536ac4e8658d0b0ccacf9b05f59f4"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/fish_baits.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/item/fish_baits.json"
 hash = "513066c36ff86db003a455b654f5fa1e73ea846140fba13bff70ef42073cf221"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/farmersdelight/wheat_dough.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/item/jei_display_results/farmersdelight/wheat_dough.json"
 hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/items/jei_display_results/minecraft/rotten_flesh.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/item/jei_display_results/minecraft/rotten_flesh.json"
 hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
 
 [[files]]
@@ -2790,7 +2806,7 @@ hash = "96139a3929900f0279d30d9a18ee734124b17d56288daea2887a94e3bb11287d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/aquatic_taste_preferred.json"
-hash = "309bdfaf53141cc02a9dfff34ccdd958487d0ea2cbc95bf3091d0e3587150db5"
+hash = "fbf254b42803c0b7ed42cc793cd22814844b915bc79c7c8e1a74228fc8721710"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/berries.json"
@@ -2806,7 +2822,7 @@ hash = "056c367e5ee8944b3d2207a9a1da8bd8bf87dbb5844b113942948899f4a272bc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/granivore_harmful.json"
-hash = "c6d9e0f4add1e2088fb09634ee0cef0566c6cfe735db80e46eaaafcaaa0b9f33"
+hash = "d60ff8e15077a080b360a968e7a21c9906e949c082a0de19db3230ec732fc058"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_origins/tags/item/granivore_preferred.json"
@@ -3483,6 +3499,14 @@ hash = "998274d298f64ca74a4cf24b97e5f42bd87fee238d926540274bd83ee6fff1c9"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/fried_fish_with_acai.json"
 hash = "14b298ad0b50ad5bbe6d73f7a447d031eb37d085fb74017d0f8dfd03c7b944b5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/guarana_juice.json"
+hash = "9420d2e809a6def9a06ee574835123f5050b76e1817231fafd9550f83ad86a8f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/guarana_soda.json"
+hash = "a97072cdcda48e81d75c141eb2c6a60490330f0cdd21f9de7361adc7fbac9680"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/lemon.json"
@@ -4581,6 +4605,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "dec41a953038ef8cc331d00f2b85135bc3e89e8e235c1bffa1fa6ebf8966b924"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/iron_gate.json"
+hash = "2f6a6447a41b2de0f17687599ea1afb3fb6d99f536b0d0b382b9683bdee48b18"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/lumisene_bottle.json"
 hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
 
@@ -4694,7 +4722,7 @@ hash = "352438cd46ca8959f4707d518c3f66bb28dfb950eab59d2b3c3ac5c6fee8e3a3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "19331f9558f4b7db804e04faac6ef8efa8b3af30b1c32652629fd72289f64ce4"
+hash = "23318f353ff8470bdc4320ab46a99c5ecb02fc1d4de00e529ba69cb07b9f4995"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -5401,5 +5429,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.4.txt"
+file = "v1.1.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
