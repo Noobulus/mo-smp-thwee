@@ -37,6 +37,10 @@ file = "config/axesareweapons.json5"
 hash = "d504a8f3a482b6c0dd3dbc5ce93e25d0f1f0728fc03f359c2c2e4733ab782c59"
 
 [[files]]
+file = "config/be_a_doll.toml"
+hash = "502762d91c604006a13c5601854a1ebd57d9a0bcdbe755adb4a3a71ce1f09754"
+
+[[files]]
 file = "config/better-snow-coverage.json5"
 hash = "d7cf0f0fcad1cbe0ed2d0401ec8ddbab23171e45243804738f88b9e90ff7a255"
 
@@ -2713,11 +2717,11 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/
 hash = "0d9a814b685b7dd5b4ba84a9cb453a66fd7ced1548afd831b779283a55fc6a2f"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_tables/gameplay/fishtrap_fishing/farmersdelight/wheat_dough.json"
-hash = "f2d7c73d1ca5105bb69659a0c54b0b4c52d379962d791c077f2fa81aad0bdd13"
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_table/gameplay/fishtrap_fishing/farmersdelight/wheat_dough.json"
+hash = "5bd65b5d4b2404e62935f7fbac3246436c8b8ddf0806fbafc529af2eb27357a8"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_tables/gameplay/fishtrap_fishing/minecraft/rotten_flesh.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/loot_table/gameplay/fishtrap_fishing/minecraft/rotten_flesh.json"
 hash = "6e8620b9de741f051956439f7ff7f6bf4c2ca6b76bb68d5c1cb3a23e433030a8"
 
 [[files]]
@@ -2735,6 +2739,10 @@ hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/item/jei_display_results/minecraft/rotten_flesh.json"
 hash = "acc7f2f0a8646e59dd5cf605d0489856759934376f99365d4f39c8d6d55c80cd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/fishermens_trap/tags/worldgen/biome/can_fishtrap_fish.json"
+hash = "62faf257e12e0f27d034219d05ac2416e40722f08b08fc073c4d7500a8f866b0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/heartstone/recipe/heartstone.json"
@@ -3502,11 +3510,11 @@ hash = "14b298ad0b50ad5bbe6d73f7a447d031eb37d085fb74017d0f8dfd03c7b944b5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/guarana_juice.json"
-hash = "9420d2e809a6def9a06ee574835123f5050b76e1817231fafd9550f83ad86a8f"
+hash = "fa1a946b3dcab4c2b9bd9a4d739cfb3ebc77d002f12e42baf03f87e68bc23751"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/guarana_soda.json"
-hash = "a97072cdcda48e81d75c141eb2c6a60490330f0cdd21f9de7361adc7fbac9680"
+hash = "192e4090ace30d06a17dd3b2afe9953d4032e339dfce4ae619511eb51c4fab31"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/brazil/lemon.json"
@@ -5429,5 +5437,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.5.txt"
+file = "v1.1.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
